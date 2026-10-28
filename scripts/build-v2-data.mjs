@@ -1,0 +1,20 @@
+import {menuStatistics} from '../dist/catalog-stats.js';
+import {emptyMenuMarkup} from '../dist/draw-empty.js';
+import {drawMarkup} from '../dist/draw-view.js';
+import {createState} from '../dist/personal-state.js';
+import {defaultFilters} from '../dist/menu-query.js';
+import fs from 'node:fs';import {isVerified,availability} from '../dist/meal-engine.js';
+const root=new URL('../',import.meta.url),research=JSON.parse(fs.readFileSync(new URL('review/evidence-research.json',root),'utf8'));
+const sources=new Map(research.sources.map(s=>[s.id,s]));
+const venues=research.restaurants.map(v=>{const s=sources.get(v.sourceIds.at(-1));return {area:v.area,name:v.names.join(' / '),description:v.summary,location:v.location,filterName:v.area+'餐厅',checkedAt:research.checkedAt,source:s.url,sourceTitle:s.title};});
+const menu=JSON.parse(fs.readFileSync(new URL('dist/data/menu.json',root),'utf8')),now=new Date(research.checkedAt+'T12:00:00+08:00'),counts=Object.fromEntries(['verified','pending','review','disabled','conflict'].map(s=>[s,menu.filter(d=>availability(d,now)===s).length]));
+const audit={checkedAt:research.checkedAt,summary:`餐厅位置资料与菜品灵感分开。${menu.length}条记录作为通用选餐灵感发布；供应核实状态仍如实保留，不代表实时在售。`,currentVerifiedDishCount:counts.verified,counts,statistics:menuStatistics(menu,now),claimsMenuExpansion:false};
+fs.writeFileSync(new URL('dist/venues.js',root),'// Verified restaurant identities; not a claim of current dish availability.\nexport const venues='+JSON.stringify(venues,null,2)+';\nexport const locationClaims='+JSON.stringify(research.locationClaims??[],null,2)+';\nexport const audit='+JSON.stringify(audit,null,2)+';\n');
+fs.writeFileSync(new URL('dist/data/evidence-audit.json',root),JSON.stringify({audit,sources:research.sources,legacyAudit:research.existingAudit??[]},null,2));
+console.log(`Built ${venues.length} restaurant areas; ${audit.currentVerifiedDishCount} verified dish records.`);
+
+const htmlPath=new URL('dist/index.html',root);let html=fs.readFileSync(htmlPath,'utf8');
+const first=menu.find(d=>d.id==='dish-1b135c928808'),filters={...defaultFilters(),meal:'lunch'},initial=drawMarkup({dish:first,available:1,total:menu.length,groupCount:new Set(menu.map(d=>d.dishGroupId)).size,filters,state:createState(),drawMode:1,busy:false,selection:[first.id],reasons:{},dishById:new Map(menu.map(d=>[d.id,d]))}).html;
+html=html.replace(/<!--initial-draw-start-->[\s\S]*?<!--initial-draw-end-->/,'<!--initial-draw-start-->'+initial+'<!--initial-draw-end-->').replace('<body>','<body data-view="draw">').replace('下一餐，吃点合心意的。</h1>','今天，想吃点什么？</h1>').replace('<section hidden id="filterBar"','<section id="filterBar"').replace('<div id="filterSummary" class="filter-summary"></div>','<div id="filterSummary" class="filter-summary"><span>选餐灵感 · 按喜欢的挑一餐</span></div>');
+html=html.replace(/<link rel="preload" as="image"[^>]*>/g,'').replace('<link rel="icon"',`<link rel="preload" as="image" href="${first.image}" fetchpriority="high"><link rel="icon"`);
+fs.writeFileSync(htmlPath,html.replace(/[ \t]+$/gm,''));

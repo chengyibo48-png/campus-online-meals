@@ -1,0 +1,37 @@
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';
+import {dishes,defaultFilters,getCandidates,isVerified,isRecommendable,recommend,generatePlan,dayKey} from '../dist/meal-engine.js';
+import {isPublished} from '../dist/inspiration-model.js';
+import {createState,normalizeState,loadState,reduceState,parseImport,STORAGE_KEY,PREVIOUS_KEY,LEGACY_KEY} from '../dist/personal-state.js';
+import {readRoute,routeUrl} from '../dist/router.js';import {inspirationDetailMarkup} from '../dist/dish-detail.js';
+import {menuStatistics} from '../dist/catalog-stats.js';import {auditMenu} from '../scripts/lib/menu-audit.mjs';
+const now=new Date('2026-10-22T12:00:00+08:00'),f={...defaultFilters(now),meal:'lunch'},base=()=>createState(now),main=dishes.find(d=>d.name==='油泼面'),side=dishes.find(d=>d.name==='西红柿炒鸡蛋'),dessert=dishes.find(d=>d.name==='双皮奶');
+test('160 added names remain distinct; 260 records, 252 groups, original IDs and image IDs preserved',()=>{
+ const source=JSON.parse(fs.readFileSync(new URL('../dist/data/menu.json',import.meta.url),'utf8')),old=source.filter(d=>d.legacy),fresh=source.filter(d=>!d.legacy),oldNames=new Set(old.map(d=>d.canonicalName));assert.equal(old.length,100);assert.equal(fresh.length,160);assert.equal(new Set(fresh.map(d=>d.canonicalName )).size,160);assert(fresh.every(d=>!oldNames.has(d.canonicalName)));assert.equal(new Set(source.map(d=>d.dishGroupId )).size,252);assert(source.every(d=>isPublished(d)&&!isVerified(d,now)));assert(source.every(d=>d.restaurantId===null&&d.areaId===null));for(const d of old){assert.equal(d.id,d.legacy.id);assert.equal(d.imageId,d.legacy.imageId);}for(const [current,original] of [['热干面','耀兴隆热干面'],['牛肉面','清真牛肉面'],['荤素自选餐','风华园自选菜']])assert(source.some(d=>d.name===current&&d.legacy.name===original));
+});
+test('editorial meal and taste suggestions never populate factual unknown fields',()=>{
+ assert.deepEqual(main.mealTypes,[]);assert.deepEqual(main.tastes,[]);assert.deepEqual(main.ingredients,[]);assert.equal(main.price,null);assert(isRecommendable(main,'lunch',now));assert(!isVerified(main,now));assert(getCandidates({...f,tastes:['香辣']},base(),now).some(d=>d.id===main.id));const html=inspirationDetailMarkup(main,base(),'lunch');assert(html.includes('供应未核对'));assert(html.includes('常见配方参考'));assert(html.includes('不是完整过敏原资料'));assert(main.referenceRecipe);assert.deepEqual(main.ingredients,[]);
+});
+test('side dishes and desserts can be searched and collected but cannot be decided, drawn or planned',()=>{
+ for(const d of [side,dessert]){assert.equal(getCandidates({...f,meal:null,query:d.name},base(),now).length,1);let s=reduceState(base(),{type:'favorite',dishId:d.id},now);assert(s.favorites.includes(d.id));s=reduceState(s,{type:'decide',dishId:d.id,meal:'lunch'},now);assert.equal(Object.keys(s.decisions).length,0);assert.equal(recommend({...f,query:d.name},s,{now}).dishes.length,0);assert(!inspirationDetailMarkup(d,s,'lunch').includes('data-action="decide"'));const p=generatePlan(s,{...f,query:d.name},{start:dayKey(now),now});assert(Object.values(p.slots).every(x=>!x.dishId));}
+});
+test('all-meal browse includes suggestions without inferred supply, while unknown suggested meals cannot recommend',()=>{
+ const d={...main,inspiration:{...main.inspiration,suggestedMeals:[]}};assert.equal(getCandidates({...f,meal:null},base(),now,[d]).length,1);assert.equal(getCandidates(f,base(),now,[d]).length,0);assert.equal(recommend({...f,meal:null},base(),{now,records:[d]}).dishes.length,0);assert(!inspirationDetailMarkup(d,base(),'lunch').includes('data-action="decide"'));
+});
+test('draft/archived or malformed editorial metadata is excluded independently of evidence verification',()=>{
+ for(const patch of [{status:'draft'},{status:'archived'},{suggestedMeals:['midnight']},{flavorTags:[42]},{mealRole:'unknown'}]){const d={...main,inspiration:{...main.inspiration,...patch}};assert.equal(getCandidates(f,base(),now,[d]).length,0);assert(!isRecommendable(d,'lunch',now));}const invalid={...main,inspiration:{...main.inspiration,summary:''}};assert(auditMenu([invalid],{asOf:now}).errors.some(e=>e.includes('灵感')));
+});
+test('v2 migration preserves favorites, ratings, snapshots, locked plans, and exact original bytes',()=>{
+ const old={...base(),version:2};delete old.preferences.catalogMode;old.favorites=[main.id,'unknown-old'];old.ratings[main.id]=5;old.preferences.restaurants=['柳园餐厅'];old.preferences.frequentRestaurants=['竞舸园餐厅'];old.history=[{id:'old-event',dishId:'unknown-old',date:dayKey(now),meal:'lunch',chosenAt:now.toISOString(),eatenAt:now.toISOString(),snapshot:{name:'历史名称',restaurant:'历史餐厅'}}];old.plan[dayKey(now)+':dinner']={date:dayKey(now),meal:'dinner',dishId:main.id,locked:true,notice:''};const raw=JSON.stringify(old),v1raw='{"version":1,"preserve":"original"}',mem=new Map([[PREVIOUS_KEY,raw],[LEGACY_KEY,v1raw]]),storage={getItem:k=>mem.get(k)??null,setItem:(k,v)=>mem.set(k,v)};const result=loadState(storage,now);assert(result.migrated);assert.equal(result.state.version,4);assert.deepEqual(result.state.favorites,old.favorites);assert.deepEqual(result.state.ratings,old.ratings);assert.deepEqual(result.state.history,old.history);assert.deepEqual(result.state.plan,old.plan);assert.deepEqual(result.state.preferences.restaurants,[]);assert.deepEqual(result.state.preferences.legacyRestaurantFilters,['柳园餐厅']);assert.deepEqual(result.state.preferences.legacyFrequentRestaurants,['竞舸园餐厅']);assert.equal(mem.get(PREVIOUS_KEY),raw);assert.equal(mem.get(LEGACY_KEY),v1raw);assert(mem.has(STORAGE_KEY));assert.deepEqual(loadState(storage,now).state,result.state);
+});
+test('failed v2 persistence retains original and keeps migrated content only in the session',()=>{
+ const old={...base(),version:2,favorites:[main.id]},raw=JSON.stringify(old);let writes=0;const r=loadState({getItem:k=>k===PREVIOUS_KEY?raw:null,setItem(){writes++;throw Error('quota')}},now);assert(r.readOnly);assert.equal(writes,1);assert.deepEqual(r.state.favorites,[main.id]);assert(!r.raw);
+});
+test('legacy restaurant links are explicitly reported and never silently used as supplier constraints',()=>{
+ const r=readRoute('#/draw?meal=lunch&restaurants=柳园餐厅&q=面',f);assert.deepEqual(r.filters.restaurants,[]);assert.deepEqual(r.legacyRestaurantFilters,['柳园餐厅']);assert.equal(r.filters.query,'面');assert(!routeUrl('draw',r.filters).includes('restaurants='));assert.equal(getCandidates({...f,restaurants:['柳园餐厅']},base(),now).length,0);assert(readRoute('#/menu',f).menuAllMeals);
+});
+test('personal JSON v3 round-trips and old v2 imports keep filter backup without assigning venues',()=>{
+ const s=base();s.favorites=[side.id];s.preferences.categories=['未知旧分类'];assert.deepEqual(parseImport(JSON.stringify(s),now).state,normalizeState(s,now));const old={...s,version:2,preferences:{...s.preferences,restaurants:['荷园餐厅']}};assert.deepEqual(parseImport(JSON.stringify(old),now).state.preferences.legacyRestaurantFilters,['荷园餐厅']);assert.equal(getCandidates({...f,categories:['未知旧分类']},s,now).length,0);
+});
+test('statistics label inspiration publishing separately from factual identity verification',()=>{
+ const stats=menuStatistics(dishes,now);assert.equal(stats.recordCount,260);assert.equal(stats.publishedRecordCount,260);assert.equal(stats.publishedGroupCount,252);assert.equal(stats.verifiedRecordCount,0);assert(stats.recommendableByMeal.lunch>0);assert.equal(stats.unknownFields.mealTypes,260);
+});

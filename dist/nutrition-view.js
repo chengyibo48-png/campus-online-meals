@@ -1,0 +1,12 @@
+import {escapeText as esc,icon} from './assets.js';
+import {energyLabel,ingredientFood,estimateEnergy,dietAssessment,nutritionSource} from './nutrition.js';
+export function recipeSummary(d,state={}){
+ const r=d.referenceRecipe,a=dietAssessment(d,state);
+ return `<details class="recipe-preview"><summary><span>${icon('bowl')}菜品介绍与营养参考</span><span>${esc(energyLabel(r))}${icon('arrow')}</span></summary><div class="recipe-preview-body"><p class="dish-preview-intro">${esc(d.inspiration?.description??d.inspiration?.summary??'')}</p>${d.inspiration?.choosingTip?`<p><strong>搭配建议</strong> ${esc(d.inspiration.choosingTip)}</p>`:''}<p><strong>参考配方原料</strong> ${r?.ingredients?.length?esc(r.ingredients.map(i=>i.name).slice(0,8).join('、')):'完整参考配方暂缺，可向窗口确认。'}</p><p><strong>参考份量</strong> ${esc(r?.portion??'实际份量可自行选择，不从示意图推测。')}</p>${a.notes.length?`<p class="assistant-reason">${esc(a.notes.join('；'))}。</p>`:''}<p class="small muted">${estimateEnergy(r)?'常见配方估算，非食堂实测；实际用油、酱料与份量会变化。':'参考配方或营养依据尚未补齐，暂不提供热量数值。'}</p><button class="text-button" data-action="detail" data-id="${d.id}">查看配方依据 ${icon('arrow')}</button></div></details>`;
+}
+export function recipeDetail(d){
+ const r=d.referenceRecipe,value=estimateEnergy(r);
+ if(!r)return `<section class="recipe-section"><h3>常见配方与能量参考</h3><p>暂无可靠估算。尚未建立完整参考配方，不从菜名或图片推测原料和热量。</p></section>`;
+ return `<section class="recipe-section"><div class="recipe-heading"><h3>常见配方参考</h3><span class="energy-number">${esc(energyLabel(r))}<small>${value?'每参考份，非实测':'配方待补齐'}</small></span></div><p>${esc(r.portion)}</p><p class="small muted">${esc(r.assumptions)}</p><details class="recipe-evidence"><summary>原料份量、重量状态与来源</summary><ul>${r.ingredients.map(i=>{const f=ingredientFood(i);return `<li><div><strong>${esc(i.name)}</strong><span>${i.grams[0]}–${i.grams[1]}克 · ${{raw:'原料可食部／干重',cooked:'熟重','as-served':'食用状态'}[i.state]??'状态待补充'}</span></div>${f.sourceUrl?`<a href="${esc(f.sourceUrl)}" target="_blank" rel="noopener noreferrer">USDA ${esc(f.fdcId??f.sourceId)} · ${f.kcalPer100g}千卡/100克</a><small>${esc(f.sourceDescription)}</small>`:'<span>该项匹配成分尚未取得，不参与能量计算。</span>'}</li>`;}).join('')}</ul><p class="small muted">配方版本 ${r.version}，核对 ${r.reviewedAt}。逐项按份量范围计算，包含表列油和酱料；不是完整过敏原资料。</p></details></section>`;
+}
+export function generalDietNote(){return `<p class="health-footnote">搭配参考依据 <a href="${nutritionSource}" target="_blank" rel="noopener noreferrer">国家卫健委合理膳食信息</a>。不用于诊断或制定治疗饮食。</p>`;}

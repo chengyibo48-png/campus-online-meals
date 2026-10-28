@@ -1,0 +1,33 @@
+{
+  "scope": "通用选餐灵感；非校内供应菜单",
+  "statistics": {
+    "publishedRecordCount": 260,
+    "publishedGroupCount": 252,
+    "checkedAt": "2026-10-28",
+    "recordCount": 260,
+    "groupCount": 252,
+    "verifiedRecordCount": 0,
+    "verifiedGroupCount": 0,
+    "counts": {
+      "verified": 0,
+      "pending": 260,
+      "review": 0,
+      "disabled": 0,
+      "conflict": 0
+    },
+    "recommendableByMeal": {
+      "breakfast": 65,
+      "lunch": 171,
+      "dinner": 165
+    },
+    "unknownFields": {
+      "restaurant": 260,
+      "mealTypes": 260,
+      "tastes": 260,
+      "price": 260,
+      "ingredients": 260
+    },
+    "imageCount": 260,
+    "imageMissingCount": 0
+  }
+}

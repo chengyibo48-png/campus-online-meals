@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="zh-CN"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#194B3A"><meta name="description" content="郑大同学的选餐饭本：从菜品灵感里，按偏好选一餐，整理收藏与一周计划。无需登录，个人饭本留在你的浏览器。">
+<meta property="og:title" content="郑大吃什么"><meta property="og:description" content="下一餐，吃点合心意的。郑大校园选餐与个人饭本。"><meta property="og:type" content="website">
+<title>郑大吃什么 · 校园选餐饭本</title>
+<link rel="preload" as="image" href="assets/dishes/dish-1b135c928808.webp" fetchpriority="high"><link rel="icon" href="icons/app.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="icons/app-192.png"><link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="final-details.css">
+<link rel="modulepreload" href="inspiration-model.js"><link rel="modulepreload" href="draw-view.js"><link rel="modulepreload" href="restaurant-view.js"><link rel="modulepreload" href="food-model.js"><link rel="modulepreload" href="catalog-stats.js"><link rel="modulepreload" href="dish-detail.js"><link rel="modulepreload" href="menu-view.js"><link rel="modulepreload" href="app.js"><link rel="modulepreload" href="menu-query.js"><link rel="modulepreload" href="catalog.js"><link rel="modulepreload" href="meal-engine.js"><link rel="modulepreload" href="venue-registry.js"><link rel="modulepreload" href="personal-state.js"><link rel="modulepreload" href="state-store.js"><link rel="modulepreload" href="calendar.js"><link rel="modulepreload" href="assets.js"><link rel="modulepreload" href="router.js"><link rel="modulepreload" href="weather.js"><link rel="modulepreload" href="venues.js">
+</head><body data-view="draw">
+<svg class="symbols" aria-hidden="true"><defs>
+<symbol id="bowl" viewBox="0 0 24 24"><path d="M3 10h18c-1 8-4 10-9 10s-8-2-9-10Zm3 12h12M8 3v3m4-5v5m4-3v3"/></symbol>
+<symbol id="shuffle" viewBox="0 0 24 24"><path d="M3 6h3c5 0 7 12 12 12h3M3 18h3c2 0 3-2 4-4m4-4c1-2 2-4 4-4h3m-4-4 4 4-4 4m0 4 4 4-4 4"/></symbol>
+<symbol id="heart" viewBox="0 0 24 24"><path d="M12 21 3 12C-3 4 7-2 12 6c5-8 15-2 9 6Z"/></symbol>
+<symbol id="grid" viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></symbol>
+<symbol id="pin" viewBox="0 0 24 24"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="2"/></symbol>
+<symbol id="book" viewBox="0 0 24 24"><path d="M12 5c-3-2-6-2-10-1v15c4-1 7-1 10 1 3-2 6-2 10-1V4c-4-1-7-1-10 1Zm0 0v15"/></symbol>
+<symbol id="search" viewBox="0 0 24 24"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6"/></symbol>
+<symbol id="filter" viewBox="0 0 24 24"><path d="M3 6h18M3 18h18M7 3v6m10 6v6"/></symbol>
+<symbol id="arrow" viewBox="0 0 24 24"><path d="M4 12h16m-6-6 6 6-6 6"/></symbol>
+<symbol id="check" viewBox="0 0 24 24"><path d="m4 12 5 5L20 6"/></symbol>
+<symbol id="close" viewBox="0 0 24 24"><path d="m5 5 14 14M5 19 19 5"/></symbol>
+<symbol id="calendar" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 2v6m10-6v6M3 11h18m-12 4h2m4 0h2"/></symbol>
+</defs></svg>
+<a href="#main" class="skip">跳到主要内容</a>
+<div id="qaBanner" class="notice" role="region" aria-label="隔离测试说明" hidden>隔离验收数据 · 不代表真实供应</div>
+<div id="storageWarning" class="notice" role="status" hidden></div>
+<!--domestic-entry-start--><aside class="access-entry" aria-label="国内访问与饭本迁移"><a class="access-link" href="https://dd9uz8xl.qwenwork.host/">国内访问入口 <span aria-hidden="true">↗</span></a><span>换网址前，先<a href="#/mine?tab=settings">导出饭本</a>，再到新站导入。</span></aside><!--domestic-entry-end-->
+<header class="header"><a class="brand" href="#/draw" aria-label="郑大吃什么，返回选一餐"><span class="brand-icon"><svg aria-hidden="true"><use href="#bowl"/></svg></span><span>郑大吃什么<small>校园里的每一餐</small></span></a>
+<nav class="nav" aria-label="主要导航"><a href="#/draw" data-view="draw"><svg aria-hidden="true"><use href="#bowl"/></svg><span>选一餐</span></a><a href="#/menu" data-view="menu"><svg aria-hidden="true"><use href="#grid"/></svg><span>逛菜单</span></a><a href="#/restaurants" data-view="restaurants"><svg aria-hidden="true"><use href="#pin"/></svg><span>餐厅</span></a><a href="#/mine" data-view="mine"><svg aria-hidden="true"><use href="#book"/></svg><span>我的</span></a></nav>
+<div class="day-weather"><span id="dateText"></span><span id="weatherLine">郑州</span></div></header>
+<main id="main" tabindex="-1" class="shell">
+<div class="page-heading"><div><p id="eyebrow">今天，也要好好吃饭</p><h1 id="pageTitle">今天，想吃点什么？</h1></div><span class="local-label">个人饭本 · 仅存本机</span></div>
+<section id="filterBar" aria-label="选餐条件" class="filter-bar"><div class="meal-tabs" role="group" aria-label="餐次"><button id="allMealsBtn" data-action="menu-scope" aria-pressed="false" hidden>全部</button><button data-meal="breakfast" aria-pressed="false">早餐</button><button data-meal="lunch" aria-pressed="false">午餐</button><button data-meal="dinner" aria-pressed="false">晚餐</button></div>
+<label class="search"><span class="sr-only">搜索菜名、口味或种类</span><svg aria-hidden="true"><use href="#search"/></svg><input id="searchInput" type="search" placeholder="搜索菜名、口味或种类" maxlength="100" autocomplete="off"></label>
+<button id="filterBtn" class="button secondary"><svg aria-hidden="true"><use href="#filter"/></svg>筛选<span id="filterCount"></span></button><button id="searchToggle" class="icon-button" aria-label="搜索餐品" aria-expanded="false"><svg aria-hidden="true"><use href="#search"/></svg></button>
+<div id="filterSummary" class="filter-summary"><span>选餐灵感 · 按喜欢的挑一餐</span></div></section>
+<section id="viewDraw" aria-label="选一餐"><!--initial-draw-start--><div class="mode-bar"><label class="mode-label"><span>选餐偏好</span><select id="exploration" aria-label="推荐偏好"><option value="steady" selected>稳妥一点</option><option value="new" >尝点新的</option></select></label></div>
+ <div class="hero" data-long-name="false" data-draw-phase="idle" aria-busy="false">
+  <div class="food-stage" data-scene-meal="lunch">
+   <span class="window-light" aria-hidden="true"></span><span class="scene-stamp"><svg aria-hidden="true"><use href="#bowl"/></svg>午餐饭票</span>
+   <div class="table-mat" aria-hidden="true"></div><div class="food-contact-shadow" aria-hidden="true"></div>
+   <div class="dish-on-table"><img src="assets/dishes/dish-1b135c928808.webp"  width="768" height="768" alt="茄汁面，餐品示意，非窗口实拍"  decoding="async" class="" style="--food-scale:1;--food-x:0%;--food-y:0%"><span class="image-failed" hidden><svg aria-hidden="true"><use href="#bowl"/></svg><span>图片暂未加载，文字信息仍可查看</span></span></div>
+   <div class="reveal-ticket" aria-hidden="true"><span>下一餐</span><strong>揭开你的饭票</strong><svg aria-hidden="true"><use href="#bowl"/></svg></div><span class="scene-caption">餐品示意</span>
+  </div>
+  <div class="story"><div class="meal-kicker"><span class="small-dot"></span>午餐，留给喜欢的味道</div>
+   <h2 id="resultName">茄汁面</h2><p class="intro">番茄熬成酸香汤底，面条吸附汤汁，入口先是茄香，再是柔软面条的麦香。</p>
+   <div class="tags"><span class="tag category-tag">面食粉类</span><span class="tag">酸香</span></div><p class="recommend-note"><svg aria-hidden="true"><use href="#check"/></svg>给今天一个新的选餐灵感</p><div class="result-toolbar"><button class="text-button favorite-button" aria-pressed="false" data-action="favorite" data-id="dish-1b135c928808"><svg aria-hidden="true"><use href="#heart"/></svg>先收藏</button><button class="text-button" data-action="exclude" data-id="dish-1b135c928808">今天跳过</button><button class="text-button" data-action="detail" data-id="dish-1b135c928808">菜品详情</button></div>
+   <div class="main-actions" id="mainActions"><button id="drawBtn" data-action="draw" class="button primary" ><svg aria-hidden="true"><use href="#shuffle"/></svg>换个灵感</button><button data-action="decide" data-id="dish-1b135c928808" class="button ticket-button" ><svg aria-hidden="true"><use href="#check"/></svg>就吃这个</button></div><p class="under-actions">餐品示意，供应未核对。决定后，吃过再记一笔。</p><details class="recipe-preview"><summary><span><svg aria-hidden="true"><use href="#bowl"/></svg>菜品介绍与营养参考</span><span>370–560 千卡<svg aria-hidden="true"><use href="#arrow"/></svg></span></summary><div class="recipe-preview-body"><p class="dish-preview-intro">番茄熬成酸香汤底，面条吸附汤汁，入口先是茄香，再是柔软面条的麦香。它适合想吃热汤面、又不想选浓重酱味的时候。</p><p><strong>搭配建议</strong> 喜欢浓郁茄味可少加汤；另配鸡蛋或豆制品，让这碗面更完整。</p><p><strong>参考配方原料</strong> 小麦粉、番茄、白菜、烹调植物油、酱油、蒜、姜</p><p><strong>参考份量</strong> 一碗；主食干原料约80–110克，加水煮制，汤水不另计能量</p><p class="small muted">常见配方估算，非食堂实测；实际用油、酱料与份量会变化。</p><button class="text-button" data-action="detail" data-id="dish-1b135c928808">查看配方依据 <svg aria-hidden="true"><use href="#arrow"/></svg></button></div></details>
+
+  </div>
+ </div>
+ <div class="draw-bottom"><div><strong>252</strong><span>种不同菜名，慢慢挑喜欢的</span></div><a href="#/menu?scope=all">逛完整菜单 <svg aria-hidden="true"><use href="#arrow"/></svg></a><span class="small muted">260份灵感 · 每条独立示意图</span></div><!--initial-draw-end--></section>
+<section id="viewMenu" aria-label="菜品灵感菜单" hidden></section>
+<section id="viewRestaurants" aria-label="校内餐厅" hidden></section>
+<section id="viewMine" aria-label="我的饭本" hidden></section>
+<footer><span>郑大吃什么 · 让选餐轻松一点</span><span>独立校园选餐工具 · 非学校官方服务</span><a href="https://www7.zzu.edu.cn/hqbzzx/" target="_blank" rel="noopener noreferrer">学校后勤信息</a></footer>
+</main>
+<div id="floatingActions" class="floating-actions" hidden></div>
+<dialog id="filterDialog" aria-labelledby="filterTitle"><div class="dialog-header"><div><p class="kicker">按自己的想法选</p><h2 id="filterTitle">筛选餐品</h2></div><button class="icon-button" data-close="filterDialog" aria-label="关闭筛选"><svg aria-hidden="true"><use href="#close"/></svg></button></div><div id="filterFields"></div><div class="dialog-actions"><button class="button secondary" id="resetFilters">重置条件</button><button class="button primary" id="applyFilters">查看结果</button></div></dialog>
+<dialog id="detailDialog" aria-labelledby="detailTitle" class="detail-dialog"><button class="icon-button detail-close" data-close="detailDialog" aria-label="关闭餐品详情"><svg aria-hidden="true"><use href="#close"/></svg></button><div id="detailContent"></div></dialog>
+<dialog id="confirmDialog" aria-labelledby="confirmTitle"><form method="dialog"><h2 id="confirmTitle"></h2><p id="confirmText"></p><label id="nameLabel" hidden>收藏夹名称<input id="nameInput" maxlength="30" autocomplete="off"></label><label id="importModeLabel" hidden>导入方式<select id="importMode"><option value="merge">合并，保留当前偏好和冲突餐次</option><option value="replace">替换当前新版饭本</option></select></label><label id="importProfileLabel" class="check-row" hidden><input id="importProfileChoice" type="checkbox">同时覆盖本机身体资料（默认不覆盖）</label><div class="dialog-actions"><button class="button secondary" value="cancel" autofocus>取消</button><button class="button primary" value="confirm" id="confirmButton">确定</button></div></form></dialog>
+<dialog id="pickerDialog" aria-labelledby="pickerTitle"><div class="dialog-header"><h2 id="pickerTitle">替换这一餐</h2><button class="icon-button" data-close="pickerDialog" aria-label="关闭替换列表"><svg aria-hidden="true"><use href="#close"/></svg></button></div><div id="pickerContent"></div></dialog>
+<input id="importFile" type="file" accept="application/json,.json" hidden>
+<div id="toast" class="toast" role="status" hidden><span></span><button id="undoBtn" hidden>撤销</button></div><div id="liveStatus" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
+<div id="updateNotice" class="notice update-notice" hidden>有新版本可用。当前饭本已保留。<button id="reloadApp" class="text-button">刷新更新</button></div>
+<noscript><p>选餐与饭本需要启用JavaScript。餐厅资料也可访问学校后勤网站查看。</p></noscript>
+<script type="module" src="app.js"></script></body></html>

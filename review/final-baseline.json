@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "dish-1b135c928808",
+    "name": "茄汁面",
+    "imageId": "dish-1b135c928808",
+    "dishGroupId": "group-e36946ef39766a",
+    "image": "assets/dishes/dish-1b135c928808.webp",
+    "sha256": "cb5d308123aa352a72ee67df2749d1455ab792166dae959a0a17090f786c7f75"
+  },
+  {
+    "id": "dish-aa798c22d5e0",
+    "name": "生煎包+豆浆",
+    "imageId": "dish-aa798c22d5e0",
+    "dishGroupId": "group-04bcca374967aa",
+    "image": "assets/dishes/dish-aa798c22d5e0.webp",
+    "sha256": "661643fccb7ba2ed3f9c9ab2b95b663bfe4595e36bca51fa7e326c4606576306"
+  },
+  {
+    "id": "dish-00e6a5395515",
+    "name": "酸辣面",
+    "imageId": "dish-00e6a5395515",
+    "dishGroupId": "group-fdd19271e3fd67",
+    "image": "assets/dishes/dish-00e6a5395515.webp",
+    "sha256": "a2ed41dcb39ab692d3c02ba0b4f3cf3341b5456052c6e6932c3b591586546172"
+  },
+  {
+    "id": "dish-b8f3a4d366b7",
+    "name": "土豆粉",
+    "imageId": "dish-b8f3a4d366b7",
+    "dishGroupId": "group-81c0c153ac29e0",
+    "image": "assets/dishes/dish-b8f3a4d366b7.webp",
+    "sha256": "49fcfe64dafd19363ff5441b641078ded8cc2ca90d73a239b3ea4f5019c59e5e"
+  },
+  {
+    "id": "dish-3c8c4eb51ebc",
+    "name": "热干面",
+    "imageId": "dish-3c8c4eb51ebc",
+    "dishGroupId": "group-b6a1f598185552",
+    "image": "assets/dishes/dish-3c8c4eb51ebc.webp",
+    "sha256": "82a5e344e69637f93d068f209b9a39e9b62329d71026fc412f4bcfcb0031db77"
+  },
+  {
+    "id": "dish-886c817d211d",
+    "name": "干拌荠菜小馄饨",
+    "imageId": "dish-886c817d211d",
+    "dishGroupId": "group-a9e928a586773c",
+    "image": "assets/dishes/dish-886c817d211d.webp",
+    "sha256": "ac8ad767e363f8ec6059529ddfd162d109e00fc0be7585c30f7b25f475877fd2"
+  },
+  {
+    "id": "dish-05d5a1f3c5df",
+    "name": "包子+茶叶蛋",
+    "imageId": "dish-05d5a1f3c5df",
+    "dishGroupId": "group-04596bf3c25e76",
+    "image": "assets/dishes/dish-05d5a1f3c5df.webp",
+    "sha256": "bb65b1dfbbd490f189675bfdc857d78aafe9199027c1b6ab01d0924dfbb91e21"
+  },
+  {
+    "id": "dish-9c9bd9e128f3",
+    "name": "粥+玉米",
+    "imageId": "dish-9c9bd9e128f3",
+    "dishGroupId": "group-d8e10577b7c249",
+    "image": "assets/dishes/dish-9c9bd9e128f3.webp",
+    "sha256": "386eff8341642249683c25ab9010858a3d4684c7f87146994e8faf9d288de7ac"
+  },
+  {
+    "id": "dish-3572880f383c",
+    "name": "胡辣汤",
+    "imageId": "dish-3572880f383c",
+    "dishGroupId": "group-2f137c77954813",
+    "image": "assets/dishes/dish-3572880f383c-v2.webp",
+    "sha256": "a58f88a9f4d96b93329235b71c0df7f108c6b8d7d3dd16fe0aac2fd0c1328134"
+  },
+  {
+    "id": "dish-b2be61f902ec",
+    "name": "菌菇面",
+    "imageId": "dish-b2be61f902ec",
+    "dishGroupId": "group-dbc5da54057730",
+    "image": "assets/dishes/dish-b2be61f902ec.webp",
+    "sha256": "59a4d3f30584c5f1b359d12fbaa3e295d9e52557be849219a206b35df6d96b76"
+  },
+  {
+    "id": "dish-ebe65b32c381",
+    "name": "蛋炒饭",
+    "imageId": "dish-ebe65b32c381",
+    "dishGroupId": "group-44344d1e6db2b0",
+    "image": "assets/dishes/dish-ebe65b32c381.webp",
+    "sha256": "ad972a459ffb09741087d474ba84ae2993d79d62758b850846b3c2a7665eb374"
+  },
+  {
+    "id": "dish-2221b3b364c6",
+    "name": "鸡蛋灌饼",
+    "imageId": "dish-2221b3b364c6",
+    "dishGroupId": "group-4dee8c7255ae6f",
+    "image": "assets/dishes/dish-2221b3b364c6.webp",
+    "sha256": "a55d0002bf206b38db0b8aa6c6145e3f388627127d8004c04a6c1bb4f1b45b7b"
+  },
+  {
+    "id": "dish-1c6dcba4ea41",
+    "name": "豆浆油条",
+    "imageId": "dish-1c6dcba4ea41",
+    "dishGroupId": "group-01656e96114505",
+    "image": "assets/dishes/dish-1c6dcba4ea41.webp",
+    "sha256": "4e48dde73a285515e21b47c4420c8542cd95a4f85d795e7e6d674908ae90f2b8"
+  },
+  {
+    "id": "dish-123ec3d5c3e2",
+    "name": "鸡蛋面",
+    "imageId": "dish-123ec3d5c3e2",
+    "dishGroupId": "group-a0005080c02269",
+    "image": "assets/dishes/dish-123ec3d5c3e2.webp",
+    "sha256": "ed2442c3987604e46e146e359661a9042f8fa03f0352e6ba15b053049a52f907"
+  },
+  {
+    "id": "dish-9d5bec5abb9b",
+    "name": "玉米粥",
+    "imageId": "dish-9d5bec5abb9b",
+    "dishGroupId": "group-0ad8de4e783699",
+    "image": "assets/dishes/dish-9d5bec5abb9b.webp",
+    "sha256": "5ebd60fc97d8bf35f7d165ed39f3ab0f8a77bd2021f54a0a79682c18bd900b2d"
+  },
+  {
+    "id": "dish-f2dd308e6a5b",
+    "name": "锅贴",
+    "imageId": "dish-f2dd308e6a5b",
+    "dishGroupId": "group-510dd67ce7ceed",
+    "image": "assets/dishes/dish-f2dd308e6a5b.webp",
+    "sha256": "887ec00a0b4122105e7353316635ff3b8c433103ae94be7ce5b2d51ffb97a26d"
+  },
+  {
+    "id": "dish-74bf42dc48d2",
+    "name": "鲜肉锅贴",
+    "imageId": "dish-74bf42dc48d2",
+    "dishGroupId": "group-754920e2afdf2a",
+    "image": "assets/dishes/dish-74bf42dc48d2.webp",
+    "sha256": "b19ce54b9d5760892fbeea9db66b9d71648bb5cb007a5068d8b511aed46f9f2c"
+  },
+  {
+    "id": "dish-33cc53fe698f",
+    "name": "皮蛋瘦肉粥",
+    "imageId": "dish-33cc53fe698f",
+    "dishGroupId": "group-04f088308e37d9",
+    "image": "assets/dishes/dish-33cc53fe698f.webp",
+    "sha256": "a250bd788ce3586db25f83ac98759eb33bd2845d7dc0d2c666735878d3d51166"
+  },
+  {
+    "id": "dish-027140dc1bcc",
+    "name": "鲜肉馄饨",
+    "imageId": "dish-027140dc1bcc",
+    "dishGroupId": "group-1e54ed49a90402",
+    "image": "assets/dishes/dish-027140dc1bcc.webp",
+    "sha256": "33a35a0a97b09ccb17591c4eb4dded2fa1a4a6e714e379b72659e06b56092592"
+  },
+  {
+    "id": "dish-f7669df9a3c3",
+    "name": "烧麦",
+    "imageId": "dish-f7669df9a3c3",
+    "dishGroupId": "group-4b17b9129d2b52",
+    "image": "assets/dishes/dish-f7669df9a3c3.webp",
+    "sha256": "2d76cfde233a31d60a30eb34ebc742a135658ba369b9c343a806744f53b8a0ff"
+  },
+  {
+    "id": "dish-fda60a6ef328",
+    "name": "手抓饼",
+    "imageId": "dish-fda60a6ef328",
+    "dishGroupId": "group-e15aaa529276b2",
+    "image": "assets/dishes/dish-fda60a6ef328.webp",
+    "sha256": "4075b93ee4a5283cfc97060641d62a322397475857322bfbc17a7326ea3a0af7"
+  },
+  {
+    "id": "dish-af0b39a5575c",
+    "name": "鸡蛋饼",
+    "imageId": "dish-af0b39a5575c",
+    "dishGroupId": "group-b949cede39d829",
+    "image": "assets/dishes/dish-af0b39a5575c.webp",
+    "sha256": "aa48d44fa7c8fc5d9a25c63bc2decd92e98eba1b1934da1306d67ba4bfcbf679"
+  },
+  {
+    "id": "dish-eb76574e5fb3",
+    "name": "肉夹馍",
+    "imageId": "dish-eb76574e5fb3",
+    "dishGroupId": "group-d27156330f6559",
+    "image": "assets/dishes/dish-eb76574e5fb3.webp",
+    "sha256": "63acb923a7fdc3e41eb70f08504cb8c0f48105a9c7b193e848c2ce031b5018be"
+  },
+  {
+    "id": "dish-13d7f908420e",
+    "name": "红豆饼",
+    "imageId": "dish-13d7f908420e",
+    "dishGroupId": "group-8b8f685fd5d22e",
+    "image": "assets/dishes/dish-13d7f908420e.webp",
+    "sha256": "698d858aa55b77a35e7fba5fb8fddd4039e251749b5184324608f36c9a2f6c42"
+  },
+  {
+    "id": "dish-e9e87bff35f7",
+    "name": "煎饺",
+    "imageId": "dish-e9e87bff35f7",
+    "dishGroupId": "group-0b9ad2c08cdd33",
+    "image": "assets/dishes/dish-e9e87bff35f7.webp",
+    "sha256": "ccde8e77714acfa8426f1b04a21451156f42763d4097d51e5783b6d755db4277"
+  },
+  {
+    "id": "dish-f6d6fc511237",
+    "name": "糯米鸡",
+    "imageId": "dish-f6d6fc511237",
+    "dishGroupId": "group-62e5458190aada",
+    "image": "assets/dishes/dish-f6d6fc511237.webp",
+    "sha256": "cc9026aafaba23ea239a2850fead01ceaf092603898427312859633c306dd7e9"
+  },
+  {
+    "id": "dish-abb3c2b369b6",
+    "name": "三鲜米线",
+    "imageId": "dish-abb3c2b369b6",
+    "dishGroupId": "group-e78cce6b1a1c27",
+    "image": "assets/dishes/dish-abb3c2b369b6.webp",
+    "sha256": "0d6ba7539ea0e8d4795eeab6319a6430ae12215e34ada1ca96075010e790778a"
+  },
+  {
+    "id": "dish-9ef81dc62d93",
+    "name": "生煎馄饨",
+    "imageId": "dish-9ef81dc62d93",
+    "dishGroupId": "group-b4b73d39ae3c79",
+    "image": "assets/dishes/dish-9ef81dc62d93.webp",
+    "sha256": "918c408af1ad1827d057bb0c9c35eda6fe8ddfc30d8c68e1a90d3f031c2d9710"
+  },
+  {
+    "id": "dish-e1a0c1cf8052",
+    "name": "南瓜粥",
+    "imageId": "dish-e1a0c1cf8052",
+    "dishGroupId": "group-ed24b089f6b93c",
+    "image": "assets/dishes/dish-e1a0c1cf8052.webp",
+    "sha256": "567d3a7eb3b75670c109ff1a08aafcc057606f93b713b32542a31a404e5d51b8"
+  },
+  {
+    "id": "dish-09f09e588331",
+    "name": "小笼包",
+    "imageId": "dish-09f09e588331",
+    "dishGroupId": "group-cba7c9df1efc2f",
+    "image": "assets/dishes/dish-09f09e588331.webp",
+    "sha256": "5edbf0500bb86ef930aca69e1f362839363bba74a1400798ec303e5fda2f2c9a"
+  },
+  {
+    "id": "dish-74bc24706d48",
+    "name": "豆腐脑",
+    "imageId": "dish-74bc24706d48",
+    "dishGroupId": "group-a0e2b05499caab",
+    "image": "assets/dishes/dish-74bc24706d48.webp",
+    "sha256": "54f16ab2d48177395bb677fe30a0f95c4426aa930eaf643585f7320cf6769a6c"
+  },
+  {
+    "id": "dish-5531a9332445",
+    "name": "蔬菜捞面",
+    "imageId": "dish-5531a9332445",
+    "dishGroupId": "group-54ba31e70f2d94",
+    "image": "assets/dishes/dish-5531a9332445.webp",
+    "sha256": "00ce8646095ded975d38bb717007d20eae872b1419d7ddac06959cfc1b6a5305"
+  },
+  {
+    "id": "dish-0c1cfef3350c",
+    "name": "海鲜焖面",
+    "imageId": "dish-0c1cfef3350c",
+    "dishGroupId": "group-82fc67cd0a0435",
+    "image": "assets/dishes/dish-0c1cfef3350c.webp",
+    "sha256": "19c6b7ea6b27fa753ad2bcd99f219a2f2e0418257d32cda592f3e0f3aa08b92a"
+  },
+  {
+    "id": "dish-6a7156c395e0",
+    "name": "螺蛳粉",
+    "imageId": "dish-6a7156c395e0",
+    "dishGroupId": "group-748c76a3e05c9e",
+    "image": "assets/dishes/dish-6a7156c395e0.webp",
+    "sha256": "be8649bfeb1a257f0cfdeedc83959606a7c3e489f5073412650587aa6c03826d"
+  },
+  {
+    "id": "dish-5e9bbb8cce24",
+    "name": "自选餐",
+    "imageId": "dish-5e9bbb8cce24",
+    "dishGroupId": "group-819726256f1c7d",
+    "image": "assets/dishes/dish-5e9bbb8cce24.webp",
+    "sha256": "7d6dd5159c1d2ec2818b48979e75789b56e18d7b34bb2e29de4cf7de2c98c9f8"
+  },
+  {
+    "id": "dish-7f070a45c4a4",
+    "name": "酸辣粉",
+    "imageId": "dish-7f070a45c4a4",
+    "dishGroupId": "group-e7d611fac3635c",
+    "image": "assets/dishes/dish-7f070a45c4a4.webp",
+    "sha256": "bd3ad0b7090139916ee3b77f2ef61ce9226ced49bb1d5d5bd6d2093aba3d5df6"
+  },
+  {
+    "id": "dish-d7f0ae7c6892",
+    "name": "土豆烧鸡盖饭",
+    "imageId": "dish-d7f0ae7c6892",
+    "dishGroupId": "group-4390018e5d3718",
+    "image": "assets/dishes/dish-d7f0ae7c6892.webp",
+    "sha256": "ea1b67aa517e72c29c3398e68049704852419a5512398192f612a4461d95a39d"
+  },
+  {
+    "id": "dish-2a9181213b2b",
+    "name": "牛肉面",
+    "imageId": "dish-2a9181213b2b",
+    "dishGroupId": "group-84b5251af88fbb",
+    "image": "assets/dishes/dish-2a9181213b2b.webp",
+    "sha256": "32a987fbe6111a1a091dfa57ea7f55bb659b947f58cebddcd8e98600cf16f8a6"
+  },
+  {
+    "id": "dish-f0b0d31b7642",
+    "name": "番茄鸡蛋盖饭",
+    "imageId": "dish-f0b0d31b7642",
+    "dishGroupId": "group-78f76b5f9126b6",
+    "image": "assets/dishes/dish-f0b0d31b7642.webp",
+    "sha256": "1d34f478150204d0e8abe12d8ac4bd876bb8796e06b32a93b2c1cc6b66dbc8a6"
+  },
+  {
+    "id": "dish-1e1563b3a0d0",
+    "name": "石锅拌饭",
+    "imageId": "dish-1e1563b3a0d0",
+    "dishGroupId": "group-1cbdfd30e71dda",
+    "image": "assets/dishes/dish-1e1563b3a0d0.webp",
+    "sha256": "6be02c3d6cdc45665f7722147fdfaeff18acebb6295d932355aef3ff4ecfc366"
+  },
+  {
+    "id": "dish-68091b156625",
+    "name": "鱿鱼五花肉拌饭",
+    "imageId": "dish-68091b156625",
+    "dishGroupId": "group-62687a353451fd",
+    "image": "assets/dishes/dish-68091b156625.webp",
+    "sha256": "ca4b43fbbf5145209ff1269527dd737840608588d7f99c416f11537d5b768bf0"
+  },
+  {
+    "id": "dish-a65eb3e09be7",
+    "name": "麻辣拌+红油抄手",
+    "imageId": "dish-a65eb3e09be7",
+    "dishGroupId": "group-9e514e3dfa5706",
+    "image": "assets/dishes/dish-a65eb3e09be7.webp",
+    "sha256": "bfff3c055289ea2e77fb8a52ec8de3a5e6cba8978a0178ed3fe09bb2956fd97e"
+  },
+  {
+    "id": "dish-66cccb24b4cd",
+    "name": "铁板豆腐+鸡排",
+    "imageId": "dish-66cccb24b4cd",
+    "dishGroupId": "group-05161ffd950dd2",
+    "image": "assets/dishes/dish-66cccb24b4cd.webp",
+    "sha256": "b2a641744cec6485b8dddfd8d50b613ec61a75419308ddfd153e787eef743201"
+  },
+  {
+    "id": "dish-38aadc2430df",
+    "name": "干拌面",
+    "imageId": "dish-38aadc2430df",
+    "dishGroupId": "group-8ab740d313bfa5",
+    "image": "assets/dishes/dish-38aadc2430df.webp",
+    "sha256": "87cecc4f5440effe76b3ba0874152c25203b9093d82b9436d979c19d481a78c8"
+  },
+  {
+    "id": "dish-e93a4f420684",
+    "name": "香菇鸡饭",
+    "imageId": "dish-e93a4f420684",
+    "dishGroupId": "group-6359579b3282fd",
+    "image": "assets/dishes/dish-e93a4f420684.webp",
+    "sha256": "6e5f5e7f3f2c78ad5068313d1c85b23830524039d4f9c18b01fd84376275ee9f"
+  },
+  {
+    "id": "dish-4e4739fc4325",
+    "name": "鱼香肉丝饭",
+    "imageId": "dish-4e4739fc4325",
+    "dishGroupId": "group-d0d5ca6331998e",
+    "image": "assets/dishes/dish-4e4739fc4325.webp",
+    "sha256": "d56d48644210c7a781a52e9bcfb8d6656724524a2e98877c54e0c07c716b6346"
+  },
+  {
+    "id": "dish-73862c214c4b",
+    "name": "鸡排饭",
+    "imageId": "dish-73862c214c4b",
+    "dishGroupId": "group-bf649635c3b5ff",
+    "image": "assets/dishes/dish-73862c214c4b.webp",
+    "sha256": "86527d5e7efc372392b0a7c4ebd0af825e904dd3c0f04701fbf07e2f56521510"
+  },
+  {
+    "id": "dish-f6ab9034a348",
+    "name": "宫保鸡丁饭",
+    "imageId": "dish-f6ab9034a348",
+    "dishGroupId": "group-f60588fac64b92",
+    "image": "assets/dishes/dish-f6ab9034a348.webp",
+    "sha256": "6119d6f0989c16f6a7ab39af88a2baf1bc6bd57f99ff0a1ade782d2beffd29db"
+  },
+  {
+    "id": "dish-53a4d06cb3e3",
+    "name": "回锅肉饭",
+    "imageId": "dish-53a4d06cb3e3",
+    "dishGroupId": "group-83c3aec384800c",
+    "image": "assets/dishes/dish-53a4d06cb3e3.webp",
+    "sha256": "a80da076bb096aa08c8bf939322982b61d3992fb6d20e71984c96cec871385c8"
+  },
+  {
+    "id": "dish-1c2c7ab65e65",
+    "name": "砂锅米线",
+    "imageId": "dish-1c2c7ab65e65",
+    "dishGroupId": "group-9548d9bc8d454d",
+    "image": "assets/dishes/dish-1c2c7ab65e65.webp",
+    "sha256": "0e438a1c8fd491c17803bac6248b1af3f9c809878843bad54eeb8dc9ad9c47fb"
+  },
+  {
+    "id": "dish-c237c9263ffa",
+    "name": "炒河粉",
+    "imageId": "dish-c237c9263ffa",
+    "dishGroupId": "group-f131ff0111c710",
+    "image": "assets/dishes/dish-c237c9263ffa.webp",
+    "sha256": "c71838129db7c13d370b86373062032331d1481ac73b762d91d1a01a2515392d"
+  },
+  {
+    "id": "dish-8900bb4bc717",
+    "name": "羊肉烩面",
+    "imageId": "dish-8900bb4bc717",
+    "dishGroupId": "group-2a9b8b8c7e4e1f",
+    "image": "assets/dishes/dish-8900bb4bc717.webp",
+    "sha256": "a6ccde8de495e1c038e9b08bb75ab602ea61326107a94d08743cf2ed43b64972"
+  },
+  {
+    "id": "dish-003401f58bcf",
+    "name": "酸汤水饺",
+    "imageId": "dish-003401f58bcf",
+    "dishGroupId": "group-2c1392c77c86d8",
+    "image": "assets/dishes/dish-003401f58bcf.webp",
+    "sha256": "a89e4b921d9f9291070546f07a3b92eba96d427484d7f1e25439a106e4d12406"
+  },
+  {
+    "id": "dish-1306b065159e",
+    "name": "三鲜米线",
+    "imageId": "dish-1306b065159e",
+    "dishGroupId": "group-e78cce6b1a1c27",
+    "image": "assets/dishes/dish-1306b065159e.webp",
+    "sha256": "a0a0b73fdc700933a4c606b80f614e6c330431f51623f7ae4b5c7f3a8d3e368e"
+  },
+  {
+    "id": "dish-8a3705cac9b6",
+    "name": "砂锅土豆粉",
+    "imageId": "dish-8a3705cac9b6",
+    "dishGroupId": "group-bafa0036a0b884",
+    "image": "assets/dishes/dish-8a3705cac9b6.webp",
+    "sha256": "52c92cde7db6ef52422afce623535c712f5a2c7239bd4719acc70d2cff90eae3"
+  },
+  {
+    "id": "dish-eb8d1854c504",
+    "name": "自助餐",
+    "imageId": "dish-eb8d1854c504",
+    "dishGroupId": "group-900c4109781b44",
+    "image": "assets/dishes/dish-eb8d1854c504.webp",
+    "sha256": "75365abed2aaae8218ddad208231523c7bd12c2dc456dc3a60a409ce89f5e687"
+  },
+  {
+    "id": "dish-d2b7c8298f10",
+    "name": "红烧茄子饭",
+    "imageId": "dish-d2b7c8298f10",
+    "dishGroupId": "group-204a69013e940a",
+    "image": "assets/dishes/dish-d2b7c8298f10.webp",
+    "sha256": "2ef0acd05eb50d2cf6b22769fa073516387af2d91d6e020448e84de60f2e876f"
+  },
+  {
+    "id": "dish-6402fee78cbe",
+    "name": "香辣鸡腿饭",
+    "imageId": "dish-6402fee78cbe",
+    "dishGroupId": "group-864f0e6a551da6",
+    "image": "assets/dishes/dish-6402fee78cbe.webp",
+    "sha256": "02351ad2edb2d7b99746c9ab42dddf6818dbb751f3c45f5f44ef499240992a40"
+  },
+  {
+    "id": "dish-a01421de348a",
+    "name": "盖浇面",
+    "imageId": "dish-a01421de348a",
+    "dishGroupId": "group-428586ad73bca1",
+    "image": "assets/dishes/dish-a01421de348a.webp",
+    "sha256": "7327340555a1a3207c9da4cbe106b493941fb6c0eb9f3c2032db7291cf1fd8bf"
+  },
+  {
+    "id": "dish-842d40863d0a",
+    "name": "黄焖鸡",
+    "imageId": "dish-842d40863d0a",
+    "dishGroupId": "group-f3584e8071b664",
+    "image": "assets/dishes/dish-842d40863d0a.webp",
+    "sha256": "c0788fb8991d03d2e0f0c158fa37173b0a40aa88322a798b8cbb19cd4a22d324"
+  },
+  {
+    "id": "dish-53c26bcaf923",
+    "name": "兰州拉面",
+    "imageId": "dish-53c26bcaf923",
+    "dishGroupId": "group-44da7b8db634bb",
+    "image": "assets/dishes/dish-53c26bcaf923.webp",
+    "sha256": "2e3bfd5f1a1402ee1a8a47ecc8407f96d11c9ae96ae0c364554feb1c6fe0bc15"
+  },
+  {
+    "id": "dish-d541c22f12af",
+    "name": "蛋包饭",
+    "imageId": "dish-d541c22f12af",
+    "dishGroupId": "group-826b21d5e1925c",
+    "image": "assets/dishes/dish-d541c22f12af.webp",
+    "sha256": "4fb8a9a40cc175e05ada41f3f20733c09423327faf7dccc6b1b9c596fc9c400d"
+  },
+  {
+    "id": "dish-eced8604626f",
+    "name": "鱼香茄子饭",
+    "imageId": "dish-eced8604626f",
+    "dishGroupId": "group-8851d0a99afd13",
+    "image": "assets/dishes/dish-eced8604626f.webp",
+    "sha256": "5ce4b4e20a085626abd16f5f4f01935fe5402a890dc311148393d922d7beabc0"
+  },
+  {
+    "id": "dish-2c400e5bee2e",
+    "name": "麻辣香锅",
+    "imageId": "dish-2c400e5bee2e",
+    "dishGroupId": "group-44e0fa5ae2aeba",
+    "image": "assets/dishes/dish-2c400e5bee2e.webp",
+    "sha256": "aa5262ae25594b7c7d7f6d93a0fcc893cd2623f98125c441b88a3b5806c43945"
+  },
+  {
+    "id": "dish-b708133b9bce",
+    "name": "烤肉拌饭",
+    "imageId": "dish-b708133b9bce",
+    "dishGroupId": "group-0ffc53dc6e7dee",
+    "image": "assets/dishes/dish-b708133b9bce.webp",
+    "sha256": "8a336fc3631f5fb3b0b0a8b047115975816297bf88f30b87b43210aa39160287"
+  },
+  {
+    "id": "dish-702627af5af1",
+    "name": "香辣鸡排面",
+    "imageId": "dish-702627af5af1",
+    "dishGroupId": "group-145673c39a3d6a",
+    "image": "assets/dishes/dish-702627af5af1.webp",
+    "sha256": "316bda939c0624d623406389827cce7a37f602c85aaa9a79b9b69d204f7cdd80"
+  },
+  {
+    "id": "dish-1d06e6357dc0",
+    "name": "菌菇面",
+    "imageId": "dish-1d06e6357dc0",
+    "dishGroupId": "group-dbc5da54057730",
+    "image": "assets/dishes/dish-1d06e6357dc0.webp",
+    "sha256": "99df68ba0c5593b48f6a5dd8f0cefa908846f6aa6958ccf08a9d60c586c301d1"
+  },
+  {
+    "id": "dish-d185c6a5856b",
+    "name": "臊子面",
+    "imageId": "dish-d185c6a5856b",
+    "dishGroupId": "group-123c2e9bf84e80",
+    "image": "assets/dishes/dish-d185c6a5856b.webp",
+    "sha256": "681c2fa93dd2104a43f1c4767e7b70ed2ff2dcdb9032269001d32e2e0cbcceb1"
+  },
+  {
+    "id": "dish-a873c05a5f17",
+    "name": "自选两荤一素",
+    "imageId": "dish-a873c05a5f17",
+    "dishGroupId": "group-66039237035f70",
+    "image": "assets/dishes/dish-a873c05a5f17.webp",
+    "sha256": "a38ed2a8b245f060ca71a56c4022cf2a554f07ab9c9c73a6821c9ee93bbc1f3f"
+  },
+  {
+    "id": "dish-100fc879ebd7",
+    "name": "酸辣面",
+    "imageId": "dish-100fc879ebd7",
+    "dishGroupId": "group-fdd19271e3fd67",
+    "image": "assets/dishes/dish-100fc879ebd7.webp",
+    "sha256": "cfc745881ff62cd6fd6f436997d08c702fb676cc27dd7a8c945c74f98d6dfee7"
+  },
+  {
+    "id": "dish-99ad6f3286bc",
+    "name": "干拌荠菜小馄饨",
+    "imageId": "dish-99ad6f3286bc",
+    "dishGroupId": "group-a9e928a586773c",
+    "image": "assets/dishes/dish-99ad6f3286bc.webp",
+    "sha256": "9e3a4ed9e068d9850fa6287c57fd526f2f9b2482afc5ede529db78ce2d552a23"
+  },
+  {
+    "id": "dish-ea2ac8d441ec",
+    "name": "荤素自选餐",
+    "imageId": "dish-ea2ac8d441ec",
+    "dishGroupId": "group-01ee120cac9f6f",
+    "image": "assets/dishes/dish-ea2ac8d441ec.webp",
+    "sha256": "cf0ef7e24187dc5723c622ab922d64feea38821d7f31323e611bcc6db0e44f8c"
+  },
+  {
+    "id": "dish-650675f8326e",
+    "name": "麻辣拌",
+    "imageId": "dish-650675f8326e",
+    "dishGroupId": "group-2a483beed8d21c",
+    "image": "assets/dishes/dish-650675f8326e.webp",
+    "sha256": "4379fccad24cfef6304e62187425bd1e3a7b5fe2e5b48117feabaf106d1caf6c"
+  },
+  {
+    "id": "dish-2ab8883f031f",
+    "name": "红油抄手",
+    "imageId": "dish-2ab8883f031f",
+    "dishGroupId": "group-5f8be977b4f7cb",
+    "image": "assets/dishes/dish-2ab8883f031f.webp",
+    "sha256": "5bbd9535954c29df67ef1e6744e3020ace558594106e3e02d4f892dc18670587"
+  },
+  {
+    "id": "dish-601a949b68c7",
+    "name": "烤冷面",
+    "imageId": "dish-601a949b68c7",
+    "dishGroupId": "group-361f649089d35d",
+    "image": "assets/dishes/dish-601a949b68c7.webp",
+    "sha256": "fca867b3a65ce785c08628986ed6bfacc18268055dcfc7df83d2da1a21251f89"
+  },
+  {
+    "id": "dish-b2dbe78efc12",
+    "name": "铁板豆腐+鸡排",
+    "imageId": "dish-b2dbe78efc12",
+    "dishGroupId": "group-05161ffd950dd2",
+    "image": "assets/dishes/dish-b2dbe78efc12.webp",
+    "sha256": "661311245848d8da8ca1f1a8e949116183499f61025017878f45cb67a944d4e7"
+  },
+  {
+    "id": "dish-eede4606ff23",
+    "name": "红豆饼+玉米汁",
+    "imageId": "dish-eede4606ff23",
+    "dishGroupId": "group-c40c61e1a80a76",
+    "image": "assets/dishes/dish-eede4606ff23.webp",
+    "sha256": "159665bb1e1154ed0f287fd99e30d9b8a34dc0cc64178e45b200fe9f9314e471"
+  },
+  {
+    "id": "dish-1bf38aceac27",
+    "name": "石锅拌饭",
+    "imageId": "dish-1bf38aceac27",
+    "dishGroupId": "group-1cbdfd30e71dda",
+    "image": "assets/dishes/dish-1bf38aceac27.webp",
+    "sha256": "eb52265b6c27d0ca0f06b0683d922b1f65a36df8e0b5901e370d810f96400c5d"
+  },
+  {
+    "id": "dish-fae66258a5d2",
+    "name": "海鲜炒饭",
+    "imageId": "dish-fae66258a5d2",
+    "dishGroupId": "group-4e37218f0b6243",
+    "image": "assets/dishes/dish-fae66258a5d2.webp",
+    "sha256": "4a708575e3fde7c5ee8aa41bf20fb3f49a6300f83196fba35048f278e0643a48"
+  },
+  {
+    "id": "dish-d3e7bdaa09be",
+    "name": "香辣拌面",
+    "imageId": "dish-d3e7bdaa09be",
+    "dishGroupId": "group-2c9a8970874421",
+    "image": "assets/dishes/dish-d3e7bdaa09be.webp",
+    "sha256": "e74384165210e57a12e71ad0d2ce82a899ec969db158c924d0532422085fe0a4"
+  },
+  {
+    "id": "dish-234abb432cbd",
+    "name": "酸汤面",
+    "imageId": "dish-234abb432cbd",
+    "dishGroupId": "group-c80f1de3188275",
+    "image": "assets/dishes/dish-234abb432cbd.webp",
+    "sha256": "867c36755998c9622d9b57001d8365eb566c8accb9f12d62e22a417b48f51c7b"
+  },
+  {
+    "id": "dish-5f12e9d6b57d",
+    "name": "鸡肉焖饭",
+    "imageId": "dish-5f12e9d6b57d",
+    "dishGroupId": "group-1e6876fd46da13",
+    "image": "assets/dishes/dish-5f12e9d6b57d.webp",
+    "sha256": "e795a133e2a3c24e9c50a4e40470b769953fca1bd8ac673d2c0d5eea80615709"
+  },
+  {
+    "id": "dish-0caa2a9f7be8",
+    "name": "酸汤馄饨",
+    "imageId": "dish-0caa2a9f7be8",
+    "dishGroupId": "group-4c3a11b58eab8f",
+    "image": "assets/dishes/dish-0caa2a9f7be8.webp",
+    "sha256": "82819320ede02dadf1c880a1e197809c911c031cceba2903efa407a4515daef8"
+  },
+  {
+    "id": "dish-d9ab9fc6ff2a",
+    "name": "煲仔饭",
+    "imageId": "dish-d9ab9fc6ff2a",
+    "dishGroupId": "group-504ada0978f414",
+    "image": "assets/dishes/dish-d9ab9fc6ff2a.webp",
+    "sha256": "272ce2984e9eb69769e0b3db6e36a815890458820086aae726f0c09a98ca7d14"
+  },
+  {
+    "id": "dish-c69af41bbe1d",
+    "name": "炒乌冬",
+    "imageId": "dish-c69af41bbe1d",
+    "dishGroupId": "group-9678c37b2c94b5",
+    "image": "assets/dishes/dish-c69af41bbe1d.webp",
+    "sha256": "63bdddc1f9eb35db46492800de48174c85c19fb08e8331d5acfba46b14fbf82c"
+  },
+  {
+    "id": "dish-4f2b131552cc",
+    "name": "炸酱面",
+    "imageId": "dish-4f2b131552cc",
+    "dishGroupId": "group-af80dea44df269",
+    "image": "assets/dishes/dish-4f2b131552cc.webp",
+    "sha256": "7ce2e5ded041e6feec142bf53035a2ec01b631020052ceceba4174fb27d1fe13"
+  },
+  {
+    "id": "dish-ffa23be616b0",
+    "name": "牛肉粉",
+    "imageId": "dish-ffa23be616b0",
+    "dishGroupId": "group-5e2a21474506b9",
+    "image": "assets/dishes/dish-ffa23be616b0.webp",
+    "sha256": "1f59701b93f893ccbc54451efa0b54b95845b508ab0e20f1df9a45691af8a597"
+  },
+  {
+    "id": "dish-0b811c294067",
+    "name": "鸡丝凉面",
+    "imageId": "dish-0b811c294067",
+    "dishGroupId": "group-94027f07d4c2a9",
+    "image": "assets/dishes/dish-0b811c294067.webp",
+    "sha256": "7fd747e5403b5fa37a43f9f49d0b7bb2b8f6090653bde22dba512d3eafeed1ed"
+  },
+  {
+    "id": "dish-79dac3a4cc19",
+    "name": "卤肉饭",
+    "imageId": "dish-79dac3a4cc19",
+    "dishGroupId": "group-7dfa26ae639eee",
+    "image": "assets/dishes/dish-79dac3a4cc19.webp",
+    "sha256": "ee785fe58108f0497a74d974ed486d974f6064f03c8ef0eaca0bc1b6632fc8c1"
+  },
+  {
+    "id": "dish-095ddf7f41d2",
+    "name": "烧鸭饭",
+    "imageId": "dish-095ddf7f41d2",
+    "dishGroupId": "group-0b7e84898ecaac",
+    "image": "assets/dishes/dish-095ddf7f41d2.webp",
+    "sha256": "7f22ae60f5a9578d24a568a3559e27b98e21040982b0825286206732d942c8ff"
+  },
+  {
+    "id": "dish-3789687abad2",
+    "name": "自选小火锅",
+    "imageId": "dish-3789687abad2",
+    "dishGroupId": "group-4f0e35f246077a",
+    "image": "assets/dishes/dish-3789687abad2.webp",
+    "sha256": "d4c216b3d4856aa5e3a33c7a93f582e0fcfb5026a4ce5535f0a641ce104c68e4"
+  },
+  {
+    "id": "dish-baa1368b227e",
+    "name": "鸡肉卷",
+    "imageId": "dish-baa1368b227e",
+    "dishGroupId": "group-1b8d0799de2d9a",
+    "image": "assets/dishes/dish-baa1368b227e.webp",
+    "sha256": "f35b9b6d3c61be5a73faddc0c7719ab3acb962893d54673cace9a9e259b2ae3c"
+  },
+  {
+    "id": "dish-af0d1f159247",
+    "name": "关东煮",
+    "imageId": "dish-af0d1f159247",
+    "dishGroupId": "group-99bff4509ba598",
+    "image": "assets/dishes/dish-af0d1f159247.webp",
+    "sha256": "5c1ecbf0d60c280daacb9e249e6fd2861e8d2bb0235d5b5ed78d6b6c35c2bd1b"
+  },
+  {
+    "id": "dish-0526bafa2d17",
+    "name": "米线",
+    "imageId": "dish-0526bafa2d17",
+    "dishGroupId": "group-767c88a02f1a59",
+    "image": "assets/dishes/dish-0526bafa2d17.webp",
+    "sha256": "dbcb5b3e737d4b8ceef47182b4ff2a659a5ae2566288dd6c67954e91b96285c4"
+  },
+  {
+    "id": "dish-296683b491d9",
+    "name": "炒面",
+    "imageId": "dish-296683b491d9",
+    "dishGroupId": "group-7e598e83a1b6cf",
+    "image": "assets/dishes/dish-296683b491d9.webp",
+    "sha256": "0e84d172b5bc438e81dfdd2bfc56083c55e1c1b78b32af0736010f56b2d5426c"
+  },
+  {
+    "id": "dish-4fbdd7371f38",
+    "name": "鸡蛋灌饼",
+    "imageId": "dish-4fbdd7371f38",
+    "dishGroupId": "group-4dee8c7255ae6f",
+    "image": "assets/dishes/dish-4fbdd7371f38.webp",
+    "sha256": "23e97548e61f164c2d3e742ce3a6e45081e34b35a559666a25b16ba0b40024a5"
+  },
+  {
+    "id": "dish-d424be2109c6",
+    "name": "章鱼小丸子",
+    "imageId": "dish-d424be2109c6",
+    "dishGroupId": "group-a6b2e54346ec13",
+    "image": "assets/dishes/dish-d424be2109c6.webp",
+    "sha256": "175a00cebdc00b56935686aca625cfa09ebaab6166c5a2076d73f94e7c6dd33e"
+  },
+  {
+    "id": "dish-1f20447302d5",
+    "name": "麻辣烫",
+    "imageId": "dish-1f20447302d5",
+    "dishGroupId": "group-5f751e1a8bbd47",
+    "image": "assets/dishes/dish-1f20447302d5.webp",
+    "sha256": "af3c965e6fed3b4fd1e172541957444aac72732f3827ed97b1bc8c35edfe0ce7"
+  },
+  {
+    "id": "dish-fb5cd60fe7ed",
+    "name": "螺蛳粉",
+    "imageId": "dish-fb5cd60fe7ed",
+    "dishGroupId": "group-748c76a3e05c9e",
+    "image": "assets/dishes/dish-fb5cd60fe7ed.webp",
+    "sha256": "201505d95fe4f280caee7769b1ee74c0fc22beecf50b3c8d80eda40363cda5ce"
+  },
+  {
+    "id": "dish-13f72833790d",
+    "name": "煎饼果子",
+    "imageId": "dish-13f72833790d",
+    "dishGroupId": "group-61091b1c72f11b",
+    "image": "assets/dishes/dish-13f72833790d.webp",
+    "sha256": "7ec2c0b4f265f804806c4e90ce8f5f4cd044438a7b77e43bc6b5f5b5be5d9bb9"
+  },
+  {
+    "id": "dish-1165499460f8",
+    "name": "鲜肉包",
+    "imageId": "dish-1165499460f8",
+    "dishGroupId": "group-62d0a987d758eb",
+    "image": "assets/dishes/dish-1165499460f8.webp",
+    "sha256": "6a6d916e621dd1ed7addea12140b2518f0326dbbc451f155596cc950b6b72203"
+  },
+  {
+    "id": "dish-466418a6a895",
+    "name": "香菇青菜包",
+    "imageId": "dish-466418a6a895",
+    "dishGroupId": "group-fc050a041d5c24",
+    "image": "assets/dishes/dish-466418a6a895.webp",
+    "sha256": "be20d9af501a6bd10e24f56fce8c8c21dfd8adad8c96a0a90fef9f74044d8d55"
+  },
+  {
+    "id": "dish-3ea3ccc8fb9c",
+    "name": "豆沙包",
+    "imageId": "dish-3ea3ccc8fb9c",
+    "dishGroupId": "group-effe5501f4d46c",
+    "image": "assets/dishes/dish-3ea3ccc8fb9c.webp",
+    "sha256": "4dbcc447e43b4be89e685040ac7b722e02fe7e2b1c307b7f1ae2aff143aee67e"
+  },
+  {
+    "id": "dish-13b8b9749e58",
+    "name": "韭菜鸡蛋包",
+    "imageId": "dish-13b8b9749e58",
+    "dishGroupId": "group-40345dc15d8168",
+    "image": "assets/dishes/dish-13b8b9749e58.webp",
+    "sha256": "13054da45265060d7d58e259e4585ef84bd555b97b578cac05dba3b42bcfb72c"
+  },
+  {
+    "id": "dish-adfb76314e3a",
+    "name": "粉丝包",
+    "imageId": "dish-adfb76314e3a",
+    "dishGroupId": "group-77de239f02ac56",
+    "image": "assets/dishes/dish-adfb76314e3a.webp",
+    "sha256": "511b1994255936db19b532770087658505ceb0f5c282afe1532edc9698d11d34"
+  },
+  {
+    "id": "dish-08f407d0e18b",
+    "name": "花卷",
+    "imageId": "dish-08f407d0e18b",
+    "dishGroupId": "group-c84159345e9c96",
+    "image": "assets/dishes/dish-08f407d0e18b.webp",
+    "sha256": "fc81df00089c460a2df502e326886ea6c78a4617841eb555195228352699f90c"
+  },
+  {
+    "id": "dish-4f5782af6b3e",
+    "name": "馒头",
+    "imageId": "dish-4f5782af6b3e",
+    "dishGroupId": "group-04e9839104379d",
+    "image": "assets/dishes/dish-4f5782af6b3e.webp",
+    "sha256": "bc37e552c97506847e5719034ea87d6b614993490b4fe9a577f6cb41bcb5a357"
+  },
+  {
+    "id": "dish-6bf1d1e61784",
+    "name": "葱油饼",
+    "imageId": "dish-6bf1d1e61784",
+    "dishGroupId": "group-f1b2de748a7d89",
+    "image": "assets/dishes/dish-6bf1d1e61784.webp",
+    "sha256": "3762c5142237a23ade579704421b6c3d8939becb2e2687e6366c2be568564a4e"
+  },
+  {
+    "id": "dish-0b6422b5abcd",
+    "name": "芝麻烧饼",
+    "imageId": "dish-0b6422b5abcd",
+    "dishGroupId": "group-0feb6683551cb1",
+    "image": "assets/dishes/dish-0b6422b5abcd.webp",
+    "sha256": "987042304fc93d8f40c748d3fefe48d8771bdc19ebf06e67c127ba81f44406a2"
+  },
+  {
+    "id": "dish-a9958774d943",
+    "name": "牛肉烧饼",
+    "imageId": "dish-a9958774d943",
+    "dishGroupId": "group-de1be13be4e14b",
+    "image": "assets/dishes/dish-a9958774d943.webp",
+    "sha256": "4bcf858b78e7ad0837243c7b11986f2a3a1fc20a4a23bc046c2e5f1a60d4b5d8"
+  },
+  {
+    "id": "dish-da8f086d5482",
+    "name": "油酥饼",
+    "imageId": "dish-da8f086d5482",
+    "dishGroupId": "group-43e7be4588599f",
+    "image": "assets/dishes/dish-da8f086d5482.webp",
+    "sha256": "185d1dd3b88237241b32611e1acac1b676416c80d78268fe292e1e50ad1012fa"
+  },
+  {
+    "id": "dish-1d8066e00175",
+    "name": "韭菜盒子",
+    "imageId": "dish-1d8066e00175",
+    "dishGroupId": "group-be45c4c10a23fe",
+    "image": "assets/dishes/dish-1d8066e00175.webp",
+    "sha256": "e2bf665de0492da8db8f33961d57b885655d1d9aa2c7d8d85efa3d49db9438f4"
+  },
+  {
+    "id": "dish-2e7e2d005ee8",
+    "name": "萝卜丝饼",
+    "imageId": "dish-2e7e2d005ee8",
+    "dishGroupId": "group-0d80378526a275",
+    "image": "assets/dishes/dish-2e7e2d005ee8.webp",
+    "sha256": "fa1225849b7a0eecdf6e04c6fb5c91e6db4ff5d86af860ccf870f13e8a964cf6"
+  },
+  {
+    "id": "dish-37a17f1fb0e8",
+    "name": "红糖发糕",
+    "imageId": "dish-37a17f1fb0e8",
+    "dishGroupId": "group-8f1508ba82bc47",
+    "image": "assets/dishes/dish-37a17f1fb0e8.webp",
+    "sha256": "c023159ea96f886a04ab5a3144d03fc12493fe05e94b801dba211701d5de43da"
+  },
+  {
+    "id": "dish-25c80b542404",
+    "name": "玉米发糕",
+    "imageId": "dish-25c80b542404",
+    "dishGroupId": "group-eea3369559ef86",
+    "image": "assets/dishes/dish-25c80b542404.webp",
+    "sha256": "e902a96dff83a629dff0c24f628e96791405187009de4c74eeae29a364e9bcc7"
+  },
+  {
+    "id": "dish-930a225fa9f5",
+    "name": "蒸红薯",
+    "imageId": "dish-930a225fa9f5",
+    "dishGroupId": "group-35f570025998ed",
+    "image": "assets/dishes/dish-930a225fa9f5.webp",
+    "sha256": "68ef6c70be74a465f87090a76aa67a6cfaded9d28c380a1b03ff3927ea08f278"
+  },
+  {
+    "id": "dish-6864fe54846c",
+    "name": "油泼面",
+    "imageId": "dish-6864fe54846c",
+    "dishGroupId": "group-f90c7d600e737f",
+    "image": "assets/dishes/dish-6864fe54846c.webp",
+    "sha256": "1ec76a338ff618f2562a55c1bf3645693890178f4f872935e8fbe5c05fd2eae2"
+  },
+  {
+    "id": "dish-7d27f70598eb",
+    "name": "葱油拌面",
+    "imageId": "dish-7d27f70598eb",
+    "dishGroupId": "group-d9a8c1b003251f",
+    "image": "assets/dishes/dish-7d27f70598eb.webp",
+    "sha256": "e5fe121cd03df43d9b59947f69a0c30382a0841944921b6ed77e97214a178e65"
+  },
+  {
+    "id": "dish-d81bd7e78904",
+    "name": "担担面",
+    "imageId": "dish-d81bd7e78904",
+    "dishGroupId": "group-3fea219bb3077a",
+    "image": "assets/dishes/dish-d81bd7e78904.webp",
+    "sha256": "d5ab00c0a1d9f821eb8f99c880ca288f30b4c2cd437e39928b2ffed2da7796c7"
+  },
+  {
+    "id": "dish-480b01513cb2",
+    "name": "重庆小面",
+    "imageId": "dish-480b01513cb2",
+    "dishGroupId": "group-f77e2abe6acb32",
+    "image": "assets/dishes/dish-480b01513cb2.webp",
+    "sha256": "10e5b5ebb2806ea8977fa2431a66b0e70246dbe98f1dd5121584e206e9d15e93"
+  },
+  {
+    "id": "dish-d2626f0ca553",
+    "name": "刀削面",
+    "imageId": "dish-d2626f0ca553",
+    "dishGroupId": "group-15a71f8f61b33c",
+    "image": "assets/dishes/dish-d2626f0ca553.webp",
+    "sha256": "2eba5e2b441fbcf8948b9d7a5e1cc41e3d9b54a60fa648bf4fe8c1d44c3edcb7"
+  },
+  {
+    "id": "dish-ebf42a40616b",
+    "name": "豆角焖面",
+    "imageId": "dish-ebf42a40616b",
+    "dishGroupId": "group-975e4777df64a0",
+    "image": "assets/dishes/dish-ebf42a40616b.webp",
+    "sha256": "c907bc1e0b96e33ad363b0d6312c489b7e10c44ae875a22473f299ba678fef8b"
+  },
+  {
+    "id": "dish-d4d8a45c9ff1",
+    "name": "河南蒸卤面",
+    "imageId": "dish-d4d8a45c9ff1",
+    "dishGroupId": "group-9bd9009d5e2db0",
+    "image": "assets/dishes/dish-d4d8a45c9ff1.webp",
+    "sha256": "9b44800db020d4481a7d9099c020a81dad82ba3013ec75799ff195402f28a2c1"
+  },
+  {
+    "id": "dish-0e4920680fab",
+    "name": "浆面条",
+    "imageId": "dish-0e4920680fab",
+    "dishGroupId": "group-1e9f6856714511",
+    "image": "assets/dishes/dish-0e4920680fab.webp",
+    "sha256": "250d0e925bde3ee7582209bc766f63707dbee9eb5d11fc2812b515a3327d7c2a"
+  },
+  {
+    "id": "dish-848191cd2b92",
+    "name": "烩麻食",
+    "imageId": "dish-848191cd2b92",
+    "dishGroupId": "group-5e1993ff2df01a",
+    "image": "assets/dishes/dish-848191cd2b92.webp",
+    "sha256": "0725a7a0fcedf130e8364935938b80c9d64856ea9504de045a6149c4c99a6e7d"
+  },
+  {
+    "id": "dish-1eaf24e84345",
+    "name": "炒饸饹",
+    "imageId": "dish-1eaf24e84345",
+    "dishGroupId": "group-9cae169db8dac2",
+    "image": "assets/dishes/dish-1eaf24e84345.webp",
+    "sha256": "a3ecba748582b580a1cb9105f9cf3c2cac7e6b53fb6b15d6135b6b0e19e40585"
+  },
+  {
+    "id": "dish-ecf0243151da",
+    "name": "牛肉炒拉条",
+    "imageId": "dish-ecf0243151da",
+    "dishGroupId": "group-f98d5fd698d691",
+    "image": "assets/dishes/dish-ecf0243151da.webp",
+    "sha256": "b47f23f1f9e924d1dbda9cc0482172ddabf19c9cac5a74aebac0b005254c35fd"
+  },
+  {
+    "id": "dish-cd74351f3cb6",
+    "name": "凉皮",
+    "imageId": "dish-cd74351f3cb6",
+    "dishGroupId": "group-b3f06acf987560",
+    "image": "assets/dishes/dish-cd74351f3cb6.webp",
+    "sha256": "440f0f78f41f2f17a2e8cdd7a36e8f22c786814e0fe16e2d986ebf514fc718d1"
+  },
+  {
+    "id": "dish-6220e5053a19",
+    "name": "凉拌荞麦面",
+    "imageId": "dish-6220e5053a19",
+    "dishGroupId": "group-9be0b703c2284d",
+    "image": "assets/dishes/dish-6220e5053a19.webp",
+    "sha256": "b60ebcceb8501e2c638e417d12f700ac66cdd52e27c5c9fd71f7ed96ef7213d2"
+  },
+  {
+    "id": "dish-a897049ce519",
+    "name": "肥肠粉",
+    "imageId": "dish-a897049ce519",
+    "dishGroupId": "group-b19c41573bb316",
+    "image": "assets/dishes/dish-a897049ce519.webp",
+    "sha256": "cf20064c051fd011a2e0e63087ad5f9cee4f2a41495058b4099b00d84e2a6063"
+  },
+  {
+    "id": "dish-12242efe68e0",
+    "name": "鸭血粉丝汤",
+    "imageId": "dish-12242efe68e0",
+    "dishGroupId": "group-636d5046d94359",
+    "image": "assets/dishes/dish-12242efe68e0.webp",
+    "sha256": "9f9467277ee4a06b8329909db6c244a8ff5e306de89998ab8f5bc45bfbefe0c5"
+  },
+  {
+    "id": "dish-bf87dcfd867e",
+    "name": "桂林米粉",
+    "imageId": "dish-bf87dcfd867e",
+    "dishGroupId": "group-55ec60ede93779",
+    "image": "assets/dishes/dish-bf87dcfd867e.webp",
+    "sha256": "046297d0d781bb5368af1dd8b2e3ddf39fdd7b1bca33e7b6d9b36bbb342b8f56"
+  },
+  {
+    "id": "dish-f65a283f2eab",
+    "name": "云南饵丝",
+    "imageId": "dish-f65a283f2eab",
+    "dishGroupId": "group-a86808e8a3153e",
+    "image": "assets/dishes/dish-f65a283f2eab.webp",
+    "sha256": "5754867ab8ed3f5b7759059f8cbb3a854569d83383b89a028f4a76537f8bec90"
+  },
+  {
+    "id": "dish-24b9d2cb6a85",
+    "name": "酸菜鱼米线",
+    "imageId": "dish-24b9d2cb6a85",
+    "dishGroupId": "group-5e9e092d8ea013",
+    "image": "assets/dishes/dish-24b9d2cb6a85.webp",
+    "sha256": "71879c306c364c54b58863bf229e512aeb38b04238406e879d2c84f25fcc809e"
+  },
+  {
+    "id": "dish-02e831d63a96",
+    "name": "咖喱鸡饭",
+    "imageId": "dish-02e831d63a96",
+    "dishGroupId": "group-ed95b1688398b5",
+    "image": "assets/dishes/dish-02e831d63a96.webp",
+    "sha256": "1e9fda0838c8ae84552a0acd2ef8d05fb06a524571448cca5ae0600172a3bf3c"
+  },
+  {
+    "id": "dish-134ead275ca6",
+    "name": "咖喱牛肉饭",
+    "imageId": "dish-134ead275ca6",
+    "dishGroupId": "group-ff57de24f31ea7",
+    "image": "assets/dishes/dish-134ead275ca6.webp",
+    "sha256": "58e909d4a872847543e9d5684ceef35f93d81dd4e068679b557d449b77e67c6b"
+  },
+  {
+    "id": "dish-1854c044dc9d",
+    "name": "照烧鸡腿饭",
+    "imageId": "dish-1854c044dc9d",
+    "dishGroupId": "group-734073089d5bd6",
+    "image": "assets/dishes/dish-1854c044dc9d.webp",
+    "sha256": "1ce740b112b37f8ee09496662e5a4df4b6a9b39b219157d1e9e48e5aca6edcb8"
+  },
+  {
+    "id": "dish-b4cf2f84e120",
+    "name": "黑椒牛柳饭",
+    "imageId": "dish-b4cf2f84e120",
+    "dishGroupId": "group-b471417918837a",
+    "image": "assets/dishes/dish-b4cf2f84e120.webp",
+    "sha256": "707ee5d9518a8f2dfaf00bedabd1630bff1a0fe68281712b282b4525506416c6"
+  },
+  {
+    "id": "dish-19009116e04e",
+    "name": "土豆牛腩饭",
+    "imageId": "dish-19009116e04e",
+    "dishGroupId": "group-116c94214fd81d",
+    "image": "assets/dishes/dish-19009116e04e.webp",
+    "sha256": "7fd6d29d884fe3b494faea1c81ff1e562a5d3c5b1a97cf50ed7be404c4816f0e"
+  },
+  {
+    "id": "dish-54fb7db06d7e",
+    "name": "梅菜扣肉饭",
+    "imageId": "dish-54fb7db06d7e",
+    "dishGroupId": "group-064fa2c3f9ba96",
+    "image": "assets/dishes/dish-54fb7db06d7e.webp",
+    "sha256": "2ded172717778f9c45808ed0d2d241eb96927f24ea9da1b861eff73288189a98"
+  },
+  {
+    "id": "dish-98534f1833f5",
+    "name": "红烧肉饭",
+    "imageId": "dish-98534f1833f5",
+    "dishGroupId": "group-80fd8fd74b08fd",
+    "image": "assets/dishes/dish-98534f1833f5.webp",
+    "sha256": "567cfe33866282a206e2641adafda28cb5167eca8c981a251023b7227374c45c"
+  },
+  {
+    "id": "dish-62c3f3c2909a",
+    "name": "豉汁排骨饭",
+    "imageId": "dish-62c3f3c2909a",
+    "dishGroupId": "group-84b1f292a5280d",
+    "image": "assets/dishes/dish-62c3f3c2909a.webp",
+    "sha256": "af23af4397ceb23b75880867547beffc365ef73904cf2ba88eb85b0341eaf775"
+  },
+  {
+    "id": "dish-3b6e3e90c992",
+    "name": "糖醋里脊饭",
+    "imageId": "dish-3b6e3e90c992",
+    "dishGroupId": "group-f5735253ad252f",
+    "image": "assets/dishes/dish-3b6e3e90c992.webp",
+    "sha256": "e7c074f83f40a43fe1f1c2ac013931b98247f85ca99255d17351441bdd14247a"
+  },
+  {
+    "id": "dish-a6f473413155",
+    "name": "木须肉饭",
+    "imageId": "dish-a6f473413155",
+    "dishGroupId": "group-54343f16f8594c",
+    "image": "assets/dishes/dish-a6f473413155.webp",
+    "sha256": "95f751b5a4f743c5a14851981a8074acb385201be7e865cbe97976f4616aa34d"
+  },
+  {
+    "id": "dish-47d33f57935f",
+    "name": "家常豆腐饭",
+    "imageId": "dish-47d33f57935f",
+    "dishGroupId": "group-788d551a193713",
+    "image": "assets/dishes/dish-47d33f57935f.webp",
+    "sha256": "dcf86443148c38b52df164e748fde1cd988b507a64cbc7277c15836d46afbffc"
+  },
+  {
+    "id": "dish-815a0f693283",
+    "name": "肉末豆角饭",
+    "imageId": "dish-815a0f693283",
+    "dishGroupId": "group-28797c8ab3983a",
+    "image": "assets/dishes/dish-815a0f693283.webp",
+    "sha256": "33e701145287caa424562d0540757179920caf49cf7266a1190ef657e5fa3695"
+  },
+  {
+    "id": "dish-ac13158911bc",
+    "name": "咖喱土豆饭",
+    "imageId": "dish-ac13158911bc",
+    "dishGroupId": "group-05f047b8f053c7",
+    "image": "assets/dishes/dish-ac13158911bc.webp",
+    "sha256": "9b7ce2d0addb377e6366337f95036e967be60665bb3e55c5cf30eb2604330f36"
+  },
+  {
+    "id": "dish-f6ce3d914cd1",
+    "name": "菠萝炒饭",
+    "imageId": "dish-f6ce3d914cd1",
+    "dishGroupId": "group-c4ce9cf89a445a",
+    "image": "assets/dishes/dish-f6ce3d914cd1.webp",
+    "sha256": "f0a5bd67fbeb3a8e57556688b5ec61f2fb4f009e1a14e728e2c0957021f5d390"
+  },
+  {
+    "id": "dish-b6475473ca7c",
+    "name": "腊味炒饭",
+    "imageId": "dish-b6475473ca7c",
+    "dishGroupId": "group-766aa12a3fd1b3",
+    "image": "assets/dishes/dish-b6475473ca7c.webp",
+    "sha256": "44caba1b72481c12adc3709c867262a47a01130af66a9ec58cb7509b0d42c99a"
+  },
+  {
+    "id": "dish-097984f64b59",
+    "name": "咸蛋黄炒饭",
+    "imageId": "dish-097984f64b59",
+    "dishGroupId": "group-b73e1dbe3f6791",
+    "image": "assets/dishes/dish-097984f64b59.webp",
+    "sha256": "065066304da084f0bce16ebb3724040d2832b941bc0be1e8c81f063eb732b03b"
+  },
+  {
+    "id": "dish-dc8cdc28d690",
+    "name": "青椒肉丝饭",
+    "imageId": "dish-dc8cdc28d690",
+    "dishGroupId": "group-f2bee4c9732e5e",
+    "image": "assets/dishes/dish-dc8cdc28d690.webp",
+    "sha256": "90aaed12ce321603a705e3e1cc5e34bc786077dcbab0ff83090eaecaf82f4650"
+  },
+  {
+    "id": "dish-bc8c167ac1e8",
+    "name": "地三鲜饭",
+    "imageId": "dish-bc8c167ac1e8",
+    "dishGroupId": "group-475c96461f6b6b",
+    "image": "assets/dishes/dish-bc8c167ac1e8.webp",
+    "sha256": "ee9f2874d1465d208f422b6f564051ae0eec47f38067eda902ba0ced6d908684"
+  },
+  {
+    "id": "dish-7f6f6444e1c1",
+    "name": "西红柿炒鸡蛋",
+    "imageId": "dish-7f6f6444e1c1",
+    "dishGroupId": "group-d8013dbfc994a3",
+    "image": "assets/dishes/dish-7f6f6444e1c1.webp",
+    "sha256": "f0bcea4f886fa14840cddf5badff7770554ba7aac65c9b7d40c80369d9e783c0"
+  },
+  {
+    "id": "dish-18c09e179cff",
+    "name": "地三鲜",
+    "imageId": "dish-18c09e179cff",
+    "dishGroupId": "group-c47bf578cc65f9",
+    "image": "assets/dishes/dish-18c09e179cff.webp",
+    "sha256": "eae8a0b0949ac10e716e7bc831f3ba5c2ac91da12a5d5f3729bef20bd6a82dec"
+  },
+  {
+    "id": "dish-257e525ac6bb",
+    "name": "鱼香肉丝",
+    "imageId": "dish-257e525ac6bb",
+    "dishGroupId": "group-c636ca5551ddea",
+    "image": "assets/dishes/dish-257e525ac6bb.webp",
+    "sha256": "12f7065b14823d35b468943df2fc10266e179295e5de14f5a07295b414334fa3"
+  },
+  {
+    "id": "dish-85d749b59738",
+    "name": "宫保鸡丁",
+    "imageId": "dish-85d749b59738",
+    "dishGroupId": "group-9d1f81d92d7bcd",
+    "image": "assets/dishes/dish-85d749b59738.webp",
+    "sha256": "50e84bce1d8df2f8d39c074b68587af2f5447b3efc5e96ad65bd9fffb7f55694"
+  },
+  {
+    "id": "dish-5df238de60f8",
+    "name": "麻婆豆腐",
+    "imageId": "dish-5df238de60f8",
+    "dishGroupId": "group-46c61010c72129",
+    "image": "assets/dishes/dish-5df238de60f8.webp",
+    "sha256": "079fd919481c17b82cd2f73d5a6b410f989537147af6664c4e39bfb7a83973ba"
+  },
+  {
+    "id": "dish-fb7994cc09dc",
+    "name": "干煸豆角",
+    "imageId": "dish-fb7994cc09dc",
+    "dishGroupId": "group-8f4435222cf1f7",
+    "image": "assets/dishes/dish-fb7994cc09dc.webp",
+    "sha256": "cbb0d9619e60bda33f6ac1f3ceec7f9195f8c20bcb10efbe8b24976d12dd7313"
+  },
+  {
+    "id": "dish-3014d78585e3",
+    "name": "蒜蓉西兰花",
+    "imageId": "dish-3014d78585e3",
+    "dishGroupId": "group-10703a2e5f1137",
+    "image": "assets/dishes/dish-3014d78585e3.webp",
+    "sha256": "7df9860032de050807d7786f5c3e80f55e5331107661681c1bfaef7598ded702"
+  },
+  {
+    "id": "dish-723e1397b077",
+    "name": "手撕包菜",
+    "imageId": "dish-723e1397b077",
+    "dishGroupId": "group-c9d48f64778db3",
+    "image": "assets/dishes/dish-723e1397b077.webp",
+    "sha256": "7c373e59793da282249f1920a163f867f46fc1509877d83cdbcc189085fb8468"
+  },
+  {
+    "id": "dish-2e87552c2f05",
+    "name": "清炒油麦菜",
+    "imageId": "dish-2e87552c2f05",
+    "dishGroupId": "group-5914f1233aaa02",
+    "image": "assets/dishes/dish-2e87552c2f05.webp",
+    "sha256": "31fc104393f391c90903e889546328a73dc0a8dce786cd0fabd7ae882c7ac3e0"
+  },
+  {
+    "id": "dish-afb30f10f9a6",
+    "name": "蒜薹炒肉",
+    "imageId": "dish-afb30f10f9a6",
+    "dishGroupId": "group-b48e0f4c1cc7c9",
+    "image": "assets/dishes/dish-afb30f10f9a6.webp",
+    "sha256": "3718e14dd4c2378ae7e4b76143411ae00a8e27c65f6792f422aa6c17ea460aa8"
+  },
+  {
+    "id": "dish-39806ee771b2",
+    "name": "洋葱炒牛肉",
+    "imageId": "dish-39806ee771b2",
+    "dishGroupId": "group-1a0f3526c84a51",
+    "image": "assets/dishes/dish-39806ee771b2.webp",
+    "sha256": "1017685f3c7b62d314d4f13c77da6ea73dd31070f138508e2b928ab2d0c73076"
+  },
+  {
+    "id": "dish-50738608f152",
+    "name": "木耳炒鸡蛋",
+    "imageId": "dish-50738608f152",
+    "dishGroupId": "group-56772bd3f3b8cc",
+    "image": "assets/dishes/dish-50738608f152.webp",
+    "sha256": "ff9590569a2277246926ded7ffb0f527d28fcf57f945086393b708a43552310d"
+  },
+  {
+    "id": "dish-5096ab98c8b6",
+    "name": "香菇滑鸡",
+    "imageId": "dish-5096ab98c8b6",
+    "dishGroupId": "group-144ffa01fdace1",
+    "image": "assets/dishes/dish-5096ab98c8b6.webp",
+    "sha256": "da21c996d13cc06d7090b7297e66a777b858f9ea08f934370498fb2c1844b9f8"
+  },
+  {
+    "id": "dish-da6f65859fb8",
+    "name": "香干炒肉",
+    "imageId": "dish-da6f65859fb8",
+    "dishGroupId": "group-5b4fe6d9834b91",
+    "image": "assets/dishes/dish-da6f65859fb8.webp",
+    "sha256": "0ea9945ffa10617d1ce66e7a734b97e22560926463532b890ea426a28c752a79"
+  },
+  {
+    "id": "dish-4b3703455de6",
+    "name": "山药排骨汤",
+    "imageId": "dish-4b3703455de6",
+    "dishGroupId": "group-a8bcb0e15b7905",
+    "image": "assets/dishes/dish-4b3703455de6.webp",
+    "sha256": "ddd6dc0f9de7ab9fa6061f716e3cb673d8cf5c5db7f43abc07f6d50b80e154aa"
+  },
+  {
+    "id": "dish-01e469b55885",
+    "name": "冬瓜丸子汤",
+    "imageId": "dish-01e469b55885",
+    "dishGroupId": "group-960927ca7c2a3b",
+    "image": "assets/dishes/dish-01e469b55885.webp",
+    "sha256": "e911be87e9e7775d981160ac4c89cc1043f0acb5681a81b3275884e7c0dbdf16"
+  },
+  {
+    "id": "dish-06ede24c280c",
+    "name": "萝卜牛腩煲",
+    "imageId": "dish-06ede24c280c",
+    "dishGroupId": "group-834282011b64ea",
+    "image": "assets/dishes/dish-06ede24c280c.webp",
+    "sha256": "e9195c50b405f80cf7029f1d805efbd32f51183b774261fac037899df143a363"
+  },
+  {
+    "id": "dish-7dff67793a9a",
+    "name": "番茄肥牛锅",
+    "imageId": "dish-7dff67793a9a",
+    "dishGroupId": "group-2cc1a8834f4d83",
+    "image": "assets/dishes/dish-7dff67793a9a.webp",
+    "sha256": "f76862957a6ef95f44e7ef6a9140a805183859bfec50fdea9552cc11c402bf7f"
+  },
+  {
+    "id": "dish-3e6b5e85dcf7",
+    "name": "菌菇豆腐煲",
+    "imageId": "dish-3e6b5e85dcf7",
+    "dishGroupId": "group-f9ffed1ba05ac3",
+    "image": "assets/dishes/dish-3e6b5e85dcf7.webp",
+    "sha256": "02dda8039095365aa057c2300ef94b0d76b69cd8b8521c048e398d9a8fc8220a"
+  },
+  {
+    "id": "dish-b755c01c4672",
+    "name": "莲子八宝粥",
+    "imageId": "dish-b755c01c4672",
+    "dishGroupId": "group-942c9d0dca8460",
+    "image": "assets/dishes/dish-b755c01c4672.webp",
+    "sha256": "98b438b157729e940b217e77d98295aa10047c60e537f2bd30e251da977d17f3"
+  },
+  {
+    "id": "dish-635d50916a9c",
+    "name": "小米粥",
+    "imageId": "dish-635d50916a9c",
+    "dishGroupId": "group-8051fcbe087643",
+    "image": "assets/dishes/dish-635d50916a9c.webp",
+    "sha256": "39d9cf32be3148d3a5a42e4314dbb70984103ceee845f2e547d37e693e28b26f"
+  },
+  {
+    "id": "dish-7e1ab784bb3a",
+    "name": "黑米粥",
+    "imageId": "dish-7e1ab784bb3a",
+    "dishGroupId": "group-57fed0bd9e977c",
+    "image": "assets/dishes/dish-7e1ab784bb3a.webp",
+    "sha256": "704e987f8eb719540ce946f143885b489efc6c15efb8e9b9854a9bd8eff8bca8"
+  },
+  {
+    "id": "dish-8430d5d08f2d",
+    "name": "绿豆粥",
+    "imageId": "dish-8430d5d08f2d",
+    "dishGroupId": "group-05c27d8e01ae24",
+    "image": "assets/dishes/dish-8430d5d08f2d.webp",
+    "sha256": "b3c4eab5235698dae3ecbc8bbfc2854a07c596278611e3346d5fdd116dfca207"
+  },
+  {
+    "id": "dish-c927711604c1",
+    "name": "银耳莲子羹",
+    "imageId": "dish-c927711604c1",
+    "dishGroupId": "group-d931d336561add",
+    "image": "assets/dishes/dish-c927711604c1.webp",
+    "sha256": "7dbd0b19a750cd21204297a78c3be7820b65c8d0cb6a75381f7536dfb0fa1ca7"
+  },
+  {
+    "id": "dish-298f08500559",
+    "name": "金枪鱼饭团",
+    "imageId": "dish-298f08500559",
+    "dishGroupId": "group-cb8aabaaa3647e",
+    "image": "assets/dishes/dish-298f08500559.webp",
+    "sha256": "f39acc014f7c428b691974e1c6343f0c9d6613747707463856a08f800d21b529"
+  },
+  {
+    "id": "dish-73cc4d06a467",
+    "name": "肉松饭团",
+    "imageId": "dish-73cc4d06a467",
+    "dishGroupId": "group-8c62037babab29",
+    "image": "assets/dishes/dish-73cc4d06a467.webp",
+    "sha256": "8ebd7a77e337bdea5271b77a616f2f15a3e7641bcea5ef326ec1e33b5ed68547"
+  },
+  {
+    "id": "dish-d180dd9fe34e",
+    "name": "紫米饭团",
+    "imageId": "dish-d180dd9fe34e",
+    "dishGroupId": "group-f086503a360bb8",
+    "image": "assets/dishes/dish-d180dd9fe34e.webp",
+    "sha256": "ccdf08fd3803fb4276af606275927f93dac15d8682dd19709aa29ef711a200d7"
+  },
+  {
+    "id": "dish-dd8b8457c0eb",
+    "name": "鸡蛋三明治",
+    "imageId": "dish-dd8b8457c0eb",
+    "dishGroupId": "group-0836aa4bae9181",
+    "image": "assets/dishes/dish-dd8b8457c0eb.webp",
+    "sha256": "9e6d40956cb1eef28021062a6c5b9962ff5e1057a373e8cb03b051a3fc87846a"
+  },
+  {
+    "id": "dish-489cfbdffc36",
+    "name": "火腿三明治",
+    "imageId": "dish-489cfbdffc36",
+    "dishGroupId": "group-491e4fbf9ddf6f",
+    "image": "assets/dishes/dish-489cfbdffc36.webp",
+    "sha256": "59c9fcf67e8f80c2e35233e3f59bd3a6786e580e8ba60c91ab7515a3afc62494"
+  },
+  {
+    "id": "dish-93c2a29049b3",
+    "name": "烤鸡三明治",
+    "imageId": "dish-93c2a29049b3",
+    "dishGroupId": "group-8afda44530628c",
+    "image": "assets/dishes/dish-93c2a29049b3.webp",
+    "sha256": "65b22ece436d0660e32f9ca1323f4fcfdd9aa51b219c2b5877dc415c0a8a44cd"
+  },
+  {
+    "id": "dish-4420273304c7",
+    "name": "鸡胸肉沙拉",
+    "imageId": "dish-4420273304c7",
+    "dishGroupId": "group-4674d32c895214",
+    "image": "assets/dishes/dish-4420273304c7.webp",
+    "sha256": "1fb22ebfcdc989acd527cc9681a4b711e33efd3fd68a0f3b563bb2d4ab0f0e75"
+  },
+  {
+    "id": "dish-58f4019a8de2",
+    "name": "金枪鱼沙拉",
+    "imageId": "dish-58f4019a8de2",
+    "dishGroupId": "group-e68303750b7307",
+    "image": "assets/dishes/dish-58f4019a8de2.webp",
+    "sha256": "8c8544bb34e44d27bc83f800a9cef1ddb06b1a3b8a3a84a4192140bdce43f3d8"
+  },
+  {
+    "id": "dish-9a02477354d7",
+    "name": "土豆泥沙拉",
+    "imageId": "dish-9a02477354d7",
+    "dishGroupId": "group-57bc4959b1d0a0",
+    "image": "assets/dishes/dish-9a02477354d7.webp",
+    "sha256": "5a15702409ccce006d229e99e8bf1ac024ad1d13471ce065897a14c349fb6037"
+  },
+  {
+    "id": "dish-b4cd8a6c75e7",
+    "name": "南瓜杂粮碗",
+    "imageId": "dish-b4cd8a6c75e7",
+    "dishGroupId": "group-ec5cf6ee78e41e",
+    "image": "assets/dishes/dish-b4cd8a6c75e7.webp",
+    "sha256": "54dc2dae54021e1765f02ec5fcade31791da466a01381325e5eb58993fe65711"
+  },
+  {
+    "id": "dish-59f2a65decef",
+    "name": "玉米蔬菜卷",
+    "imageId": "dish-59f2a65decef",
+    "dishGroupId": "group-5be8271b2ad6f8",
+    "image": "assets/dishes/dish-59f2a65decef.webp",
+    "sha256": "9728e193755c50a39b12ba8238a450080a8ec127e32af6714fa811a6d44680c0"
+  },
+  {
+    "id": "dish-2c86af4b6f21",
+    "name": "紫薯燕麦碗",
+    "imageId": "dish-2c86af4b6f21",
+    "dishGroupId": "group-067f0a0177f5ee",
+    "image": "assets/dishes/dish-2c86af4b6f21.webp",
+    "sha256": "a83b462f004c39147f9e72b12647de675eb7a9a0bb498db07d01531976c16f5d"
+  },
+  {
+    "id": "dish-7e12e60443f8",
+    "name": "铁板牛肉",
+    "imageId": "dish-7e12e60443f8",
+    "dishGroupId": "group-8e10383043ca7c",
+    "image": "assets/dishes/dish-7e12e60443f8.webp",
+    "sha256": "114923d710d2e13b09c1b948f82a35a9b952b6218ae78d4180f0907bdb44be5d"
+  },
+  {
+    "id": "dish-41c2d0cbe47a",
+    "name": "黑椒铁板意面",
+    "imageId": "dish-41c2d0cbe47a",
+    "dishGroupId": "group-b88bc9312fbed0",
+    "image": "assets/dishes/dish-41c2d0cbe47a.webp",
+    "sha256": "d2cf3424a8d7b08f77ff2b8dc7675538f7bf300c3b9acb8cce1e52b689806ac4"
+  },
+  {
+    "id": "dish-e354cfae80e2",
+    "name": "香煎鸡排",
+    "imageId": "dish-e354cfae80e2",
+    "dishGroupId": "group-3d0806bac8e136",
+    "image": "assets/dishes/dish-e354cfae80e2.webp",
+    "sha256": "b7955b4e0092ffb51459f9c8cec0aa0b0e25a5b4d787cb9fe8209f13da7e0245"
+  },
+  {
+    "id": "dish-bcf87e1d6b60",
+    "name": "炸鸡翅",
+    "imageId": "dish-bcf87e1d6b60",
+    "dishGroupId": "group-be26a3f623e39d",
+    "image": "assets/dishes/dish-bcf87e1d6b60.webp",
+    "sha256": "f4c0163a75ef056e102720d19be2eefb9190555dcec8c8018797693dff021854"
+  },
+  {
+    "id": "dish-64bc6be0a88b",
+    "name": "炸藕盒",
+    "imageId": "dish-64bc6be0a88b",
+    "dishGroupId": "group-f0a6173a55dc59",
+    "image": "assets/dishes/dish-64bc6be0a88b.webp",
+    "sha256": "8750850c60615d9726446fae051e40dee1166e67700b77f0275b54bf8050c610"
+  },
+  {
+    "id": "dish-b9da91ca206e",
+    "name": "炸蘑菇",
+    "imageId": "dish-b9da91ca206e",
+    "dishGroupId": "group-99af733292133b",
+    "image": "assets/dishes/dish-b9da91ca206e.webp",
+    "sha256": "121e4897ec5b2788643a62544c7a9d2311152ec2b463ee5f64de13fb35ff3d3d"
+  },
+  {
+    "id": "dish-1bfe96f49849",
+    "name": "双皮奶",
+    "imageId": "dish-1bfe96f49849",
+    "dishGroupId": "group-83c9b1789aa9b2",
+    "image": "assets/dishes/dish-1bfe96f49849.webp",
+    "sha256": "4ed45808e2a6743a265de72a8f1363d8f31626b3ceefb04b9c6541a676ee1f37"
+  },
+  {
+    "id": "dish-3167935158fe",
+    "name": "芒果西米露",
+    "imageId": "dish-3167935158fe",
+    "dishGroupId": "group-d0f0463d7b0746",
+    "image": "assets/dishes/dish-3167935158fe.webp",
+    "sha256": "cbfcf3dddac9eb41dfb4c5d52a72aaaa566642b7cce6e07707d63d7ba683c1b9"
+  },
+  {
+    "id": "dish-018e10f21a1b",
+    "name": "红豆糯米糍",
+    "imageId": "dish-018e10f21a1b",
+    "dishGroupId": "group-c3d1d59049aa54",
+    "image": "assets/dishes/dish-018e10f21a1b.webp",
+    "sha256": "6d48e7e1a880cfe511db7537a7d30f6cc666184b602de7e3f4f8ad865f16adba"
+  },
+  {
+    "id": "dish-9bd003fabbe3",
+    "name": "芝麻汤圆",
+    "imageId": "dish-9bd003fabbe3",
+    "dishGroupId": "group-7a1fa5dc8f9424",
+    "image": "assets/dishes/dish-9bd003fabbe3.webp",
+    "sha256": "319a3acbe00c079ab5e12273007454b0cfdd47318dd98798bdafb2a5302d0e4f"
+  },
+  {
+    "id": "dish-2a7fb107b112",
+    "name": "红糖糍粑",
+    "imageId": "dish-2a7fb107b112",
+    "dishGroupId": "group-d60d2b6b366e2a",
+    "image": "assets/dishes/dish-2a7fb107b112.webp",
+    "sha256": "b6d0581cdd45336dd2564cdea800b2b465001ae93f9848ebdfcb198fbb7076e5"
+  },
+  {
+    "id": "dish-4f7fe754bbf6",
+    "name": "水果酸奶杯",
+    "imageId": "dish-4f7fe754bbf6",
+    "dishGroupId": "group-ec90e0b3d5acc3",
+    "image": "assets/dishes/dish-4f7fe754bbf6.webp",
+    "sha256": "94d7e6030f02c0e50c32b76499e861968f61d9daee6d2264d16bb7198ff53f0d"
+  }
+]

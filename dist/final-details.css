@@ -1,0 +1,88 @@
+/* Final-round components share the existing campus palette and type system. */
+#weatherLine{min-height:24px}
+.recipe-preview{border-top:1px solid var(--line);margin-top:15px;padding-top:9px}
+.recipe-preview>summary{display:flex;align-items:center;justify-content:space-between;gap:12px;cursor:pointer;font-size:14px;min-height:44px;list-style:none}
+.recipe-preview>summary::-webkit-details-marker{display:none}
+.recipe-preview>summary>span{display:flex;align-items:center;gap:7px}
+.recipe-preview>summary>span:last-child{color:var(--green);font-weight:700;white-space:nowrap}
+.recipe-preview>summary svg{width:17px;height:17px}
+.recipe-preview[open]>summary>span:last-child>svg{transform:rotate(90deg)}
+.recipe-preview-body{font-size:14px;line-height:1.8;padding:4px 0 8px}
+.recipe-preview-body p+p{margin-top:7px}
+.assistant-reason{color:var(--green)}
+.recipe-section{margin:24px 0;border-top:1px solid var(--line);padding-top:20px}
+.recipe-heading{display:flex;gap:12px;align-items:start;justify-content:space-between;margin-bottom:12px}
+.recipe-heading h3{font-size:20px}
+.energy-number{color:var(--green);font-size:20px;font-weight:850;white-space:nowrap;text-align:right}
+.energy-number small{display:block;font-size:12px;font-weight:500;color:var(--muted)}
+.recipe-section>p{font-size:14px;line-height:1.8;margin-top:10px}
+.recipe-evidence{margin-top:12px;font-size:13px}
+.recipe-evidence summary{min-height:44px;cursor:pointer;display:flex;align-items:center;font-weight:700}
+.recipe-evidence ul{padding:0;list-style:none}
+.recipe-evidence li{border-bottom:1px solid var(--line);padding:10px 0}
+.recipe-evidence li>div{display:flex;flex-wrap:wrap;gap:4px 15px;justify-content:space-between}
+.recipe-evidence li>small{display:block;color:var(--muted);overflow-wrap:anywhere}
+.recipe-evidence a{text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}
+.meal-suitability-note{font-size:13px;color:var(--muted)}
+.profile-summary{display:flex;align-items:center;gap:18px;padding:22px 0 26px;border-bottom:1px solid var(--line);margin-bottom:22px}
+.profile-monogram{width:60px;height:60px;display:grid;place-items:center;border-radius:20px 20px 20px 5px;background:var(--green);color:var(--yellow);flex-shrink:0}
+.profile-monogram svg{width:28px;height:28px}
+.profile-summary>div:nth-child(2){flex:1;min-width:0}
+.profile-summary strong{font-size:20px}
+.profile-summary p{font-size:14px;color:var(--muted);margin-top:4px}
+.profile-editor,.diet-assistant{padding:28px;border:1px solid var(--line);border-radius:22px;background:white;margin-bottom:24px}
+.profile-editor .section-head,.diet-assistant .section-head{margin-top:0}
+.profile-editor .section-head p,.diet-assistant>p{font-size:14px;color:var(--muted);margin-top:8px}
+.local-badge{display:inline-block;font-size:12px;border-radius:20px;padding:5px 12px;background:var(--mint);color:var(--green);white-space:nowrap}
+.profile-fields{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px 22px;margin:22px 0}
+.profile-fields label{font-size:14px;font-weight:700}
+.profile-fields label>span{font-size:12px;color:var(--muted);font-weight:400;margin-left:5px}
+.profile-fields input,.profile-fields select{display:block;width:100%;min-height:48px;border:1px solid #A6B5A6;background:var(--paper);color:var(--ink);border-radius:10px;padding:10px 12px;margin-top:7px}
+.check-row{display:flex;align-items:start;gap:9px;font-size:14px;line-height:1.7;margin:12px 0}
+.check-row input{width:18px;height:18px;margin:3px 0;flex-shrink:0}
+.profile-actions{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:22px}
+#profileError{color:#9A3424;font-size:14px;margin-top:10px}
+.bmi-reference{display:flex;gap:24px;align-items:center;background:var(--wash);padding:20px;margin-top:24px;border-radius:14px}
+.bmi-reference strong{font-size:34px;line-height:1.2;color:var(--green)}
+.bmi-reference span{display:block;font-size:12px;white-space:nowrap}
+.bmi-reference p{font-size:14px;line-height:1.8}
+.bmi-reference a{display:inline-block;margin-left:8px;text-decoration:underline}
+.health-footnote{font-size:12px!important;color:var(--muted);margin-top:20px!important;line-height:1.8}
+.health-footnote a{text-decoration:underline;text-underline-offset:3px}
+.assistant-columns{display:grid;grid-template-columns:1.2fr 1fr;gap:30px;margin-top:22px}
+.assistant-columns h3{font-size:17px;margin-bottom:12px}
+.assistant-pick{display:grid;grid-template-columns:1fr auto;text-align:left;width:100%;padding:13px 0;border-bottom:1px solid var(--line);gap:3px 12px;min-height:70px}
+.assistant-pick strong{font-size:15px;grid-column:1}
+.assistant-pick span{font-size:13px;color:var(--muted);grid-column:1}
+.assistant-pick svg{grid-column:2;grid-row:1/3;align-self:center}
+.assistant-guidance{padding:20px;background:var(--wash);border-radius:16px}
+.assistant-guidance h3:not(:first-child){margin-top:20px}
+.assistant-guidance p{font-size:14px;line-height:1.9}
+.menu-role-switch{display:flex;align-items:center;gap:14px;margin-bottom:18px}
+.menu-role-switch>span{font-size:13px;color:var(--muted)}
+.campus-shortcut{margin-top:14px;background:var(--yellow);color:var(--green);padding:9px 16px;border-radius:10px}
+.venue-commercial{background:#F8F1D9}
+.venue-commercial .venue-badge{background:var(--yellow)}
+.image-loading{opacity:0}
+.reveal-ticket{position:absolute;z-index:5;inset:18% 16%;display:flex;flex-direction:column;align-items:center;justify-content:center;background:var(--yellow);color:var(--green);border-radius:8px;box-shadow:0 16px 25px #194B3A14;opacity:0;pointer-events:none;transform:rotate(-7deg);border-top:1px dashed #194B3A66;border-bottom:1px dashed #194B3A66}
+.reveal-ticket span{font-size:13px;letter-spacing:.1em}
+.reveal-ticket strong{font-size:clamp(18px,2vw,28px);margin:12px 0}
+.reveal-ticket svg{width:35px;height:35px}
+.hero[data-draw-phase=flipping] .reveal-ticket{animation:ticket-cover .15s ease-out both}
+.hero[data-draw-phase=flipping] .dish-on-table{opacity:.2;transform:scale(.96)}
+.hero[data-draw-phase=revealing] .reveal-ticket{animation:ticket-open .24s ease-in both;transform-origin:15% 0}
+.hero[data-draw-phase=revealing] .dish-on-table{animation:plate-arrive .3s cubic-bezier(.16,.8,.3,1) both}
+.hero[data-draw-phase=revealing] #resultName{animation:name-arrive .24s ease-out both}
+.favorite-confirmed svg{animation:favorite-pop .16s ease-out}
+@keyframes ticket-cover{from{opacity:0;transform:translateY(8px) rotate(-9deg) scale(.96)}to{opacity:1;transform:rotate(-7deg)}}
+@keyframes ticket-open{from{opacity:1;transform:rotate(-7deg)}to{opacity:0;transform:translateY(-45px) rotate(-16deg) scale(.92)}}
+@keyframes plate-arrive{from{opacity:.3;transform:translateY(-16px) scale(.94)}65%{opacity:1;transform:translateY(3px) scale(1.015)}to{opacity:1;transform:none}}
+@keyframes name-arrive{from{opacity:.25;transform:translateY(5px)}to{opacity:1;transform:none}}
+@media(min-width:601px) and (max-width:850px){.hero{grid-template-columns:1fr;gap:25px}.food-stage{height:340px}.dish-on-table{height:325px}.story{max-width:650px}.header{padding:18px 24px;gap:18px}.day-weather{min-width:120px}.shell{padding-left:24px;padding-right:24px}}
+@media(max-width:600px){
+ .recipe-preview{margin-top:10px;padding-top:3px}.recipe-preview>summary{font-size:12px;gap:6px}.recipe-preview-body{font-size:13px}.recipe-preview>summary svg{width:15px;height:15px}
+ .recipe-heading{display:block}.energy-number{display:block;text-align:left;margin-top:10px;font-size:22px}.recipe-section>p{font-size:13px}.recipe-evidence{font-size:12px}
+ .profile-summary{gap:12px;padding:0 0 18px;margin-bottom:16px;flex-wrap:wrap}.profile-monogram{width:46px;height:46px;border-radius:15px 15px 15px 4px}.profile-summary strong{font-size:16px}.profile-summary p{font-size:12px}.profile-summary>.text-button{margin-left:58px;padding-left:0}
+ .profile-editor,.diet-assistant{padding:20px 16px;border-radius:17px}.profile-editor .section-head,.diet-assistant .section-head{gap:12px;align-items:start}.profile-editor h2,.diet-assistant h2{font-size:22px}.profile-fields{grid-template-columns:repeat(2,minmax(0,1fr));gap:15px 12px;margin:18px 0}.profile-fields input,.profile-fields select{font-size:15px;min-height:46px;padding:8px 9px}.profile-fields label,.check-row{font-size:13px}.profile-fields label>span{font-size:11px}.profile-actions .button{font-size:14px}.bmi-reference{padding:16px;gap:16px;align-items:start}.bmi-reference p{font-size:12px}.bmi-reference strong{font-size:29px}.assistant-columns{grid-template-columns:1fr;gap:20px}.local-badge{font-size:11px;padding:4px 9px}.assistant-pick span{font-size:12px}.assistant-guidance{padding:16px}.assistant-guidance p{font-size:13px}.health-footnote{font-size:12px!important}.menu-role-switch{gap:10px;margin-bottom:12px}.menu-role-switch .button{font-size:13px;padding:8px 13px;min-height:42px}.menu-role-switch>span{font-size:12px}.campus-shortcut{font-size:12px;margin-top:10px}.reveal-ticket{inset:17% 22%}.reveal-ticket strong{font-size:17px;margin:5px 0}.reveal-ticket span{font-size:11px}.reveal-ticket svg{height:27px;width:27px}
+}
+@media(prefers-reduced-motion:reduce){.reveal-ticket{display:none}*,*:before,*:after{animation:none!important;transition:none!important}}

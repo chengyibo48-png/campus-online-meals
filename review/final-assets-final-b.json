@@ -1,0 +1,642 @@
+[
+  {
+    "id": "dish-45b73db5a31c",
+    "dishName": "西红柿鸡蛋面",
+    "path": "assets/dishes/dish-45b73db5a31c.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 西红柿鸡蛋面. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-45b73db5a31c: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "b0b231e07690538a94d801ec9f4bac41ed8b01bb46b0165650311ababb642e68",
+    "bytes": 128342,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-45b73db5a31c-thumb.webp",
+      "sha256": "e161f56badaf9127b29e67d790a0431de283737a2d4f288d69ddd55a177a939d",
+      "bytes": 21290,
+      "derivedFrom": "b0b231e07690538a94d801ec9f4bac41ed8b01bb46b0165650311ababb642e68"
+    }
+  },
+  {
+    "id": "dish-402bdb8485e1",
+    "dishName": "韭菜鸡蛋水饺",
+    "path": "assets/dishes/dish-402bdb8485e1.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 韭菜鸡蛋水饺. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.  Show a normal complete serving of the specifically named dumplings or wontons; noodle dishes must include their noodles.   45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-402bdb8485e1: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "cda4035360757f0eac6619e6858b4fa13878b04838b90a72bc103c738bb66cd0",
+    "bytes": 76540,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-402bdb8485e1-thumb.webp",
+      "sha256": "70662ba8f51e88cc526889e4775b4881918098bbc1fde30a381befe8337b316d",
+      "bytes": 14000,
+      "derivedFrom": "cda4035360757f0eac6619e6858b4fa13878b04838b90a72bc103c738bb66cd0"
+    }
+  },
+  {
+    "id": "dish-88622aa9f073",
+    "dishName": "排骨汤面",
+    "path": "assets/dishes/dish-88622aa9f073.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 排骨汤面. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-88622aa9f073: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "d0e1a91dcbf0498a0401c06a433c279c02a237d1c90eb93ed4e3b630255409cc",
+    "bytes": 125470,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-88622aa9f073-thumb.webp",
+      "sha256": "79e34aa1a6f85d61ca31aa7906d9fbe1d1dc1721e6a7319b90ebc8ed4c7fa902",
+      "bytes": 20692,
+      "derivedFrom": "d0e1a91dcbf0498a0401c06a433c279c02a237d1c90eb93ed4e3b630255409cc"
+    }
+  },
+  {
+    "id": "dish-90aef914ec0c",
+    "dishName": "香菇鸡丝面",
+    "path": "assets/dishes/dish-90aef914ec0c.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 香菇鸡丝面. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-90aef914ec0c: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "1a3977c7891917fd62f5869ac4f6bf36271b3a6ac3ddc4cca5c705809e70def4",
+    "bytes": 112572,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-90aef914ec0c-thumb.webp",
+      "sha256": "73574d8c211d5f2e4afa34c902d2f317cc9c6c646ee4626170f8ab5d14846e7b",
+      "bytes": 19084,
+      "derivedFrom": "1a3977c7891917fd62f5869ac4f6bf36271b3a6ac3ddc4cca5c705809e70def4"
+    }
+  },
+  {
+    "id": "dish-abc739e679c3",
+    "dishName": "雪菜肉丝面",
+    "path": "assets/dishes/dish-abc739e679c3.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 雪菜肉丝面. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-abc739e679c3: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "3c594facb2af01c1d58433acc9935c93b0855ebac0b4a8600e976c00487dd041",
+    "bytes": 141040,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-abc739e679c3-thumb.webp",
+      "sha256": "7a0f2502ddc82577ec69e50e803f741f653fc1661acbd5cb58e783279b138525",
+      "bytes": 22902,
+      "derivedFrom": "3c594facb2af01c1d58433acc9935c93b0855ebac0b4a8600e976c00487dd041"
+    }
+  },
+  {
+    "id": "dish-f2e9887a2463",
+    "dishName": "榨菜肉丝面",
+    "path": "assets/dishes/dish-f2e9887a2463.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 榨菜肉丝面. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-f2e9887a2463: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "7770f78c8c7f41ee6013808fe0ce42f80e14b96ed7699826520229f1b4047e38",
+    "bytes": 112930,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-f2e9887a2463-thumb.webp",
+      "sha256": "19ec6f771e96a893310c91e2f47d6999531bbf472b80fbfce19bf8842ad6539c",
+      "bytes": 19310,
+      "derivedFrom": "7770f78c8c7f41ee6013808fe0ce42f80e14b96ed7699826520229f1b4047e38"
+    }
+  },
+  {
+    "id": "dish-2bc6a2196f28",
+    "dishName": "豌杂面",
+    "path": "assets/dishes/dish-2bc6a2196f28.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 豌杂面. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-2bc6a2196f28: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "4444f80dfdaf47c64d35903ff0e5e06e723e5eafaa508ff090cee11a7d614236",
+    "bytes": 138332,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-2bc6a2196f28-thumb.webp",
+      "sha256": "605eccb8968ace54d094893f61562987827953b5bac5a5cec5a2bffd693747f2",
+      "bytes": 23030,
+      "derivedFrom": "4444f80dfdaf47c64d35903ff0e5e06e723e5eafaa508ff090cee11a7d614236"
+    }
+  },
+  {
+    "id": "dish-a7fd0cfa19d8",
+    "dishName": "牛肉拌面",
+    "path": "assets/dishes/dish-a7fd0cfa19d8.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 牛肉拌面. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-a7fd0cfa19d8: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "278f44beeb76415506a25e09d5d19ab1ef17ddec731f5a961d1e4a4f0f270ae8",
+    "bytes": 144960,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-a7fd0cfa19d8-thumb.webp",
+      "sha256": "6339c0d06209b108ca1a581b3f750e9aca0de69d753223f406cba268f0a2d277",
+      "bytes": 23676,
+      "derivedFrom": "278f44beeb76415506a25e09d5d19ab1ef17ddec731f5a961d1e4a4f0f270ae8"
+    }
+  },
+  {
+    "id": "dish-4d1ae2771bb4",
+    "dishName": "炸酱刀削面",
+    "path": "assets/dishes/dish-4d1ae2771bb4.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 炸酱刀削面. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-4d1ae2771bb4: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "543c558a0e854551587bda1d9d2f23634538608a352e83dc442871e06c0eac26",
+    "bytes": 126426,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-4d1ae2771bb4-thumb.webp",
+      "sha256": "0b5a9e78b93229892727e2b47050972484f57f10f91dc5545c5d05a9dce8b1d5",
+      "bytes": 22270,
+      "derivedFrom": "543c558a0e854551587bda1d9d2f23634538608a352e83dc442871e06c0eac26"
+    }
+  },
+  {
+    "id": "dish-0e3b6bd483b0",
+    "dishName": "西红柿鸡蛋烩面",
+    "path": "assets/dishes/dish-0e3b6bd483b0.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 西红柿鸡蛋烩面. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-0e3b6bd483b0: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "c089b64476eb360e17321afcad8c97aff40d4e2d8198f3bd0df1ec24cfca656e",
+    "bytes": 129898,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-0e3b6bd483b0-thumb.webp",
+      "sha256": "14be0830f6653008cf00de20a2b5cc626895ec5569dc83c0a42f88cfb814fb27",
+      "bytes": 21692,
+      "derivedFrom": "c089b64476eb360e17321afcad8c97aff40d4e2d8198f3bd0df1ec24cfca656e"
+    }
+  },
+  {
+    "id": "dish-334caf37843a",
+    "dishName": "鲜虾乌冬面",
+    "path": "assets/dishes/dish-334caf37843a.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 鲜虾乌冬面. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-334caf37843a: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "b30f858cdaf2ca54a7695f0c60e1e6855f1a7b12a02d2c783faa0fc6a7aeb688",
+    "bytes": 122620,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-334caf37843a-thumb.webp",
+      "sha256": "6df4c30466810d00dcdd069886be3d426ee6907a48f0f3e9c0cee5b02314f98f",
+      "bytes": 21482,
+      "derivedFrom": "b30f858cdaf2ca54a7695f0c60e1e6855f1a7b12a02d2c783faa0fc6a7aeb688"
+    }
+  },
+  {
+    "id": "dish-3376ab217ca1",
+    "dishName": "番茄肉酱意面",
+    "path": "assets/dishes/dish-3376ab217ca1.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 番茄肉酱意面. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-3376ab217ca1: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "b30140dfa4615338912eadee935678ce258c767b194be885db3806c807d33c92",
+    "bytes": 108208,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-3376ab217ca1-thumb.webp",
+      "sha256": "71604cb5350d18099910bcf973507df397fdf5354971073671cd4d86d7252ee7",
+      "bytes": 16544,
+      "derivedFrom": "b30140dfa4615338912eadee935678ce258c767b194be885db3806c807d33c92"
+    }
+  },
+  {
+    "id": "dish-770a886f6591",
+    "dishName": "奶油蘑菇意面",
+    "path": "assets/dishes/dish-770a886f6591.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 奶油蘑菇意面. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-770a886f6591: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "0afaa85caedf6a6a0d450d8a93f6aab448e68c019bb8be49e0c49ca3dfacdc48",
+    "bytes": 101362,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-770a886f6591-thumb.webp",
+      "sha256": "fbf95ce777d350de6a1eaef6269147efb17d236cad4027aa633cd7e38cd4ca95",
+      "bytes": 17840,
+      "derivedFrom": "0afaa85caedf6a6a0d450d8a93f6aab448e68c019bb8be49e0c49ca3dfacdc48"
+    }
+  },
+  {
+    "id": "dish-76ea8f428cbb",
+    "dishName": "牛肉炒米粉",
+    "path": "assets/dishes/dish-76ea8f428cbb.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 牛肉炒米粉. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-76ea8f428cbb: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "edee3764582f925288ace8ab9b2b7fe2a34c6c7a9c80b68718e3798b46293433",
+    "bytes": 158902,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-76ea8f428cbb-thumb.webp",
+      "sha256": "bd360c488b0d09cabc972731f44d5d9925819d1e5d4dc0bd1bbe79930da08f8c",
+      "bytes": 25362,
+      "derivedFrom": "edee3764582f925288ace8ab9b2b7fe2a34c6c7a9c80b68718e3798b46293433"
+    }
+  },
+  {
+    "id": "dish-05f7ed3c7081",
+    "dishName": "鸡蛋炒米粉",
+    "path": "assets/dishes/dish-05f7ed3c7081.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 鸡蛋炒米粉. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-05f7ed3c7081: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "d78a553584e1a9af705642c068502d6c044ddef1e68d706540f16b74638504bc",
+    "bytes": 125754,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-05f7ed3c7081-thumb.webp",
+      "sha256": "d10111823c655d7c275ddcc0d48aa3c3cde21e51dfb4d197b18771dde03e0ee8",
+      "bytes": 21076,
+      "derivedFrom": "d78a553584e1a9af705642c068502d6c044ddef1e68d706540f16b74638504bc"
+    }
+  },
+  {
+    "id": "dish-dc69351b5126",
+    "dishName": "肉丝炒年糕",
+    "path": "assets/dishes/dish-dc69351b5126.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 肉丝炒年糕. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-dc69351b5126: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "fd6eb0f781042927acfae2f909a298568eb64ae8c854ddc69fd890e298dc4f3a",
+    "bytes": 94434,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-dc69351b5126-thumb.webp",
+      "sha256": "05ad0dbd081d16ab1ccd3d41acdb5df0c0461b45647121062f8ba727e927298b",
+      "bytes": 15432,
+      "derivedFrom": "fd6eb0f781042927acfae2f909a298568eb64ae8c854ddc69fd890e298dc4f3a"
+    }
+  },
+  {
+    "id": "dish-1d270ca0d6c1",
+    "dishName": "香菇鸡肉河粉",
+    "path": "assets/dishes/dish-1d270ca0d6c1.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 香菇鸡肉河粉. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.     45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-1d270ca0d6c1: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "a008b1e86f04973ca0bdb3f6382955ae9fca4c82c0f78f9810bfc8f724c68ec8",
+    "bytes": 117064,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-1d270ca0d6c1-thumb.webp",
+      "sha256": "032692ab72cd20769c9b4ba213d6a662b2206c2a3e772dd75f9e03419792763d",
+      "bytes": 19332,
+      "derivedFrom": "a008b1e86f04973ca0bdb3f6382955ae9fca4c82c0f78f9810bfc8f724c68ec8"
+    }
+  },
+  {
+    "id": "dish-b6eaf8a193fb",
+    "dishName": "猪肉白菜水饺",
+    "path": "assets/dishes/dish-b6eaf8a193fb.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 猪肉白菜水饺. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.  Show a normal complete serving of the specifically named dumplings or wontons; noodle dishes must include their noodles.   45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-b6eaf8a193fb: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "05dce9658734901b9f9071314974acfc282b324c3ff90deecebf77cfc32c8f59",
+    "bytes": 69014,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-b6eaf8a193fb-thumb.webp",
+      "sha256": "a03f471648c35cdc7147cbd783edfb5a5e34941b770416c72859f4ce20e3e240",
+      "bytes": 12070,
+      "derivedFrom": "05dce9658734901b9f9071314974acfc282b324c3ff90deecebf77cfc32c8f59"
+    }
+  },
+  {
+    "id": "dish-11baf9436c15",
+    "dishName": "猪肉芹菜水饺",
+    "path": "assets/dishes/dish-11baf9436c15.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 猪肉芹菜水饺. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.  Show a normal complete serving of the specifically named dumplings or wontons; noodle dishes must include their noodles.   45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-11baf9436c15: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "8a5afd678d721b51ac1d8dd349e42bee5d565d9393e5ffc0447d03fa895a135e",
+    "bytes": 82558,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-11baf9436c15-thumb.webp",
+      "sha256": "23ce2f023b1b31df62893929bd62e26b8ff57591ae596a1f2735ea53aa235363",
+      "bytes": 15234,
+      "derivedFrom": "8a5afd678d721b51ac1d8dd349e42bee5d565d9393e5ffc0447d03fa895a135e"
+    }
+  },
+  {
+    "id": "dish-c8a460316596",
+    "dishName": "牛肉洋葱水饺",
+    "path": "assets/dishes/dish-c8a460316596.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 牛肉洋葱水饺. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish.  Show a normal complete serving of the specifically named dumplings or wontons; noodle dishes must include their noodles.   45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-c8a460316596: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "0c666519b1c84d54ee70bdf25ca39f55e4df66c72f670b9c80889ab95ea48aab",
+    "bytes": 80752,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-c8a460316596-thumb.webp",
+      "sha256": "88ed892a0704e2e3d5383e4797c87cb98e092f249dfb437c5fa056e0e4aeb647",
+      "bytes": 14224,
+      "derivedFrom": "0c666519b1c84d54ee70bdf25ca39f55e4df66c72f670b9c80889ab95ea48aab"
+    }
+  }
+]

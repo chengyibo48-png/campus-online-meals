@@ -1,0 +1,642 @@
+[
+  {
+    "id": "dish-f53f28bae23b",
+    "dishName": "番茄牛腩饭",
+    "path": "assets/dishes/dish-f53f28bae23b.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 番茄牛腩饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-f53f28bae23b: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "ff02b48566faa8e2bc269dcf01933a4c9bac8666a6a72b8455978d4e81596e99",
+    "bytes": 155622,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-f53f28bae23b-thumb.webp",
+      "sha256": "56a250c38c2f2cc55ef36d4725f6c9bdde3bd06c6fb446fb81a658bcc2281cc7",
+      "bytes": 23524,
+      "derivedFrom": "ff02b48566faa8e2bc269dcf01933a4c9bac8666a6a72b8455978d4e81596e99"
+    }
+  },
+  {
+    "id": "dish-6880dfe80101",
+    "dishName": "黑椒鸡肉饭",
+    "path": "assets/dishes/dish-6880dfe80101.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 黑椒鸡肉饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-6880dfe80101: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "6f3b95f9b74652e48ff664cbe97050c80b2f4debd4adb14fd7a8dc199dd8dba5",
+    "bytes": 142932,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-6880dfe80101-thumb.webp",
+      "sha256": "2edfbd557f90d079be80122297942eea32d46c3b0f013f17c5af3b2a33ba2ccc",
+      "bytes": 22900,
+      "derivedFrom": "6f3b95f9b74652e48ff664cbe97050c80b2f4debd4adb14fd7a8dc199dd8dba5"
+    }
+  },
+  {
+    "id": "dish-272e65501fb2",
+    "dishName": "蜜汁叉烧饭",
+    "path": "assets/dishes/dish-272e65501fb2.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 蜜汁叉烧饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-272e65501fb2: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "e284bbab8e21cf8dfbd260ae24ac4881a4ce394a98e0e2d3b866f04f4da171b6",
+    "bytes": 141474,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-272e65501fb2-thumb.webp",
+      "sha256": "275e019d78f4405a86398af62e5a0890fb6aa0c4bc02d8bcef126875ed04650f",
+      "bytes": 21950,
+      "derivedFrom": "e284bbab8e21cf8dfbd260ae24ac4881a4ce394a98e0e2d3b866f04f4da171b6"
+    }
+  },
+  {
+    "id": "dish-43704d39d3d5",
+    "dishName": "清蒸鲈鱼饭",
+    "path": "assets/dishes/dish-43704d39d3d5.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 清蒸鲈鱼饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-43704d39d3d5: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "6e48d7539e97aadcc79235d9c5f0753865e22a9335851d83aef345ef153fee9e",
+    "bytes": 125110,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-43704d39d3d5-thumb.webp",
+      "sha256": "c0672942e46a191cbdec5997c785db9ef4ede5c322b2ac2eeb751599ab844493",
+      "bytes": 21518,
+      "derivedFrom": "6e48d7539e97aadcc79235d9c5f0753865e22a9335851d83aef345ef153fee9e"
+    }
+  },
+  {
+    "id": "dish-73a94221b7be",
+    "dishName": "香菇肉末饭",
+    "path": "assets/dishes/dish-73a94221b7be.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 香菇肉末饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-73a94221b7be: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "6f5a1e679a99786c018ad618cd48a7bafe764be6546478592e138aa75124c6a2",
+    "bytes": 115978,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-73a94221b7be-thumb.webp",
+      "sha256": "29c1d17ddd56cd6d3efa1543527d732c133b10999fe944a23d0784734da10d7b",
+      "bytes": 19148,
+      "derivedFrom": "6f5a1e679a99786c018ad618cd48a7bafe764be6546478592e138aa75124c6a2"
+    }
+  },
+  {
+    "id": "dish-3bc134f8d56d",
+    "dishName": "西兰花虾仁饭",
+    "path": "assets/dishes/dish-3bc134f8d56d.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 西兰花虾仁饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-3bc134f8d56d: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "97c38aa36e77f75ff57dc36bbe14aedc87455dde664bf3b44e610cc63f4be731",
+    "bytes": 120100,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-3bc134f8d56d-thumb.webp",
+      "sha256": "890e4f2558907c649812523a49568547b5fe248f7ff9176c30908d2d80e518bc",
+      "bytes": 18694,
+      "derivedFrom": "97c38aa36e77f75ff57dc36bbe14aedc87455dde664bf3b44e610cc63f4be731"
+    }
+  },
+  {
+    "id": "dish-36b1e85ec396",
+    "dishName": "西芹牛肉饭",
+    "path": "assets/dishes/dish-36b1e85ec396.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 西芹牛肉饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-36b1e85ec396: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "c7240140b97e780314f65ad64a9db68e1c6663d6dac93033e3f01f56729c16ea",
+    "bytes": 117930,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-36b1e85ec396-thumb.webp",
+      "sha256": "f5fe5344d0b3e9a59a759c2e68f66965f11ce4dc3490357e7d0a912e4f9c2d4d",
+      "bytes": 19242,
+      "derivedFrom": "c7240140b97e780314f65ad64a9db68e1c6663d6dac93033e3f01f56729c16ea"
+    }
+  },
+  {
+    "id": "dish-451124d63f8f",
+    "dishName": "西葫芦鸡蛋饭",
+    "path": "assets/dishes/dish-451124d63f8f.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 西葫芦鸡蛋饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-451124d63f8f: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "15b401d436c15fc6f02296042f287f5e3a309be384eddf41bbcd92edabd6a3b3",
+    "bytes": 121736,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-451124d63f8f-thumb.webp",
+      "sha256": "1aa004ca3527e2ef80ffc975f2f7ae766b1d57ad35a96c718d36f954805b02cc",
+      "bytes": 20232,
+      "derivedFrom": "15b401d436c15fc6f02296042f287f5e3a309be384eddf41bbcd92edabd6a3b3"
+    }
+  },
+  {
+    "id": "dish-98a76bdd9169",
+    "dishName": "冬瓜烧肉饭",
+    "path": "assets/dishes/dish-98a76bdd9169.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 冬瓜烧肉饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-98a76bdd9169: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "990592ac1534696265d3373e319dce84ea61c02e5f7a4d37adad7d63f2a64f5c",
+    "bytes": 131624,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-98a76bdd9169-thumb.webp",
+      "sha256": "8d9c1c5536435cab70bf8fef9f78f811463db12eea94d352de98012ea739873d",
+      "bytes": 19524,
+      "derivedFrom": "990592ac1534696265d3373e319dce84ea61c02e5f7a4d37adad7d63f2a64f5c"
+    }
+  },
+  {
+    "id": "dish-a1c1cf5102ab",
+    "dishName": "青笋肉片饭",
+    "path": "assets/dishes/dish-a1c1cf5102ab.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 青笋肉片饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-a1c1cf5102ab: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "80bcaf41e88751a4d793364593640435f2fc2bb95327f897d3fd9a6d304147f5",
+    "bytes": 113886,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-a1c1cf5102ab-thumb.webp",
+      "sha256": "ff4714bbdba73d2b3af4797c0378ecfba2d5416bbff81bfa732a960387e3592b",
+      "bytes": 17786,
+      "derivedFrom": "80bcaf41e88751a4d793364593640435f2fc2bb95327f897d3fd9a6d304147f5"
+    }
+  },
+  {
+    "id": "dish-5b529ac52830",
+    "dishName": "豆豉鲮鱼饭",
+    "path": "assets/dishes/dish-5b529ac52830.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 豆豉鲮鱼饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-5b529ac52830: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "c1436992e9d694e7644ec868230d885121d3ffbee08c1fecbf530f3e9adf7190",
+    "bytes": 137550,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-5b529ac52830-thumb.webp",
+      "sha256": "cb896cc6a380ae9717782ebe809b32ef15636f223e72f90c93f9ee824baaef16",
+      "bytes": 21496,
+      "derivedFrom": "c1436992e9d694e7644ec868230d885121d3ffbee08c1fecbf530f3e9adf7190"
+    }
+  },
+  {
+    "id": "dish-131799f3608d",
+    "dishName": "咖喱虾仁饭",
+    "path": "assets/dishes/dish-131799f3608d.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 咖喱虾仁饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-131799f3608d: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "0698281c98bd247b7d9f7c65c88244992a1a7af005261ab604e5c0ce40e84a7e",
+    "bytes": 131818,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-131799f3608d-thumb.webp",
+      "sha256": "e2f977c669022d7e91b2cf41038f895ac07507ad859ec41afbf41bad6a2c28ea",
+      "bytes": 21076,
+      "derivedFrom": "0698281c98bd247b7d9f7c65c88244992a1a7af005261ab604e5c0ce40e84a7e"
+    }
+  },
+  {
+    "id": "dish-e39516bcd8d6",
+    "dishName": "酸菜肥牛饭",
+    "path": "assets/dishes/dish-e39516bcd8d6.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 酸菜肥牛饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-e39516bcd8d6: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "7d75500f2b27e7c34a420fc505d45c8d1bb6391a4368a50e18556ecef9af23a5",
+    "bytes": 133166,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-e39516bcd8d6-thumb.webp",
+      "sha256": "792c224708c634fda042fe31bc5fad002013999db7bc0a470d9d5e97768b297d",
+      "bytes": 21122,
+      "derivedFrom": "7d75500f2b27e7c34a420fc505d45c8d1bb6391a4368a50e18556ecef9af23a5"
+    }
+  },
+  {
+    "id": "dish-98e28afa0360",
+    "dishName": "茭白肉丝饭",
+    "path": "assets/dishes/dish-98e28afa0360.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 茭白肉丝饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-98e28afa0360: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "fcf499d6575d3cfa94ba9a6b096f38c3a0e46f90313f893d66c2fc97a0c8a59a",
+    "bytes": 103804,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-98e28afa0360-thumb.webp",
+      "sha256": "1fb47930a5a7c621e6fcd362707f831819e538701089c8ec045c953058fad501",
+      "bytes": 17896,
+      "derivedFrom": "fcf499d6575d3cfa94ba9a6b096f38c3a0e46f90313f893d66c2fc97a0c8a59a"
+    }
+  },
+  {
+    "id": "dish-2babbc9da4cf",
+    "dishName": "香干肉丝饭",
+    "path": "assets/dishes/dish-2babbc9da4cf.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 香干肉丝饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-2babbc9da4cf: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "8309b95db0d1b549a182b0276ef23863d39410d4298c1e3a3fa9257af4e778b7",
+    "bytes": 121764,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-2babbc9da4cf-thumb.webp",
+      "sha256": "75f5758b07cc0c9b9b4dbc0e636a9a5f4dfd050e7f8e5de42f561401f9323363",
+      "bytes": 20800,
+      "derivedFrom": "8309b95db0d1b549a182b0276ef23863d39410d4298c1e3a3fa9257af4e778b7"
+    }
+  },
+  {
+    "id": "dish-74d1bd4598f7",
+    "dishName": "豆角茄子饭",
+    "path": "assets/dishes/dish-74d1bd4598f7.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 豆角茄子饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-74d1bd4598f7: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "ed1a3d28499b1b14cd913d82e84f15e5a7f295176cf3224f13537485903e70d1",
+    "bytes": 138040,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-74d1bd4598f7-thumb.webp",
+      "sha256": "cddd31dc3fe3c21420d0744019cb1a6c044e64c15b65c00f3e4766183413ac91",
+      "bytes": 21974,
+      "derivedFrom": "ed1a3d28499b1b14cd913d82e84f15e5a7f295176cf3224f13537485903e70d1"
+    }
+  },
+  {
+    "id": "dish-c9826d5a5b9e",
+    "dishName": "蒜苔肉丝饭",
+    "path": "assets/dishes/dish-c9826d5a5b9e.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 蒜苔肉丝饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-c9826d5a5b9e: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "ce6f20ceeb4818982b9663c2651530cac7ad904bae74dc1471574f578c44cb3a",
+    "bytes": 132154,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-c9826d5a5b9e-thumb.webp",
+      "sha256": "edc4bd8feebcd539edb606a8bd5cac6a0eb4caf2c134d3d40c6de9613c26c8fe",
+      "bytes": 22104,
+      "derivedFrom": "ce6f20ceeb4818982b9663c2651530cac7ad904bae74dc1471574f578c44cb3a"
+    }
+  },
+  {
+    "id": "dish-699835213404",
+    "dishName": "滑蛋牛肉饭",
+    "path": "assets/dishes/dish-699835213404.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 滑蛋牛肉饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-699835213404: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "1d4083ae4d675b5697016c8f61a7ea7774228283b98c423ecb42ee58e8fb5856",
+    "bytes": 124336,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-699835213404-thumb.webp",
+      "sha256": "daa4fad78152a8913b598cf439f367605d5468929e489f65f45188b5f27ab9b2",
+      "bytes": 21140,
+      "derivedFrom": "1d4083ae4d675b5697016c8f61a7ea7774228283b98c423ecb42ee58e8fb5856"
+    }
+  },
+  {
+    "id": "dish-4c47363dc19b",
+    "dishName": "照烧豆腐饭",
+    "path": "assets/dishes/dish-4c47363dc19b.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 照烧豆腐饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-4c47363dc19b: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "309689e64d2c8a8dc71a7b0fe815ee4f46a8839ebf613eb49dc9ac26fa0123d0",
+    "bytes": 121892,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-4c47363dc19b-thumb.webp",
+      "sha256": "3439bbe7b7d6da162c8c6bdf8b0eef6cd1ab4b464aa018ae606ca2a0325a8a03",
+      "bytes": 19856,
+      "derivedFrom": "309689e64d2c8a8dc71a7b0fe815ee4f46a8839ebf613eb49dc9ac26fa0123d0"
+    }
+  },
+  {
+    "id": "dish-5b12bbd2915f",
+    "dishName": "黑椒杏鲍菇饭",
+    "path": "assets/dishes/dish-5b12bbd2915f.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Photorealistic natural food cutout for a Chinese university cafeteria. ONE new independent illustration of 黑椒杏鲍菇饭. Ordinary modest cafeteria portion, authentic recognizable ingredients and preparation for this named dish. A complete bowl or plate of cooked rice with the named topping; rice must be visible.    45-degree overhead three-quarter view, soft daylight from upper left, realistic appetizing food texture, restrained natural colors. Entire plain ceramic or stainless tableware visible with generous 10-12 percent transparent margins on ALL sides, no cut edges, centered square composition. Truly TRANSPARENT alpha background, no tabletop, no rectangle, no placemat, no text, no labels, no hands, no watermark or floating garnish. Soft natural contact shadow. Asset identity dish-5b12bbd2915f: create from scratch, never reuse/crop/recolor another food image.",
+    "sha256": "71fb054573dc0b24bb35956d216b0717f1b283542c526e3cc70f87af1f3c33e3",
+    "bytes": 142134,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-23",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-5b12bbd2915f-thumb.webp",
+      "sha256": "4965bde6ba6014de6e835ae42d0dcc8668eed123df6a146286620ca2f7609384",
+      "bytes": 23046,
+      "derivedFrom": "71fb054573dc0b24bb35956d216b0717f1b283542c526e3cc70f87af1f3c33e3"
+    }
+  }
+]

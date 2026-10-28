@@ -1,0 +1,21 @@
+/* Preserve the platform's visible branding and protect app-owned fixed controls. */
+body[data-host-branding] .nav,body[data-host-branding] .floating-actions,body[data-host-branding] .toast,body[data-host-branding] .update-notice{top:auto!important}
+@media(max-width:600px){
+ body[data-host-branding] .nav{bottom:calc(64px + env(safe-area-inset-bottom))}
+ body[data-host-branding] .shell{padding-bottom:calc(160px + env(safe-area-inset-bottom))}
+ body[data-host-branding] .floating-actions{bottom:calc(142px + env(safe-area-inset-bottom))}
+ body[data-host-branding] .toast{bottom:calc(212px + env(safe-area-inset-bottom))}
+ body[data-host-branding] .update-notice{bottom:calc(135px + env(safe-area-inset-bottom))}
+ body[data-host-branding] .food-stage{height:190px}
+ body[data-host-branding] .dish-on-table{height:180px}
+ body[data-host-branding] .hero{gap:12px}
+ body[data-host-branding] .mode-bar{margin-bottom:16px}
+ body[data-host-branding] .story .tags{margin-top:6px}
+ body[data-host-branding] .hero[data-long-name=true] .food-stage{height:165px}
+ body[data-host-branding] .hero[data-long-name=true] .dish-on-table{height:155px}
+ body[data-host-branding] .hero[data-long-name=true] .story h2{font-size:26px}
+ body[data-host-branding].has-query .food-stage{height:130px}
+ body[data-host-branding].has-query .dish-on-table{height:120px}
+ body[data-host-branding].has-query .meal-kicker{display:none}
+ body[data-host-branding]:after{content:"";position:fixed;left:0;right:0;bottom:0;height:calc(129px + env(safe-area-inset-bottom));background:var(--paper);z-index:29;pointer-events:none}
+}

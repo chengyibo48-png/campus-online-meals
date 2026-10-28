@@ -1,0 +1,2040 @@
+{
+  "checkedAt": "2026-10-22",
+  "scope": "郑州大学主校区；2026秋学期；公开可访问官方菜单/窗口证据",
+  "policy": "仅证据能够关联具体餐品与餐厅且仍有效时标为verified。餐厅资料、招标经营范围、历史推荐及常见食堂菜均不等于菜单证据。",
+  "summary": {
+    "existingRecordCount": 100,
+    "currentVerifiedDishCount": 0,
+    "verifiedRestaurantAreas": 4,
+    "historicalDishLeads": 25,
+    "claimsMenuExpansion": false,
+    "newNamedLeadCount": 3,
+    "newVerifiedRecordCount": 0,
+    "historicalRecordsRechecked": 25
+  },
+  "verifiedDishes": [],
+  "restaurants": [
+    {
+      "area": "柳园",
+      "names": [
+        "聚英园餐厅",
+        "风华园餐厅"
+      ],
+      "summary": "位于主校区柳园生活区。学校迎新资料说明柳园位于四个生活园区的南端，其西侧设有两个食堂。2026年9月后勤公告再次出现聚英园与风华园。",
+      "location": "主校区柳园生活区西侧",
+      "sourceIds": [
+        "official-welcome-residence",
+        "fenghua-2026-09"
+      ],
+      "verification": "restaurant-identity-confirmed",
+      "menuVerifiedCount": 0,
+      "hours": null,
+      "coordinates": null
+    },
+    {
+      "area": "荷园",
+      "names": [
+        "荷园一餐厅",
+        "荷园二餐厅"
+      ],
+      "summary": "位于主校区荷园生活区。学校2026年暑期通知列明荷园一、二餐厅，荷园项目公司秋季动态确认餐饮部继续开展食品安全管理工作。",
+      "location": "主校区荷园生活区",
+      "sourceIds": [
+        "summer-2026",
+        "heyuan-training-2026-09"
+      ],
+      "verification": "restaurant-identity-confirmed",
+      "menuVerifiedCount": 0,
+      "hours": null,
+      "coordinates": null
+    },
+    {
+      "area": "菊园",
+      "names": [
+        "秋穗园餐厅"
+      ],
+      "summary": "位于主校区菊园生活区。学校迎新资料将菊园定位于中心体育馆与松园之间，2026年暑期后勤通知列明秋穗园一楼。",
+      "location": "主校区菊园生活区",
+      "sourceIds": [
+        "official-welcome-residence",
+        "summer-2026"
+      ],
+      "verification": "restaurant-identity-confirmed",
+      "menuVerifiedCount": 0,
+      "hours": null,
+      "coordinates": null
+    },
+    {
+      "area": "松园",
+      "names": [
+        "竞舸园餐厅"
+      ],
+      "summary": "位于主校区松园生活区。学校迎新资料说明松园是四个生活园区中最北侧的区域，其配套设施表列有竞舸园。",
+      "location": "主校区松园生活区",
+      "sourceIds": [
+        "official-welcome-residence"
+      ],
+      "verification": "restaurant-identity-confirmed",
+      "menuVerifiedCount": 0,
+      "hours": null,
+      "coordinates": null
+    }
+  ],
+  "historicalCandidates": [
+    {
+      "name": "日式茶泡饭",
+      "restaurant": "风华园餐厅",
+      "area": "柳园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "脆香鸡米饭",
+      "restaurant": "风华园餐厅",
+      "area": "柳园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "瓦香鸡",
+      "restaurant": "风华园餐厅",
+      "area": "柳园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "油泼面",
+      "restaurant": "风华园餐厅",
+      "area": "柳园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "麻辣鸡丝面",
+      "restaurant": "风华园餐厅",
+      "area": "柳园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "螺蛳粉",
+      "restaurant": "风华园餐厅",
+      "area": "柳园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "煲仔饭",
+      "restaurant": "正味居",
+      "area": "荷园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "麻辣拌",
+      "restaurant": "正味居",
+      "area": "荷园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "饺子",
+      "restaurant": "正味居",
+      "area": "荷园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "猪脚饭",
+      "restaurant": "正味居",
+      "area": "荷园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "口水鸡拌粉",
+      "restaurant": "正味居",
+      "area": "荷园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "酱香饼",
+      "restaurant": "秋穗园餐厅一楼",
+      "area": "菊园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "生煎",
+      "restaurant": "秋穗园餐厅一楼",
+      "area": "菊园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "车轮饼",
+      "restaurant": "秋穗园餐厅一楼",
+      "area": "菊园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "川香干锅",
+      "restaurant": "秋穗园餐厅二楼",
+      "area": "菊园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "香肉拌饭",
+      "restaurant": "秋穗园餐厅二楼",
+      "area": "菊园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "羊肉烩面",
+      "restaurant": "秋穗园餐厅二楼",
+      "area": "菊园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "猪脚饭",
+      "restaurant": "秋穗园餐厅二楼",
+      "area": "菊园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "芝士焗饭",
+      "restaurant": "竞舸园餐厅",
+      "area": "松园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "干拌馄饨",
+      "restaurant": "竞舸园餐厅",
+      "area": "松园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "新疆大盘鸡",
+      "restaurant": "竞舸园餐厅",
+      "area": "松园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "郏县饸饹面",
+      "restaurant": "竞舸园餐厅",
+      "area": "松园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "火锅粉",
+      "restaurant": "竞舸园餐厅",
+      "area": "松园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "烤盘饭",
+      "restaurant": "竞舸园餐厅",
+      "area": "松园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    },
+    {
+      "name": "韩式拌饭",
+      "restaurant": "竞舸园餐厅",
+      "area": "松园",
+      "meals": [],
+      "price": null,
+      "ingredients": null,
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "status": "needs-review",
+      "eligibleForRecommendation": false,
+      "reason": "证据为2025迎新经验介绍；未找到2026秋当前菜单或现场核实，且并非餐厅菜单"
+    }
+  ],
+  "sources": [
+    {
+      "id": "official-welcome-residence",
+      "title": "住在郑大",
+      "url": "https://www7.zzu.edu.cn/yxwz/zzzd.htm",
+      "publisher": "郑州大学迎新网",
+      "publishedAt": null,
+      "checkedAt": "2026-10-21",
+      "kind": "official-campus-guide",
+      "use": "核对四个生活区及聚英园、风华园、秋穗园、竞舸园等名称；不能证明具体菜品供应",
+      "locators": [
+        "宿舍概况与四个生活区段落",
+        "配套设施→热水供应表"
+      ],
+      "originalUrl": "https://www7.zzu.edu.cn/yxwz/zzzd.htm",
+      "accessedAt": "2026-10-21",
+      "validRange": null,
+      "restaurantIds": [
+        "qiusuiyuan",
+        "jinggeyuan",
+        "juyingyuan",
+        "fenghuayuan"
+      ],
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "核对四个生活区及聚英园、风华园、秋穗园、竞舸园等名称；不能证明具体菜品供应"
+      }
+    },
+    {
+      "id": "official-welcome-2026",
+      "title": "踏上新征程",
+      "url": "https://www7.zzu.edu.cn/yxwz/tsxzc.htm",
+      "publisher": "郑州大学迎新网",
+      "publishedAt": null,
+      "checkedAt": "2026-10-21",
+      "kind": "official-2026-welcome-guide",
+      "use": "2026级现行迎新事项与就餐通用说明，无具体菜品菜单",
+      "locators": [
+        "新生生活指南→二、就餐",
+        "新生校园卡使用指南→各校园卡服务部位置及电话"
+      ],
+      "originalUrl": "https://www7.zzu.edu.cn/yxwz/tsxzc.htm",
+      "accessedAt": "2026-10-21",
+      "validRange": null,
+      "restaurantIds": [],
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "2026级现行迎新事项与就餐通用说明，无具体菜品菜单"
+      }
+    },
+    {
+      "id": "summer-2026",
+      "title": "2026年暑期后勤服务保障工作安排",
+      "url": "https://new.zzu.edu.cn/info/1442/88712.htm",
+      "publisher": "郑州大学后勤保障部",
+      "publishedAt": "2026-07-22",
+      "checkedAt": "2026-10-21",
+      "kind": "official-period-notice",
+      "use": "核对聚英园、荷园一/二餐厅、秋穗园名称以及通知称9月3日学校餐厅恢复正常；暑期时间表不可沿用为秋季营业时间",
+      "locators": [
+        "一、餐饮服务保障安排"
+      ],
+      "originalUrl": "https://new.zzu.edu.cn/info/1442/88712.htm",
+      "accessedAt": "2026-10-21",
+      "validRange": null,
+      "restaurantIds": [
+        "qiusuiyuan",
+        "juyingyuan",
+        "heyuan-1",
+        "heyuan-2"
+      ],
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "核对聚英园、荷园一/二餐厅、秋穗园名称以及通知称9月3日学校餐厅恢复正常；暑期时间表不可沿用为秋季营业时间"
+      }
+    },
+    {
+      "id": "fenghua-2026-09",
+      "title": "郑州大学后勤保障部风华园餐厅辅助商户遴选公告",
+      "url": "https://www7.zzu.edu.cn/hqbzzx/info/1275/2573.htm",
+      "publisher": "郑州大学后勤保障部",
+      "publishedAt": "2026-09-22",
+      "checkedAt": "2026-10-21",
+      "kind": "official-tender-notice",
+      "use": "确认主校区柳园风华园及聚英园地点；拟引进饮品/零食/水吧不等于具体菜单已开售",
+      "locators": [
+        "一、项目情况→1.项目概况",
+        "3.响应文件提交截止时间、开启时间和地点→3.2"
+      ],
+      "originalUrl": "https://www7.zzu.edu.cn/hqbzzx/info/1275/2573.htm",
+      "accessedAt": "2026-10-21",
+      "validRange": null,
+      "restaurantIds": [
+        "juyingyuan",
+        "fenghuayuan"
+      ],
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "确认主校区柳园风华园及聚英园地点；拟引进饮品/零食/水吧不等于具体菜单已开售"
+      }
+    },
+    {
+      "id": "heyuan-training-2026-09",
+      "title": "荷园餐厅开展秋季食品安全员专题培训",
+      "url": "https://www5.zzu.edu.cn/zxhq/info/1037/2658.htm",
+      "publisher": "郑州大学荷园项目公司",
+      "publishedAt": "2026-09-17",
+      "checkedAt": "2026-10-21",
+      "kind": "official-news",
+      "use": "证实秋季餐饮部开展培训，不包含具体菜单。正文有一张培训配图，其内容未作为任何菜品证据",
+      "locators": [
+        "正文：9月15日上午，荷园餐饮部开展秋季学期食品安全专题培训"
+      ],
+      "originalUrl": "https://www5.zzu.edu.cn/zxhq/info/1037/2658.htm",
+      "accessedAt": "2026-10-21",
+      "validRange": null,
+      "restaurantIds": [
+        "heyuan-1",
+        "heyuan-2"
+      ],
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "证实秋季餐饮部开展培训，不包含具体菜单。正文有一张培训配图，其内容未作为任何菜品证据"
+      }
+    },
+    {
+      "id": "historical-guide-2025",
+      "title": "启“新”筑 梦丨新生入学生活服务指南",
+      "url": "https://www5.zzu.edu.cn/mkszy/info/1018/6272.htm",
+      "publisher": "郑州大学马克思主义学院",
+      "publishedAt": "2025-08-31",
+      "checkedAt": "2026-10-21",
+      "kind": "historical-official-guide",
+      "use": "历史菜品与餐厅线索，已跨学期，不作为2026秋已核实菜单；另记录商业街位于荷园、荷六与荷一之间的有日期历史位置，不推断具体商户或现有15条记录归属",
+      "locators": [
+        "Part.3报道篇→餐厅与美食段落",
+        "Part.3报道篇→商业街（荷六与荷一之间）"
+      ],
+      "originalUrl": "https://www5.zzu.edu.cn/mkszy/info/1018/6272.htm",
+      "accessedAt": "2026-10-22",
+      "validRange": null,
+      "restaurantIds": [
+        "qiusuiyuan",
+        "jinggeyuan",
+        "juyingyuan",
+        "fenghuayuan",
+        "heyuan-1",
+        "heyuan-2"
+      ],
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "2025级经验指南，不能证明2026秋菜单；商业街位置作为有日期历史线索"
+      },
+      "accessStatus": "readable"
+    },
+    {
+      "id": "hq-service-guide",
+      "title": "服务指南",
+      "url": "https://www7.zzu.edu.cn/hqbzzx/fwzn.htm",
+      "publisher": "郑州大学后勤保障部",
+      "publishedAt": null,
+      "checkedAt": "2026-10-21",
+      "kind": "official-service-index",
+      "use": "当前索引为住宿、房产、用电、体育场等11项，无菜单",
+      "originalUrl": "https://www7.zzu.edu.cn/hqbzzx/fwzn.htm",
+      "accessedAt": "2026-10-21",
+      "validRange": null,
+      "restaurantIds": [],
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "当前索引为住宿、房产、用电、体育场等11项，无菜单"
+      }
+    },
+    {
+      "id": "heyuan-service-guide",
+      "title": "服务指南",
+      "url": "https://www5.zzu.edu.cn/zxhq/fwzn1.htm",
+      "publisher": "郑州大学荷园项目公司",
+      "publishedAt": null,
+      "checkedAt": "2026-10-21",
+      "kind": "official-service-index",
+      "use": "当前索引为住宿表、报修电话、APP一卡通说明，无菜单",
+      "originalUrl": "https://www5.zzu.edu.cn/zxhq/fwzn1.htm",
+      "accessedAt": "2026-10-21",
+      "validRange": null,
+      "restaurantIds": [],
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "当前索引为住宿表、报修电话、APP一卡通说明，无菜单"
+      }
+    },
+    {
+      "id": "fenghua-result-2026-09",
+      "title": "郑州大学后勤保障部学生食堂遴选辅助商户项目成交结果公告",
+      "url": "https://www7.zzu.edu.cn/hqbzzx/info/1275/2579.htm",
+      "publisher": "郑州大学后勤保障部",
+      "publishedAt": "2026-09-30",
+      "checkedAt": "2026-10-22",
+      "kind": "official-tender-result",
+      "use": "确认风华园一楼辅助商户成交与聚英园遴选地点；未列具体菜名、开业日期或供应餐次，不作为菜单证据",
+      "locators": [
+        "三、遴选时间及地点",
+        "四、成交情况"
+      ],
+      "originalUrl": "https://www7.zzu.edu.cn/hqbzzx/info/1275/2579.htm",
+      "accessedAt": "2026-10-22",
+      "validRange": null,
+      "restaurantIds": [
+        "fenghuayuan"
+      ],
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "确认风华园一楼辅助商户成交与聚英园遴选地点；未列具体菜名、开业日期或供应餐次，不作为菜单证据"
+      }
+    },
+    {
+      "id": "joint-procurement-2026",
+      "title": "2026年度郑州大学、河南工业大学、郑州轻工业大学三所高校学生食堂饮食原材料联合采购项目公开招标公告",
+      "url": "https://www7.zzu.edu.cn/hqbzzx/info/1275/2544.htm",
+      "publisher": "郑州大学后勤保障部",
+      "publishedAt": "2026-08-20",
+      "checkedAt": "2026-10-22",
+      "kind": "official-raw-material-procurement",
+      "use": "列明原材料类别、校区与2026-10-01至2027-09-30采购服务期；原材料不能推断具体餐品，也不能借用合同期限作为菜品有效期",
+      "locators": [
+        "一、项目基本情况→6.1采购内容",
+        "6.2服务期限",
+        "6.5标包划分"
+      ],
+      "originalUrl": "https://www7.zzu.edu.cn/hqbzzx/info/1275/2544.htm",
+      "accessedAt": "2026-10-22",
+      "validRange": null,
+      "restaurantIds": [],
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "列明原材料类别、校区与2026-10-01至2027-09-30采购服务期；原材料不能推断具体餐品，也不能借用合同期限作为菜品有效期"
+      }
+    },
+    {
+      "id": "hq-home-recheck-2026-10",
+      "title": "郑州大学后勤保障部首页（2026-10-22复查）",
+      "url": "https://www7.zzu.edu.cn/hqbzzx/",
+      "publisher": "郑州大学后勤保障部",
+      "publishedAt": null,
+      "checkedAt": "2026-10-22",
+      "kind": "official-service-index",
+      "use": "复查通知、新闻、服务指南与工作动态入口；当前可读取内容未提供具体菜单，不把首页“今天”相对标签当作文章日期",
+      "locators": [
+        "通知公告列表",
+        "服务指南列表",
+        "后勤新闻列表"
+      ],
+      "originalUrl": "https://www7.zzu.edu.cn/hqbzzx/",
+      "accessedAt": "2026-10-22",
+      "validRange": null,
+      "restaurantIds": [],
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "复查通知、新闻、服务指南与工作动态入口；当前可读取内容未提供具体菜单，不把首页“今天”相对标签当作文章日期"
+      }
+    },
+    {
+      "id": "hq-download-center-2026-10",
+      "title": "下载中心（2026-10-22菜单资料复核）",
+      "url": "https://www7.zzu.edu.cn/hqbzzx/xzzx.htm",
+      "originalUrl": "https://www7.zzu.edu.cn/hqbzzx/xzzx.htm",
+      "publisher": "郑州大学后勤保障部",
+      "publishedAt": null,
+      "checkedAt": "2026-10-22",
+      "accessedAt": "2026-10-22",
+      "kind": "official-download-index",
+      "locators": [
+        "下载中心→共16条资料列表"
+      ],
+      "restaurantIds": [],
+      "validRange": null,
+      "accessStatus": "readable",
+      "use": "所列16条为行政申请、报销、采购等表单，未发现具体餐厅菜单附件；不代表全网不存在菜单。",
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "所列16条为行政申请、报销、采购等表单，未发现具体餐厅菜单附件；不代表全网不存在菜单。"
+      }
+    },
+    {
+      "id": "hq-legacy-iprestricted-2026-10",
+      "title": "原后勤集团网站访问状态",
+      "url": "https://www5.zzu.edu.cn/hqjt/",
+      "originalUrl": "https://www5.zzu.edu.cn/hqjt/",
+      "publisher": "郑州大学",
+      "publishedAt": null,
+      "checkedAt": "2026-10-22",
+      "accessedAt": "2026-10-22",
+      "kind": "official-access-status",
+      "locators": [
+        "跳转系统提示→没有访问当前栏目的权限"
+      ],
+      "restaurantIds": [],
+      "validRange": null,
+      "accessStatus": "restricted",
+      "use": "旧入口跳转IP权限提示，未取得内容；访问受限不是停供证据，不尝试绕过访问限制。",
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "旧入口跳转IP权限提示，未取得内容；访问受限不是停供证据，不尝试绕过访问限制。"
+      }
+    },
+    {
+      "id": "heyuan-home-recheck-2026-10",
+      "title": "荷园项目公司首页访问复核",
+      "url": "https://www5.zzu.edu.cn/zxhq/",
+      "originalUrl": "https://www5.zzu.edu.cn/zxhq/",
+      "publisher": "郑州大学荷园项目公司",
+      "publishedAt": null,
+      "checkedAt": "2026-10-22",
+      "accessedAt": "2026-10-22",
+      "kind": "official-access-status",
+      "locators": [
+        "首页请求"
+      ],
+      "restaurantIds": [],
+      "validRange": null,
+      "accessStatus": "fetch-failed",
+      "use": "本次公开抓取返回Cache miss；不能据此判断菜单不存在或餐品停供，也不延长旧证据有效期。",
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "本次公开抓取返回Cache miss；不能据此判断菜单不存在或餐品停供，也不延长旧证据有效期。"
+      }
+    },
+    {
+      "id": "fenghua-second-2026-10-08",
+      "originalUrl": "https://www7.zzu.edu.cn/hqbzzx/info/1275/2582.htm",
+      "title": "风华园餐厅辅助商户遴选二次公告",
+      "publisher": "郑州大学后勤保障部",
+      "publishedAt": "2026-10-08",
+      "accessedAt": "2026-10-22",
+      "access": "full-text",
+      "locator": "项目位置、品类需求、服务期限",
+      "restaurantIds": [
+        "fenghuayuan",
+        "juyingyuan"
+      ],
+      "dishNames": [],
+      "mealTypes": [],
+      "validRange": null,
+      "eligibleForDishEvidence": false,
+      "decision": "只拟引进风华园二楼吧台/水吧类服务，无具体菜名、开售餐次或菜品有效期；三年合同不能作为菜品有效范围。",
+      "url": "https://www7.zzu.edu.cn/hqbzzx/info/1275/2582.htm",
+      "kind": "official-procurement-recheck",
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "只拟引进风华园二楼吧台/水吧类服务，无具体菜名、开售餐次或菜品有效期；三年合同不能作为菜品有效范围。"
+      }
+    },
+    {
+      "id": "fenghua-result-2026-10-14",
+      "originalUrl": "https://www7.zzu.edu.cn/hqbzzx/info/1275/2584.htm",
+      "title": "学生食堂遴选辅助商户项目（二次）成交结果公告",
+      "publisher": "郑州大学后勤保障部",
+      "publishedAt": "2026-10-14",
+      "accessedAt": "2026-10-22",
+      "access": "full-text",
+      "locator": "三、遴选时间地点；四、成交情况",
+      "restaurantIds": [
+        "fenghuayuan",
+        "juyingyuan"
+      ],
+      "dishNames": [],
+      "mealTypes": [],
+      "validRange": null,
+      "eligibleForDishEvidence": false,
+      "decision": "确认风华园二楼区域的辅助商户成交；聚英园是遴选会场。没有具体菜品，不证明已开业或供应餐次。",
+      "url": "https://www7.zzu.edu.cn/hqbzzx/info/1275/2584.htm",
+      "kind": "official-procurement-recheck",
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "确认风华园二楼区域的辅助商户成交；聚英园是遴选会场。没有具体菜品，不证明已开业或供应餐次。"
+      }
+    },
+    {
+      "id": "official-calendar-2026-2027",
+      "url": "https://www5.zzu.edu.cn/jwc/info/1276/5313.htm",
+      "title": "郑大校历2026-2027",
+      "publisher": "郑州大学教务部",
+      "publishedAt": "2026-07-17",
+      "accessedAt": "2026-10-22",
+      "access": "browser-original-page-and-image-reviewed",
+      "kind": "academic-calendar",
+      "locator": "正文第一张校历图，中间第一学期说明：9月7日秋季学期正式开学；2027年1月18日开始寒假",
+      "imageUrls": [
+        "https://www5.zzu.edu.cn/__local/5/16/80/9CA281679FBF5481110CBEA10C3_130073DF_257AD8.jpg"
+      ],
+      "term": "2026-autumn",
+      "validRange": {
+        "from": "2026-09-07",
+        "until": "2027-01-17"
+      },
+      "restaurantIds": [],
+      "qualifiedForMenu": false,
+      "reason": "仅能支持学期日期；不能证明任何菜名、餐厅关联或本学期供应。",
+      "screenshot": "review/screenshots/evidence-school-calendar-2026-2027.png",
+      "originalUrl": "https://www5.zzu.edu.cn/jwc/info/1276/5313.htm",
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "仅能支持学期日期；不能证明任何菜名、餐厅关联或本学期供应。"
+      }
+    },
+    {
+      "id": "official-weibo-5348205925237270",
+      "url": "https://weibo.com/2/detail/5348205925237270",
+      "title": "郑食记：一勺热汤，半日晴朗",
+      "publisher": "郑州大学",
+      "publishedAt": "2026-09-28",
+      "publishedMetadata": "2026-09-28 19:32:00",
+      "publicationDateBasis": "原页meta[property=article:published_time]，不是搜索摘要或ID推算",
+      "accessedAt": "2026-10-22",
+      "access": "browser-original-page-and-all-nine-images-reviewed",
+      "kind": "official-social-photo-gallery",
+      "locator": "原博正文与3×3照片组；署名图片来源荷园之家",
+      "imageUrls": [
+        "https://wx2.sinaimg.cn/cmw960/005tu2Ryly1ihjgob4v37j30hz0kck7m.jpg",
+        "https://wx1.sinaimg.cn/cmw960/005tu2Ryly1ihjgobbye0j30m10udx5l.jpg",
+        "https://wx2.sinaimg.cn/cmw960/005tu2Ryly1ihjgob3vhkj30h90ht7fe.jpg",
+        "https://wx1.sinaimg.cn/cmw960/005tu2Ryly1ihjgob49d0j30i20juwrs.jpg",
+        "https://wx3.sinaimg.cn/cmw960/005tu2Ryly1ihjgobc0dij30m40mlk7k.jpg",
+        "https://wx3.sinaimg.cn/cmw960/005tu2Ryly1ihjgobd85ij30hx0jedt0.jpg",
+        "https://wx3.sinaimg.cn/cmw960/005tu2Ryly1ihjgobjzchj30rx0n54q8.jpg",
+        "https://wx1.sinaimg.cn/cmw960/005tu2Ryly1ihjgobkmfej30dc0engua.jpg",
+        "https://wx4.sinaimg.cn/cmw960/005tu2Ryly1ihjgobmgs1j30dr0dujz8.jpg"
+      ],
+      "restaurantIds": [],
+      "validRange": null,
+      "qualifiedForMenu": false,
+      "reason": "九张均为成品照片，未见带菜名的窗口菜单、具体餐厅标识、拍摄日期或供应餐次。荷园之家图源不等于荷园一餐厅或二餐厅。不能据外观生成菜名或配料。",
+      "screenshot": "review/screenshots/evidence-weibo-5348205925237270-all.png",
+      "originalUrl": "https://weibo.com/2/detail/5348205925237270",
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "九张均为成品照片，未见带菜名的窗口菜单、具体餐厅标识、拍摄日期或供应餐次。荷园之家图源不等于荷园一餐厅或二餐厅。不能据外观生成菜名或配料。"
+      }
+    },
+    {
+      "id": "fenghua-weibo-5347005016312802",
+      "url": "https://weibo.com/2/detail/5347005016312802",
+      "title": "柳园风华园二楼美食合集",
+      "publisher": "郑州大学青年集结号",
+      "publisherIdentity": "页面为V认证展示名，未以学校关联页独立确认账号运营主体",
+      "publishedAt": "2026-09-25",
+      "publishedMetadata": "2026-09-25 12:00:01",
+      "publicationDateBasis": "原页meta[property=article:published_time]及JSON-LD datePublished",
+      "accessedAt": "2026-10-22",
+      "access": "browser-original-page-and-all-three-images-reviewed",
+      "kind": "social-food-gallery",
+      "locator": "正文明确柳园风华园二楼及三菜名；第一图叠字柳园风华园餐厅二楼酱爆鸡，第三图叠字风华园二楼馄饨面",
+      "imageUrls": [
+        "https://wx1.sinaimg.cn/cmw960/bf829c1ely1ihekednvwuj21be0zjh06.jpg",
+        "https://wx3.sinaimg.cn/cmw960/bf829c1ely1ihekee4pg6j20zj1bencl.jpg",
+        "https://wx3.sinaimg.cn/cmw960/bf829c1ely1ihekeefi5rj20u013p7gf.jpg"
+      ],
+      "restaurantIds": [
+        "fenghuayuan"
+      ],
+      "dishNameLeads": [
+        "酱爆鸡",
+        "卤肉饭",
+        "馄饨面"
+      ],
+      "mealTypes": [],
+      "validRange": null,
+      "qualifiedForMenu": false,
+      "reason": "成品图加编辑文字，非官方菜单或带日期地点的窗口菜单照片。尚缺供应餐次、拍摄日期和有效期；不能凭发布日在学期内推断整个学期供应。",
+      "screenshot": "review/screenshots/evidence-weibo-5347005016312802.png",
+      "originalUrl": "https://weibo.com/2/detail/5347005016312802",
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "成品图加编辑文字，非官方菜单或带日期地点的窗口菜单照片。尚缺供应餐次、拍摄日期和有效期；不能凭发布日在学期内推断整个学期供应。"
+      }
+    },
+    {
+      "id": "historical-guide-2024",
+      "title": "2024迎新生活指南",
+      "url": "https://www5.zzu.edu.cn/mkszy/info/1018/5214.htm",
+      "originalUrl": "https://www5.zzu.edu.cn/mkszy/info/1018/5214.htm",
+      "publisher": "郑州大学马克思主义学院",
+      "publishedAt": "2024-08-22",
+      "accessedAt": "2026-10-22",
+      "kind": "historical-student-guide",
+      "locator": "美食段落与2025指南相同25菜名",
+      "validRange": null,
+      "restaurantIds": [],
+      "assessment": {
+        "eligibleForCurrentMenu": false,
+        "reason": "历史经验介绍，2025稿沿用不能视为菜单复核。"
+      }
+    }
+  ],
+  "existingAudit": [
+    {
+      "id": "dish-1b135c928808",
+      "name": "茄汁面",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-aa798c22d5e0",
+      "name": "生煎包 + 豆浆",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-00e6a5395515",
+      "name": "酸辣面",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-b8f3a4d366b7",
+      "name": "土豆粉",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-3c8c4eb51ebc",
+      "name": "耀兴隆热干面",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-886c817d211d",
+      "name": "干拌荠菜小馄饨",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-05d5a1f3c5df",
+      "name": "包子 + 茶叶蛋",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-9c9bd9e128f3",
+      "name": "粥 + 玉米",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-3572880f383c",
+      "name": "胡辣汤",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-b2be61f902ec",
+      "name": "菌菇面",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-ebe65b32c381",
+      "name": "蛋炒饭",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-2221b3b364c6",
+      "name": "鸡蛋灌饼",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-1c6dcba4ea41",
+      "name": "豆浆油条",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-123ec3d5c3e2",
+      "name": "鸡蛋面",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-9d5bec5abb9b",
+      "name": "玉米粥",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-f2dd308e6a5b",
+      "name": "锅贴",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-74bf42dc48d2",
+      "name": "鲜肉锅贴",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-33cc53fe698f",
+      "name": "皮蛋瘦肉粥",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-027140dc1bcc",
+      "name": "鲜肉馄饨",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-f7669df9a3c3",
+      "name": "烧麦",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-fda60a6ef328",
+      "name": "手抓饼",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-af0b39a5575c",
+      "name": "鸡蛋饼",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-eb76574e5fb3",
+      "name": "肉夹馍",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-13d7f908420e",
+      "name": "红豆饼",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-e9e87bff35f7",
+      "name": "煎饺",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-f6d6fc511237",
+      "name": "糯米鸡",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-abb3c2b369b6",
+      "name": "三鲜米线",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-9ef81dc62d93",
+      "name": "生煎馄饨",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-e1a0c1cf8052",
+      "name": "南瓜粥",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-09f09e588331",
+      "name": "小笼包",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-74bc24706d48",
+      "name": "豆腐脑",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-5531a9332445",
+      "name": "蔬菜捞面",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-0c1cfef3350c",
+      "name": "海鲜焖面",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-6a7156c395e0",
+      "name": "螺蛳粉",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-5e9bbb8cce24",
+      "name": "自选餐",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-7f070a45c4a4",
+      "name": "酸辣粉",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-d7f0ae7c6892",
+      "name": "土豆烧鸡盖饭",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-2a9181213b2b",
+      "name": "清真牛肉面",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-f0b0d31b7642",
+      "name": "番茄鸡蛋盖饭",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-1e1563b3a0d0",
+      "name": "石锅拌饭",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-68091b156625",
+      "name": "鱿鱼五花肉拌饭",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-a65eb3e09be7",
+      "name": "麻辣拌 + 红油抄手",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-66cccb24b4cd",
+      "name": "铁板豆腐 + 鸡排",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-38aadc2430df",
+      "name": "干拌面",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-e93a4f420684",
+      "name": "香菇鸡饭",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-4e4739fc4325",
+      "name": "鱼香肉丝饭",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-73862c214c4b",
+      "name": "鸡排饭",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-f6ab9034a348",
+      "name": "宫保鸡丁饭",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-53a4d06cb3e3",
+      "name": "回锅肉饭",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-1c2c7ab65e65",
+      "name": "砂锅米线",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-c237c9263ffa",
+      "name": "炒河粉",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-8900bb4bc717",
+      "name": "羊肉烩面",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-003401f58bcf",
+      "name": "酸汤水饺",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-1306b065159e",
+      "name": "三鲜米线",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-8a3705cac9b6",
+      "name": "砂锅土豆粉",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-eb8d1854c504",
+      "name": "自助餐",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-d2b7c8298f10",
+      "name": "红烧茄子饭",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-6402fee78cbe",
+      "name": "香辣鸡腿饭",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-a01421de348a",
+      "name": "盖浇面",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-842d40863d0a",
+      "name": "黄焖鸡",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-53c26bcaf923",
+      "name": "兰州拉面",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-d541c22f12af",
+      "name": "蛋包饭",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-eced8604626f",
+      "name": "鱼香茄子饭",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-2c400e5bee2e",
+      "name": "麻辣香锅",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-b708133b9bce",
+      "name": "烤肉拌饭",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-702627af5af1",
+      "name": "香辣鸡排面",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-1d06e6357dc0",
+      "name": "菌菇面",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-d185c6a5856b",
+      "name": "臊子面",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-a873c05a5f17",
+      "name": "自选两荤一素",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-100fc879ebd7",
+      "name": "酸辣面",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-99ad6f3286bc",
+      "name": "干拌荠菜小馄饨",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-ea2ac8d441ec",
+      "name": "风华园自选菜",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-650675f8326e",
+      "name": "麻辣拌",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-2ab8883f031f",
+      "name": "红油抄手",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-601a949b68c7",
+      "name": "烤冷面",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-b2dbe78efc12",
+      "name": "铁板豆腐 + 鸡排",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-eede4606ff23",
+      "name": "红豆饼 + 玉米汁",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-1bf38aceac27",
+      "name": "石锅拌饭",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-fae66258a5d2",
+      "name": "海鲜炒饭",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-d3e7bdaa09be",
+      "name": "香辣拌面",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-234abb432cbd",
+      "name": "酸汤面",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-5f12e9d6b57d",
+      "name": "鸡肉焖饭",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-0caa2a9f7be8",
+      "name": "酸汤馄饨",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-d9ab9fc6ff2a",
+      "name": "煲仔饭",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-c69af41bbe1d",
+      "name": "炒乌冬",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-4f2b131552cc",
+      "name": "炸酱面",
+      "claimedRestaurant": "松园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-ffa23be616b0",
+      "name": "牛肉粉",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-0b811c294067",
+      "name": "鸡丝凉面",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-79dac3a4cc19",
+      "name": "卤肉饭",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-095ddf7f41d2",
+      "name": "烧鸭饭",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-3789687abad2",
+      "name": "自选小火锅",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-baa1368b227e",
+      "name": "鸡肉卷",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-af0d1f159247",
+      "name": "关东煮",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-0526bafa2d17",
+      "name": "米线",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-296683b491d9",
+      "name": "炒面",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-4fbdd7371f38",
+      "name": "鸡蛋灌饼",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-d424be2109c6",
+      "name": "章鱼小丸子",
+      "claimedRestaurant": "商业街",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-1f20447302d5",
+      "name": "麻辣烫",
+      "claimedRestaurant": "菊园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-fb5cd60fe7ed",
+      "name": "螺蛳粉",
+      "claimedRestaurant": "柳园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    },
+    {
+      "id": "dish-13f72833790d",
+      "name": "煎饼果子",
+      "claimedRestaurant": "荷园餐厅",
+      "status": "pending",
+      "eligibleForRecommendation": false,
+      "reason": "现有记录没有随附可验证的当前校内菜品—餐厅证据；相近历史菜名不能直接绑定"
+    }
+  ],
+  "searchScope": [
+    "学校后勤保障部当前首页、服务指南、2026年秋季公告",
+    "荷园项目公司首页、服务指南、2026秋培训正文、公司简介",
+    "2026迎新生活与住宿指南",
+    "2025学院迎新指南（只作为历史线索）",
+    "公开搜索关键词：2026/餐厅/菜品/菜单/烩面/秋穗园/竞舸园/风华园/荷园",
+    "2026-10-22复查：后勤保障部首页、9月30日学生食堂辅助商户成交公告、8月20日年度原材料采购公告；搜索2026菜单/食谱/一周食谱及四生活区餐厅关键词"
+  ],
+  "limitations": [
+    "未取得当前学期完整官方菜单或带日期地点可确认的窗口菜单照片",
+    "搜索引擎返回部分其他学校菜单已排除",
+    "部分www5网页web工具无法读取，已用只读HTTP核对正文和链接",
+    "培训新闻含一张图片但未作为菜单证据；未对不可辨认照片猜测菜品",
+    "本轮部分www.zzu.edu.cn、www5.zzu.edu.cn正文读取出现Cache miss/超时；仅搜索摘要的内容不新增为菜品证据。检索未发现不代表相关菜单绝对不存在。"
+  ],
+  "gaps": [
+    "各餐厅当前菜单及适用餐次",
+    "独立菜品证据与现有稳定ID的对应",
+    "当前价格、配料、窗口、营业时间",
+    "当前有效期或复核日期",
+    "需取得具体餐厅（不仅是生活区）与菜名的同页证据；原材料合同期限、商户成交日期不得充当菜品供应有效期",
+    "逐菜品字段级来源：餐厅、餐次、口味、价格和配料需要各自依据；未明示的字段保持未知",
+    "公开入口存在访问受限/读取失败，不能通过自动延长有效期弥补"
+  ],
+  "rechecks": [
+    {
+      "checkedAt": "2026-10-22",
+      "queries": [
+        "site:zzu.edu.cn 2026 食堂 菜单 秋穗园",
+        "site:zzu.edu.cn 2026 餐厅 菜品 竞舸园",
+        "site:zzu.edu.cn 2026 荷园 菜单",
+        "site:zzu.edu.cn 2026 风华园 菜品",
+        "site:zzu.edu.cn \"2026\" \"菜单\"",
+        "site:zzu.edu.cn \"2026\" \"食谱\"",
+        "site:zzu.edu.cn \"2026\" \"菜品\" \"餐厅\"",
+        "郑州大学 2026 秋季 食堂 菜单 窗口",
+        "\"郑州大学\" \"2026\" \"一周食谱\"",
+        "\"郑州大学\" \"2026\" \"餐厅\" \"菜单\" -\"招聘\" -\"考古\"",
+        "\"郑大后勤\" \"2026\" \"美食\"",
+        "\"竞舸园\" \"2026\" \"菜单\""
+      ],
+      "addedSourceIds": [
+        "fenghua-result-2026-09",
+        "joint-procurement-2026",
+        "hq-home-recheck-2026-10"
+      ],
+      "eligibleDishCount": 0,
+      "outcome": "未取得符合准入要求的当学期菜单或人工确认窗口照片。100条旧记录继续待核实，25条历史线索不提升状态。",
+      "excludedResults": [
+        "其他学校食堂与非主校区材料",
+        "公众号菜单栏与考古食谱等关键词误匹配",
+        "2018/2019/2021/2022历史食堂故事",
+        "原材料采购与辅助商户成交公告"
+      ]
+    },
+    {
+      "id": "dish-library-deep-review-2026-10-22",
+      "checkedAt": "2026-10-22",
+      "queries": [
+        "site:zzu.edu.cn \"2026\" \"餐厅\" \"菜谱\"",
+        "site:zzu.edu.cn \"聚英园\" \"早餐\"",
+        "site:zzu.edu.cn \"荷园\" \"菜单\" \"2026\"",
+        "site:zzu.edu.cn \"竞舸园\" \"食谱\"",
+        "site:zzu.edu.cn \"2026\" \"秋穗园\" \"菜\"",
+        "site:zzu.edu.cn \"2026\" \"风华园\" \"菜单\"",
+        "site:zzu.edu.cn \"荷园\" \"每周\" \"餐\"",
+        "\"郑州大学\" \"2026\" \"早餐\" \"菜单\"",
+        "site:zzu.edu.cn \"2026\" \"餐厅\" \"菜品\" \"早餐\"",
+        "\"秋穗园\" \"菜单\" \"2026\"",
+        "\"荷园一餐厅\" \"菜单\"",
+        "\"竞舸园\" \"菜单\"",
+        "site:zzu.edu.cn \"2026\" \"荷园\" \"食堂\" \"菜单\" filetype:pdf",
+        "site:zzu.edu.cn \"2026\" \"菜谱\" filetype:xlsx",
+        "\"郑大后勤\" \"菜单\" \"2026\"",
+        "\"郑州大学\" \"食堂菜单\" \"2026\"",
+        "site:zzu.edu.cn \"2026\" \"一周菜单\"",
+        "site:zzu.edu.cn \"2026\" \"菜品价格\"",
+        "site:zzu.edu.cn \"荷园一\" \"早餐\"",
+        "site:zzu.edu.cn \"风华园\" \"食谱\""
+      ],
+      "addedSourceIds": [
+        "hq-download-center-2026-10",
+        "hq-legacy-iprestricted-2026-10",
+        "heyuan-home-recheck-2026-10"
+      ],
+      "revisitedSourceIds": [
+        "historical-guide-2025",
+        "hq-home-recheck-2026-10",
+        "hq-service-guide"
+      ],
+      "eligibleDishCount": 0,
+      "sourceConflicts": [],
+      "outcome": "未取得当期具体菜单。按六个已登记具体餐厅建立来源索引；补充商业街有日期历史位置，未绑定旧15条餐品；100条旧记录和25条历史线索不升级状态。",
+      "excludedResults": [
+        "2024搜狐转载校园美食攻略：非当前官方菜单，仅可作线索，未加入正式菜库",
+        "2018风华园人物报道和2022疫情供餐报道：历史事件，不用于当前菜品或餐次",
+        "他校一周菜单、管理规定和采购公告：不满足学校/菜单/时效三项要求"
+      ],
+      "accessLimits": [
+        {
+          "url": "https://www5.zzu.edu.cn/hqjt/",
+          "status": "IP权限提示"
+        },
+        {
+          "url": "https://www5.zzu.edu.cn/zxhq/",
+          "status": "Cache miss"
+        },
+        {
+          "url": "https://www7.zzu.edu.cn/hqbzzx/",
+          "locator": "首页→工作动态链接",
+          "status": "本次读取失败，未据此断言无菜单"
+        }
+      ]
+    },
+    {
+      "id": "current-menu-source-recheck",
+      "checkedAt": "2026-10-22",
+      "sourceIds": [
+        "fenghua-second-2026-10-08",
+        "fenghua-result-2026-10-14",
+        "official-calendar-2026-2027",
+        "official-weibo-5348205925237270",
+        "fenghua-weibo-5347005016312802",
+        "historical-guide-2024"
+      ],
+      "newNamedLeads": 3,
+      "verifiedNewRecords": 0,
+      "recommendableByMeal": {
+        "breakfast": 0,
+        "lunch": 0,
+        "dinner": 0
+      },
+      "reports": [
+        "review/current-six-venue-recheck.json",
+        "review/current-historical-recheck.json",
+        "review/current-public-source-recheck.json"
+      ],
+      "reason": "本次完成原页与原图复查，新增可追溯菜名线索3条、可用校历依据1份，合格新增菜单0份、正式新增菜品0条。未下载或复用这些照片作为产品素材。"
+    }
+  ],
+  "locationClaims": [
+    {
+      "id": "heyuan-commercial-street-2025",
+      "name": "主校区商业街",
+      "campus": "郑州大学主校区",
+      "area": "荷园",
+      "location": "荷园生活园区荷六与荷一之间",
+      "sourceId": "historical-guide-2025",
+      "sourcePublishedAt": "2025-08-31",
+      "accessedAt": "2026-10-22",
+      "locator": "Part.3报道篇→商业街段落",
+      "status": "historical-location-reference",
+      "currentIdentityVerified": false,
+      "validRange": null,
+      "bindsLegacyDishRecords": false,
+      "note": "仅记录该指南所述位置；不确认2026秋具体商户，不把旧库15条商业街餐品直接绑定该地点或任何商户。"
+    }
+  ],
+  "restaurantSourceIndex": [
+    {
+      "restaurantId": "qiusuiyuan",
+      "name": "秋穗园餐厅",
+      "area": "菊园",
+      "sourceIds": [
+        "official-welcome-residence",
+        "summer-2026",
+        "historical-guide-2025"
+      ],
+      "menuSourceIds": [],
+      "menuVerifiedCount": 0,
+      "priority": [
+        "早餐",
+        "完整正餐"
+      ],
+      "gaps": [
+        "当期具体菜单",
+        "明确餐次",
+        "菜名与餐厅同页关联",
+        "菜单有效范围"
+      ],
+      "decision": "餐厅身份资料不替代菜品证据"
+    },
+    {
+      "restaurantId": "jinggeyuan",
+      "name": "竞舸园餐厅",
+      "area": "松园",
+      "sourceIds": [
+        "official-welcome-residence",
+        "historical-guide-2025"
+      ],
+      "menuSourceIds": [],
+      "menuVerifiedCount": 0,
+      "priority": [
+        "早餐",
+        "完整正餐"
+      ],
+      "gaps": [
+        "当期具体菜单",
+        "明确餐次",
+        "菜名与餐厅同页关联",
+        "菜单有效范围"
+      ],
+      "decision": "餐厅身份资料不替代菜品证据"
+    },
+    {
+      "restaurantId": "juyingyuan",
+      "name": "聚英园餐厅",
+      "area": "柳园",
+      "sourceIds": [
+        "official-welcome-residence",
+        "summer-2026",
+        "fenghua-2026-09",
+        "historical-guide-2025"
+      ],
+      "menuSourceIds": [],
+      "menuVerifiedCount": 0,
+      "priority": [
+        "早餐",
+        "完整正餐"
+      ],
+      "gaps": [
+        "当期具体菜单",
+        "明确餐次",
+        "菜名与餐厅同页关联",
+        "菜单有效范围"
+      ],
+      "decision": "餐厅身份资料不替代菜品证据"
+    },
+    {
+      "restaurantId": "fenghuayuan",
+      "name": "风华园餐厅",
+      "area": "柳园",
+      "sourceIds": [
+        "official-welcome-residence",
+        "fenghua-2026-09",
+        "fenghua-result-2026-09",
+        "historical-guide-2025",
+        "fenghua-second-2026-10-08",
+        "fenghua-result-2026-10-14",
+        "fenghua-weibo-5347005016312802"
+      ],
+      "menuSourceIds": [],
+      "menuVerifiedCount": 0,
+      "priority": [
+        "早餐",
+        "完整正餐"
+      ],
+      "gaps": [
+        "当期具体菜单",
+        "明确餐次",
+        "菜名与餐厅同页关联",
+        "菜单有效范围"
+      ],
+      "decision": "餐厅身份资料不替代菜品证据"
+    },
+    {
+      "restaurantId": "heyuan-1",
+      "name": "荷园一餐厅",
+      "area": "荷园",
+      "sourceIds": [
+        "summer-2026",
+        "heyuan-training-2026-09",
+        "historical-guide-2025"
+      ],
+      "menuSourceIds": [],
+      "menuVerifiedCount": 0,
+      "priority": [
+        "早餐",
+        "完整正餐"
+      ],
+      "gaps": [
+        "当期具体菜单",
+        "明确餐次",
+        "菜名与餐厅同页关联",
+        "菜单有效范围"
+      ],
+      "decision": "餐厅身份资料不替代菜品证据"
+    },
+    {
+      "restaurantId": "heyuan-2",
+      "name": "荷园二餐厅",
+      "area": "荷园",
+      "sourceIds": [
+        "summer-2026",
+        "heyuan-training-2026-09",
+        "historical-guide-2025"
+      ],
+      "menuSourceIds": [],
+      "menuVerifiedCount": 0,
+      "priority": [
+        "早餐",
+        "完整正餐"
+      ],
+      "gaps": [
+        "当期具体菜单",
+        "明确餐次",
+        "菜名与餐厅同页关联",
+        "菜单有效范围"
+      ],
+      "decision": "餐厅身份资料不替代菜品证据"
+    }
+  ],
+  "namedMenuLeads": [
+    {
+      "name": "酱爆鸡",
+      "restaurantId": "fenghuayuan",
+      "restaurantText": "柳园风华园二楼",
+      "sourceId": "fenghua-weibo-5347005016312802",
+      "status": "needs-menu-evidence",
+      "identityVerified": false,
+      "mealTypes": [],
+      "eligibleForRecommendation": false
+    },
+    {
+      "name": "卤肉饭",
+      "restaurantId": "fenghuayuan",
+      "restaurantText": "柳园风华园二楼",
+      "sourceId": "fenghua-weibo-5347005016312802",
+      "status": "needs-menu-evidence",
+      "identityVerified": false,
+      "mealTypes": [],
+      "eligibleForRecommendation": false
+    },
+    {
+      "name": "馄饨面",
+      "restaurantId": "fenghuayuan",
+      "restaurantText": "柳园风华园二楼",
+      "sourceId": "fenghua-weibo-5347005016312802",
+      "status": "needs-menu-evidence",
+      "identityVerified": false,
+      "mealTypes": [],
+      "eligibleForRecommendation": false
+    }
+  ]
+}

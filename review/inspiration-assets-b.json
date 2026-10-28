@@ -1,0 +1,930 @@
+[
+  {
+    "id": "dish-4b3703455de6",
+    "dishName": "山药排骨汤",
+    "path": "assets/dishes/dish-4b3703455de6.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 山药排骨汤. Specific subject: the ordinary Chinese cafeteria version of 山药排骨汤, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-4b3703455de6; never reuse, crop or recolor another dish image.",
+    "sha256": "ddd6dc0f9de7ab9fa6061f716e3cb673d8cf5c5db7f43abc07f6d50b80e154aa",
+    "bytes": 101786,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-4b3703455de6-thumb.webp",
+      "sha256": "dfc2ccfec500bf02f39b9019d8a2dc152ef5d06600a3491c66e75c6c6ad01cd3",
+      "bytes": 16476,
+      "derivedFrom": "ddd6dc0f9de7ab9fa6061f716e3cb673d8cf5c5db7f43abc07f6d50b80e154aa"
+    }
+  },
+  {
+    "id": "dish-298f08500559",
+    "dishName": "金枪鱼饭团",
+    "path": "assets/dishes/dish-298f08500559.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 金枪鱼饭团. Specific subject: the ordinary Chinese cafeteria version of 金枪鱼饭团, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-298f08500559; never reuse, crop or recolor another dish image.",
+    "sha256": "f39acc014f7c428b691974e1c6343f0c9d6613747707463856a08f800d21b529",
+    "bytes": 134024,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-298f08500559-thumb.webp",
+      "sha256": "ca1a5a3f271646440a05ce4b44205dfb96118bd8c3f2671fcc18d4868bee93bb",
+      "bytes": 20204,
+      "derivedFrom": "f39acc014f7c428b691974e1c6343f0c9d6613747707463856a08f800d21b529"
+    }
+  },
+  {
+    "id": "dish-7e12e60443f8",
+    "dishName": "铁板牛肉",
+    "path": "assets/dishes/dish-7e12e60443f8.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 铁板牛肉. Specific subject: the ordinary Chinese cafeteria version of 铁板牛肉, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-7e12e60443f8; never reuse, crop or recolor another dish image.",
+    "sha256": "114923d710d2e13b09c1b948f82a35a9b952b6218ae78d4180f0907bdb44be5d",
+    "bytes": 153542,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-7e12e60443f8-thumb.webp",
+      "sha256": "106c57a7c2f4df0da2fbaca7fc3f1416ab0acd8b533ec6a2ace201e07c5df01d",
+      "bytes": 21848,
+      "derivedFrom": "114923d710d2e13b09c1b948f82a35a9b952b6218ae78d4180f0907bdb44be5d"
+    }
+  },
+  {
+    "id": "dish-4420273304c7",
+    "dishName": "鸡胸肉沙拉",
+    "path": "assets/dishes/dish-4420273304c7.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 鸡胸肉沙拉. Specific subject: the ordinary Chinese cafeteria version of 鸡胸肉沙拉, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-4420273304c7; never reuse, crop or recolor another dish image.",
+    "sha256": "1fb22ebfcdc989acd527cc9681a4b711e33efd3fd68a0f3b563bb2d4ab0f0e75",
+    "bytes": 118024,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-4420273304c7-thumb.webp",
+      "sha256": "72d90afc6b8432da192ad0708202d6062f3761c8ee20c91b231ca000402718d3",
+      "bytes": 20284,
+      "derivedFrom": "1fb22ebfcdc989acd527cc9681a4b711e33efd3fd68a0f3b563bb2d4ab0f0e75"
+    }
+  },
+  {
+    "id": "dish-3ea3ccc8fb9c",
+    "dishName": "豆沙包",
+    "path": "assets/dishes/dish-3ea3ccc8fb9c.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 豆沙包. Specific subject: the ordinary Chinese cafeteria version of 豆沙包, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-3ea3ccc8fb9c; never reuse, crop or recolor another dish image.",
+    "sha256": "4dbcc447e43b4be89e685040ac7b722e02fe7e2b1c307b7f1ae2aff143aee67e",
+    "bytes": 62684,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-3ea3ccc8fb9c-thumb.webp",
+      "sha256": "61bc0570286b210f5035506c7b36a55592f4141d2c5f41bb1d740997a3b2e4b2",
+      "bytes": 10810,
+      "derivedFrom": "4dbcc447e43b4be89e685040ac7b722e02fe7e2b1c307b7f1ae2aff143aee67e"
+    }
+  },
+  {
+    "id": "dish-08f407d0e18b",
+    "dishName": "花卷",
+    "path": "assets/dishes/dish-08f407d0e18b.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 花卷. Specific subject: the ordinary Chinese cafeteria version of 花卷, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-08f407d0e18b; never reuse, crop or recolor another dish image.",
+    "sha256": "fc81df00089c460a2df502e326886ea6c78a4617841eb555195228352699f90c",
+    "bytes": 90122,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-08f407d0e18b-thumb.webp",
+      "sha256": "cc0ba5ea86fffe0d061b9458d6300975ed038f96e2bfa6c1cbeab779817b4a00",
+      "bytes": 16498,
+      "derivedFrom": "fc81df00089c460a2df502e326886ea6c78a4617841eb555195228352699f90c"
+    }
+  },
+  {
+    "id": "dish-0b6422b5abcd",
+    "dishName": "芝麻烧饼",
+    "path": "assets/dishes/dish-0b6422b5abcd.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 芝麻烧饼. Specific subject: the ordinary Chinese cafeteria version of 芝麻烧饼, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-0b6422b5abcd; never reuse, crop or recolor another dish image.",
+    "sha256": "987042304fc93d8f40c748d3fefe48d8771bdc19ebf06e67c127ba81f44406a2",
+    "bytes": 111406,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-0b6422b5abcd-thumb.webp",
+      "sha256": "5ccaa1363827285aa5a73d88c573b50901a1f0dfc9201a7369ba87d0aa01bc48",
+      "bytes": 17528,
+      "derivedFrom": "987042304fc93d8f40c748d3fefe48d8771bdc19ebf06e67c127ba81f44406a2"
+    }
+  },
+  {
+    "id": "dish-1d8066e00175",
+    "dishName": "韭菜盒子",
+    "path": "assets/dishes/dish-1d8066e00175.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 韭菜盒子. Specific subject: the ordinary Chinese cafeteria version of 韭菜盒子, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-1d8066e00175; never reuse, crop or recolor another dish image.",
+    "sha256": "e2bf665de0492da8db8f33961d57b885655d1d9aa2c7d8d85efa3d49db9438f4",
+    "bytes": 124998,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-1d8066e00175-thumb.webp",
+      "sha256": "1c2b00f1eca5234997375e004ff39ccd5cf88a32b521c5b4e336149b5867ffc2",
+      "bytes": 18154,
+      "derivedFrom": "e2bf665de0492da8db8f33961d57b885655d1d9aa2c7d8d85efa3d49db9438f4"
+    }
+  },
+  {
+    "id": "dish-25c80b542404",
+    "dishName": "玉米发糕",
+    "path": "assets/dishes/dish-25c80b542404.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 玉米发糕. Specific subject: the ordinary Chinese cafeteria version of 玉米发糕, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-25c80b542404; never reuse, crop or recolor another dish image.",
+    "sha256": "e902a96dff83a629dff0c24f628e96791405187009de4c74eeae29a364e9bcc7",
+    "bytes": 122858,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-25c80b542404-thumb.webp",
+      "sha256": "854336dd28115df2775a2c824325e4d3a6c0760fbc375d79d97bc4087a0054c1",
+      "bytes": 17906,
+      "derivedFrom": "e902a96dff83a629dff0c24f628e96791405187009de4c74eeae29a364e9bcc7"
+    }
+  },
+  {
+    "id": "dish-d81bd7e78904",
+    "dishName": "担担面",
+    "path": "assets/dishes/dish-d81bd7e78904.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 担担面. Specific subject: the ordinary Chinese cafeteria version of 担担面, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-d81bd7e78904; never reuse, crop or recolor another dish image.",
+    "sha256": "d5ab00c0a1d9f821eb8f99c880ca288f30b4c2cd437e39928b2ffed2da7796c7",
+    "bytes": 122940,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-d81bd7e78904-thumb.webp",
+      "sha256": "505a751a966c3118a138e98198cf06dae415c20c6a88ba511d4a94b044e7300d",
+      "bytes": 20356,
+      "derivedFrom": "d5ab00c0a1d9f821eb8f99c880ca288f30b4c2cd437e39928b2ffed2da7796c7"
+    }
+  },
+  {
+    "id": "dish-ebf42a40616b",
+    "dishName": "豆角焖面",
+    "path": "assets/dishes/dish-ebf42a40616b.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 豆角焖面. Specific subject: the ordinary Chinese cafeteria version of 豆角焖面, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-ebf42a40616b; never reuse, crop or recolor another dish image.",
+    "sha256": "c907bc1e0b96e33ad363b0d6312c489b7e10c44ae875a22473f299ba678fef8b",
+    "bytes": 153388,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-ebf42a40616b-thumb.webp",
+      "sha256": "42a011f3ecacc223ddc2b680d1195b5751179fa2af021f1f56d1018c35d081b4",
+      "bytes": 24084,
+      "derivedFrom": "c907bc1e0b96e33ad363b0d6312c489b7e10c44ae875a22473f299ba678fef8b"
+    }
+  },
+  {
+    "id": "dish-848191cd2b92",
+    "dishName": "烩麻食",
+    "path": "assets/dishes/dish-848191cd2b92.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 烩麻食. Specific subject: the ordinary Chinese cafeteria version of 烩麻食, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-848191cd2b92; never reuse, crop or recolor another dish image.",
+    "sha256": "0725a7a0fcedf130e8364935938b80c9d64856ea9504de045a6149c4c99a6e7d",
+    "bytes": 124710,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-848191cd2b92-thumb.webp",
+      "sha256": "640048aa551aa87c039880511841e47df8bdc98785ac1763c5fbef7d70e06cb6",
+      "bytes": 20210,
+      "derivedFrom": "0725a7a0fcedf130e8364935938b80c9d64856ea9504de045a6149c4c99a6e7d"
+    }
+  },
+  {
+    "id": "dish-cd74351f3cb6",
+    "dishName": "凉皮",
+    "path": "assets/dishes/dish-cd74351f3cb6.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 凉皮. Specific subject: the ordinary Chinese cafeteria version of 凉皮, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-cd74351f3cb6; never reuse, crop or recolor another dish image.",
+    "sha256": "440f0f78f41f2f17a2e8cdd7a36e8f22c786814e0fe16e2d986ebf514fc718d1",
+    "bytes": 127286,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-cd74351f3cb6-thumb.webp",
+      "sha256": "bfb18a1bffbe18e300bfae81897e02c13277d76b50be505fee0ed69bedfc47da",
+      "bytes": 20820,
+      "derivedFrom": "440f0f78f41f2f17a2e8cdd7a36e8f22c786814e0fe16e2d986ebf514fc718d1"
+    }
+  },
+  {
+    "id": "dish-12242efe68e0",
+    "dishName": "鸭血粉丝汤",
+    "path": "assets/dishes/dish-12242efe68e0.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 鸭血粉丝汤. Specific subject: the ordinary Chinese cafeteria version of 鸭血粉丝汤, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-12242efe68e0; never reuse, crop or recolor another dish image.",
+    "sha256": "9f9467277ee4a06b8329909db6c244a8ff5e306de89998ab8f5bc45bfbefe0c5",
+    "bytes": 127846,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-12242efe68e0-thumb.webp",
+      "sha256": "548165536332ee383df36d4f59bbde06e81939aadbb30d52797501eda90831ba",
+      "bytes": 20008,
+      "derivedFrom": "9f9467277ee4a06b8329909db6c244a8ff5e306de89998ab8f5bc45bfbefe0c5"
+    }
+  },
+  {
+    "id": "dish-24b9d2cb6a85",
+    "dishName": "酸菜鱼米线",
+    "path": "assets/dishes/dish-24b9d2cb6a85.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 酸菜鱼米线. Specific subject: the ordinary Chinese cafeteria version of 酸菜鱼米线, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-24b9d2cb6a85; never reuse, crop or recolor another dish image.",
+    "sha256": "71879c306c364c54b58863bf229e512aeb38b04238406e879d2c84f25fcc809e",
+    "bytes": 131602,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-24b9d2cb6a85-thumb.webp",
+      "sha256": "5a157da5e27f51a99c1e9bacaf20898d2c59ec3855758733dc3ffdea40a00dd7",
+      "bytes": 21160,
+      "derivedFrom": "71879c306c364c54b58863bf229e512aeb38b04238406e879d2c84f25fcc809e"
+    }
+  },
+  {
+    "id": "dish-b4cf2f84e120",
+    "dishName": "黑椒牛柳饭",
+    "path": "assets/dishes/dish-b4cf2f84e120.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 黑椒牛柳饭. Specific subject: the ordinary Chinese cafeteria version of 黑椒牛柳饭, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-b4cf2f84e120; never reuse, crop or recolor another dish image.",
+    "sha256": "707ee5d9518a8f2dfaf00bedabd1630bff1a0fe68281712b282b4525506416c6",
+    "bytes": 131088,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-b4cf2f84e120-thumb.webp",
+      "sha256": "8bcc78fa2ebcb13bb38d900c5debb0ae140b093c62c5b6ffab2aafb04303b711",
+      "bytes": 20800,
+      "derivedFrom": "707ee5d9518a8f2dfaf00bedabd1630bff1a0fe68281712b282b4525506416c6"
+    }
+  },
+  {
+    "id": "dish-98534f1833f5",
+    "dishName": "红烧肉饭",
+    "path": "assets/dishes/dish-98534f1833f5.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 红烧肉饭. Specific subject: the ordinary Chinese cafeteria version of 红烧肉饭, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-98534f1833f5; never reuse, crop or recolor another dish image.",
+    "sha256": "567cfe33866282a206e2641adafda28cb5167eca8c981a251023b7227374c45c",
+    "bytes": 149544,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-98534f1833f5-thumb.webp",
+      "sha256": "79c78b27a4f765ea1a76b3a017c21513fb92022f6c09ea71ba4e8e51ba96161e",
+      "bytes": 22448,
+      "derivedFrom": "567cfe33866282a206e2641adafda28cb5167eca8c981a251023b7227374c45c"
+    }
+  },
+  {
+    "id": "dish-a6f473413155",
+    "dishName": "木须肉饭",
+    "path": "assets/dishes/dish-a6f473413155.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 木须肉饭. Specific subject: the ordinary Chinese cafeteria version of 木须肉饭, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-a6f473413155; never reuse, crop or recolor another dish image.",
+    "sha256": "95f751b5a4f743c5a14851981a8074acb385201be7e865cbe97976f4616aa34d",
+    "bytes": 123972,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-a6f473413155-thumb.webp",
+      "sha256": "968ba48fc2ff792d075e3afa7326f99160a13a5d8f229e402025dc963a2bf526",
+      "bytes": 20342,
+      "derivedFrom": "95f751b5a4f743c5a14851981a8074acb385201be7e865cbe97976f4616aa34d"
+    }
+  },
+  {
+    "id": "dish-ac13158911bc",
+    "dishName": "咖喱土豆饭",
+    "path": "assets/dishes/dish-ac13158911bc.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 咖喱土豆饭. Specific subject: the ordinary Chinese cafeteria version of 咖喱土豆饭, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-ac13158911bc; never reuse, crop or recolor another dish image.",
+    "sha256": "9b7ce2d0addb377e6366337f95036e967be60665bb3e55c5cf30eb2604330f36",
+    "bytes": 84638,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-ac13158911bc-thumb.webp",
+      "sha256": "e2f957e3cee17be2e3725cfeabfc6d216a6e0e47dda2cc6e2ff88b1c1174d577",
+      "bytes": 14070,
+      "derivedFrom": "9b7ce2d0addb377e6366337f95036e967be60665bb3e55c5cf30eb2604330f36"
+    }
+  },
+  {
+    "id": "dish-097984f64b59",
+    "dishName": "咸蛋黄炒饭",
+    "path": "assets/dishes/dish-097984f64b59.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 咸蛋黄炒饭. Specific subject: the ordinary Chinese cafeteria version of 咸蛋黄炒饭, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-097984f64b59; never reuse, crop or recolor another dish image.",
+    "sha256": "065066304da084f0bce16ebb3724040d2832b941bc0be1e8c81f063eb732b03b",
+    "bytes": 114204,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-097984f64b59-thumb.webp",
+      "sha256": "97ccffa2f8a161b0664b3227b1874d1887caa2b0b65f63526db77fcfe9b9cad3",
+      "bytes": 18046,
+      "derivedFrom": "065066304da084f0bce16ebb3724040d2832b941bc0be1e8c81f063eb732b03b"
+    }
+  },
+  {
+    "id": "dish-18c09e179cff",
+    "dishName": "地三鲜",
+    "path": "assets/dishes/dish-18c09e179cff.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 地三鲜. Specific subject: the ordinary Chinese cafeteria version of 地三鲜, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-18c09e179cff; never reuse, crop or recolor another dish image.",
+    "sha256": "eae8a0b0949ac10e716e7bc831f3ba5c2ac91da12a5d5f3729bef20bd6a82dec",
+    "bytes": 142856,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-18c09e179cff-thumb.webp",
+      "sha256": "1490a50a0a71e3028a368fb9c82b997f4d8fb309949ded173fa5e0615fadda29",
+      "bytes": 20946,
+      "derivedFrom": "eae8a0b0949ac10e716e7bc831f3ba5c2ac91da12a5d5f3729bef20bd6a82dec"
+    }
+  },
+  {
+    "id": "dish-5df238de60f8",
+    "dishName": "麻婆豆腐",
+    "path": "assets/dishes/dish-5df238de60f8.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 麻婆豆腐. Specific subject: the ordinary Chinese cafeteria version of 麻婆豆腐, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-5df238de60f8; never reuse, crop or recolor another dish image.",
+    "sha256": "079fd919481c17b82cd2f73d5a6b410f989537147af6664c4e39bfb7a83973ba",
+    "bytes": 146370,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-5df238de60f8-thumb.webp",
+      "sha256": "f633ee3a324113d9c652bf38bfda7afbd5b1757122661b892b0b95b6ef662767",
+      "bytes": 23328,
+      "derivedFrom": "079fd919481c17b82cd2f73d5a6b410f989537147af6664c4e39bfb7a83973ba"
+    }
+  },
+  {
+    "id": "dish-723e1397b077",
+    "dishName": "手撕包菜",
+    "path": "assets/dishes/dish-723e1397b077.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 手撕包菜. Specific subject: the ordinary Chinese cafeteria version of 手撕包菜, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-723e1397b077; never reuse, crop or recolor another dish image.",
+    "sha256": "7c373e59793da282249f1920a163f867f46fc1509877d83cdbcc189085fb8468",
+    "bytes": 118696,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-723e1397b077-thumb.webp",
+      "sha256": "84ce28a3b1a2fd311a5fdbb5ccc25df111a471847980ceb15d804d9abf49e71e",
+      "bytes": 18792,
+      "derivedFrom": "7c373e59793da282249f1920a163f867f46fc1509877d83cdbcc189085fb8468"
+    }
+  },
+  {
+    "id": "dish-39806ee771b2",
+    "dishName": "洋葱炒牛肉",
+    "path": "assets/dishes/dish-39806ee771b2.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 洋葱炒牛肉. Specific subject: the ordinary Chinese cafeteria version of 洋葱炒牛肉, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-39806ee771b2; never reuse, crop or recolor another dish image.",
+    "sha256": "1017685f3c7b62d314d4f13c77da6ea73dd31070f138508e2b928ab2d0c73076",
+    "bytes": 117582,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-39806ee771b2-thumb.webp",
+      "sha256": "ff12f4abadf292034c89fae49e0895c110dbc4a48dd3dea848dd6107d68be64d",
+      "bytes": 18098,
+      "derivedFrom": "1017685f3c7b62d314d4f13c77da6ea73dd31070f138508e2b928ab2d0c73076"
+    }
+  },
+  {
+    "id": "dish-da6f65859fb8",
+    "dishName": "香干炒肉",
+    "path": "assets/dishes/dish-da6f65859fb8.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 香干炒肉. Specific subject: the ordinary Chinese cafeteria version of 香干炒肉, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-da6f65859fb8; never reuse, crop or recolor another dish image.",
+    "sha256": "0ea9945ffa10617d1ce66e7a734b97e22560926463532b890ea426a28c752a79",
+    "bytes": 126156,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-da6f65859fb8-thumb.webp",
+      "sha256": "56d84af64859b69a9bfef188064091804b7dacaa687d1e1b6000389d28c83da9",
+      "bytes": 19046,
+      "derivedFrom": "0ea9945ffa10617d1ce66e7a734b97e22560926463532b890ea426a28c752a79"
+    }
+  },
+  {
+    "id": "dish-7dff67793a9a",
+    "dishName": "番茄肥牛锅",
+    "path": "assets/dishes/dish-7dff67793a9a.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 番茄肥牛锅. Specific subject: the ordinary Chinese cafeteria version of 番茄肥牛锅, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-7dff67793a9a; never reuse, crop or recolor another dish image.",
+    "sha256": "f76862957a6ef95f44e7ef6a9140a805183859bfec50fdea9552cc11c402bf7f",
+    "bytes": 122464,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-7dff67793a9a-thumb.webp",
+      "sha256": "4af0584c17f9ccdb21345fabfa6329297e75298ce0fb2366a8a9a8f08410f58a",
+      "bytes": 19534,
+      "derivedFrom": "f76862957a6ef95f44e7ef6a9140a805183859bfec50fdea9552cc11c402bf7f"
+    }
+  },
+  {
+    "id": "dish-635d50916a9c",
+    "dishName": "小米粥",
+    "path": "assets/dishes/dish-635d50916a9c.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 小米粥. Specific subject: the ordinary Chinese cafeteria version of 小米粥, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-635d50916a9c; never reuse, crop or recolor another dish image.",
+    "sha256": "39d9cf32be3148d3a5a42e4314dbb70984103ceee845f2e547d37e693e28b26f",
+    "bytes": 77708,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-635d50916a9c-thumb.webp",
+      "sha256": "3c48841f06256e7a3fccaf2deaed3df155298d8ef89897b70a337bdb1f9a7473",
+      "bytes": 14010,
+      "derivedFrom": "39d9cf32be3148d3a5a42e4314dbb70984103ceee845f2e547d37e693e28b26f"
+    }
+  },
+  {
+    "id": "dish-c927711604c1",
+    "dishName": "银耳莲子羹",
+    "path": "assets/dishes/dish-c927711604c1.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 银耳莲子羹. Specific subject: the ordinary Chinese cafeteria version of 银耳莲子羹, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-c927711604c1; never reuse, crop or recolor another dish image.",
+    "sha256": "7dbd0b19a750cd21204297a78c3be7820b65c8d0cb6a75381f7536dfb0fa1ca7",
+    "bytes": 93956,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-c927711604c1-thumb.webp",
+      "sha256": "f62c5602266f62e340c74d8b1f00fa60c4f3262ab4cec9403575b41b01a03fb2",
+      "bytes": 16078,
+      "derivedFrom": "7dbd0b19a750cd21204297a78c3be7820b65c8d0cb6a75381f7536dfb0fa1ca7"
+    }
+  },
+  {
+    "id": "dish-dd8b8457c0eb",
+    "dishName": "鸡蛋三明治",
+    "path": "assets/dishes/dish-dd8b8457c0eb.webp",
+    "sourceKind": "generated",
+    "status": "reviewed",
+    "prompt": "Use case: photorealistic-natural. Create ONE independently generated transparent-background cafeteria food asset of 鸡蛋三明治. Specific subject: the ordinary Chinese cafeteria version of 鸡蛋三明治, a believable modest serving in complete plain ceramic or stainless tableware, or appropriate food wrapping. If the name describes rice or noodles, include the actual rice or noodles. Do not add unrelated side dishes, drinks, buns or fried dough. For 胡辣汤 show ONLY one bowl of the soup, no 油条, 包子 or other foods beside it. Every component named in a combo must be present; no invented extras. Consistent 45-degree overhead three-quarter view, soft daylight from upper left, natural detailed food texture, restrained appetizing color, no advertising gloss. Entire vessel visible with 10-12 percent breathing room, centered square composition, base at about 80 percent canvas height. GENUINELY TRANSPARENT ALPHA background: isolate food and complete vessels, no table, no rectangular backdrop, no checkerboard pixels, no placemat. No text, logos, hands, floating ingredients or cut edges. Natural soft contact shadow only. This is a new unique asset for record dish-dd8b8457c0eb; never reuse, crop or recolor another dish image.",
+    "sha256": "9e6d40956cb1eef28021062a6c5b9962ff5e1057a373e8cb03b051a3fc87846a",
+    "bytes": 96438,
+    "width": 768,
+    "height": 768,
+    "qualityChecks": [
+      "transparent-alpha",
+      "complete-independent-file",
+      "under-200KB",
+      "visual-content-reviewed",
+      "whole-vessels",
+      "not-reused"
+    ],
+    "contentReview": {
+      "checkedAt": "2026-10-22",
+      "reviewer": "agent-visual-review",
+      "status": "label-compatible",
+      "scope": "菜名、器皿、组合、透明边缘；仅为灵感示意，不证明供应"
+    },
+    "thumbnail": {
+      "path": "assets/dishes/dish-dd8b8457c0eb-thumb.webp",
+      "sha256": "4278e31d8992bde683f1de49a00eda95ffe3a70d01aa311a675e83510decda21",
+      "bytes": 14336,
+      "derivedFrom": "9e6d40956cb1eef28021062a6c5b9962ff5e1057a373e8cb03b051a3fc87846a"
+    }
+  }
+]

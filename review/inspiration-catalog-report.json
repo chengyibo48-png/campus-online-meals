@@ -1,0 +1,5739 @@
+{
+  "checkedAt": "2026-10-28T13:56:14.966Z",
+  "scope": "通用选餐灵感；非校内供应菜单",
+  "statistics": {
+    "publishedRecordCount": 260,
+    "publishedGroupCount": 252,
+    "checkedAt": "2026-10-28",
+    "recordCount": 260,
+    "groupCount": 252,
+    "verifiedRecordCount": 0,
+    "verifiedGroupCount": 0,
+    "counts": {
+      "verified": 0,
+      "pending": 260,
+      "review": 0,
+      "disabled": 0,
+      "conflict": 0
+    },
+    "recommendableByMeal": {
+      "breakfast": 65,
+      "lunch": 171,
+      "dinner": 165
+    },
+    "unknownFields": {
+      "restaurant": 260,
+      "mealTypes": 260,
+      "tastes": 260,
+      "price": 260,
+      "ingredients": 260
+    },
+    "imageCount": 260,
+    "imageMissingCount": 0
+  },
+  "oldRecords": 100,
+  "newRecords": 160,
+  "independentImagesReady": 260,
+  "items": [
+    {
+      "id": "dish-1b135c928808",
+      "name": "茄汁面",
+      "dishGroupId": "group-e36946ef39766a",
+      "oldRecord": true,
+      "oldName": "茄汁面",
+      "imageId": "dish-1b135c928808",
+      "image": "assets/dishes/dish-1b135c928808.webp",
+      "thumbnail": "assets/dishes/dish-1b135c928808-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "酸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-aa798c22d5e0",
+      "name": "生煎包+豆浆",
+      "dishGroupId": "group-04bcca374967aa",
+      "oldRecord": true,
+      "oldName": "生煎包 + 豆浆",
+      "imageId": "dish-aa798c22d5e0",
+      "image": "assets/dishes/dish-aa798c22d5e0.webp",
+      "thumbnail": "assets/dishes/dish-aa798c22d5e0-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-00e6a5395515",
+      "name": "酸辣面",
+      "dishGroupId": "group-fdd19271e3fd67",
+      "oldRecord": true,
+      "oldName": "酸辣面",
+      "imageId": "dish-00e6a5395515",
+      "image": "assets/dishes/dish-00e6a5395515.webp",
+      "thumbnail": "assets/dishes/dish-00e6a5395515-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "酸香",
+        "香辣"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-b8f3a4d366b7",
+      "name": "土豆粉",
+      "dishGroupId": "group-81c0c153ac29e0",
+      "oldRecord": true,
+      "oldName": "土豆粉",
+      "imageId": "dish-b8f3a4d366b7",
+      "image": "assets/dishes/dish-b8f3a4d366b7.webp",
+      "thumbnail": "assets/dishes/dish-b8f3a4d366b7-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-3c8c4eb51ebc",
+      "name": "热干面",
+      "dishGroupId": "group-b6a1f598185552",
+      "oldRecord": true,
+      "oldName": "耀兴隆热干面",
+      "imageId": "dish-3c8c4eb51ebc",
+      "image": "assets/dishes/dish-3c8c4eb51ebc.webp",
+      "thumbnail": "assets/dishes/dish-3c8c4eb51ebc-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-886c817d211d",
+      "name": "干拌荠菜小馄饨",
+      "dishGroupId": "group-a9e928a586773c",
+      "oldRecord": true,
+      "oldName": "干拌荠菜小馄饨",
+      "imageId": "dish-886c817d211d",
+      "image": "assets/dishes/dish-886c817d211d.webp",
+      "thumbnail": "assets/dishes/dish-886c817d211d-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-05d5a1f3c5df",
+      "name": "包子+茶叶蛋",
+      "dishGroupId": "group-04596bf3c25e76",
+      "oldRecord": true,
+      "oldName": "包子 + 茶叶蛋",
+      "imageId": "dish-05d5a1f3c5df",
+      "image": "assets/dishes/dish-05d5a1f3c5df.webp",
+      "thumbnail": "assets/dishes/dish-05d5a1f3c5df-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-9c9bd9e128f3",
+      "name": "粥+玉米",
+      "dishGroupId": "group-d8e10577b7c249",
+      "oldRecord": true,
+      "oldName": "粥 + 玉米",
+      "imageId": "dish-9c9bd9e128f3",
+      "image": "assets/dishes/dish-9c9bd9e128f3.webp",
+      "thumbnail": "assets/dishes/dish-9c9bd9e128f3-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-3572880f383c",
+      "name": "胡辣汤",
+      "dishGroupId": "group-2f137c77954813",
+      "oldRecord": true,
+      "oldName": "胡辣汤",
+      "imageId": "dish-3572880f383c",
+      "image": "assets/dishes/dish-3572880f383c-v2.webp",
+      "thumbnail": "assets/dishes/dish-3572880f383c-v2-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-b2be61f902ec",
+      "name": "菌菇面",
+      "dishGroupId": "group-dbc5da54057730",
+      "oldRecord": true,
+      "oldName": "菌菇面",
+      "imageId": "dish-b2be61f902ec",
+      "image": "assets/dishes/dish-b2be61f902ec.webp",
+      "thumbnail": "assets/dishes/dish-b2be61f902ec-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-ebe65b32c381",
+      "name": "蛋炒饭",
+      "dishGroupId": "group-44344d1e6db2b0",
+      "oldRecord": true,
+      "oldName": "蛋炒饭",
+      "imageId": "dish-ebe65b32c381",
+      "image": "assets/dishes/dish-ebe65b32c381.webp",
+      "thumbnail": "assets/dishes/dish-ebe65b32c381-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-2221b3b364c6",
+      "name": "鸡蛋灌饼",
+      "dishGroupId": "group-4dee8c7255ae6f",
+      "oldRecord": true,
+      "oldName": "鸡蛋灌饼",
+      "imageId": "dish-2221b3b364c6",
+      "image": "assets/dishes/dish-2221b3b364c6.webp",
+      "thumbnail": "assets/dishes/dish-2221b3b364c6-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-1c6dcba4ea41",
+      "name": "豆浆油条",
+      "dishGroupId": "group-01656e96114505",
+      "oldRecord": true,
+      "oldName": "豆浆油条",
+      "imageId": "dish-1c6dcba4ea41",
+      "image": "assets/dishes/dish-1c6dcba4ea41.webp",
+      "thumbnail": "assets/dishes/dish-1c6dcba4ea41-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-123ec3d5c3e2",
+      "name": "鸡蛋面",
+      "dishGroupId": "group-a0005080c02269",
+      "oldRecord": true,
+      "oldName": "鸡蛋面",
+      "imageId": "dish-123ec3d5c3e2",
+      "image": "assets/dishes/dish-123ec3d5c3e2.webp",
+      "thumbnail": "assets/dishes/dish-123ec3d5c3e2-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-9d5bec5abb9b",
+      "name": "玉米粥",
+      "dishGroupId": "group-0ad8de4e783699",
+      "oldRecord": true,
+      "oldName": "玉米粥",
+      "imageId": "dish-9d5bec5abb9b",
+      "image": "assets/dishes/dish-9d5bec5abb9b.webp",
+      "thumbnail": "assets/dishes/dish-9d5bec5abb9b-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-f2dd308e6a5b",
+      "name": "锅贴",
+      "dishGroupId": "group-510dd67ce7ceed",
+      "oldRecord": true,
+      "oldName": "锅贴",
+      "imageId": "dish-f2dd308e6a5b",
+      "image": "assets/dishes/dish-f2dd308e6a5b.webp",
+      "thumbnail": "assets/dishes/dish-f2dd308e6a5b-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-74bf42dc48d2",
+      "name": "鲜肉锅贴",
+      "dishGroupId": "group-754920e2afdf2a",
+      "oldRecord": true,
+      "oldName": "鲜肉锅贴",
+      "imageId": "dish-74bf42dc48d2",
+      "image": "assets/dishes/dish-74bf42dc48d2.webp",
+      "thumbnail": "assets/dishes/dish-74bf42dc48d2-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-33cc53fe698f",
+      "name": "皮蛋瘦肉粥",
+      "dishGroupId": "group-04f088308e37d9",
+      "oldRecord": true,
+      "oldName": "皮蛋瘦肉粥",
+      "imageId": "dish-33cc53fe698f",
+      "image": "assets/dishes/dish-33cc53fe698f.webp",
+      "thumbnail": "assets/dishes/dish-33cc53fe698f-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-027140dc1bcc",
+      "name": "鲜肉馄饨",
+      "dishGroupId": "group-1e54ed49a90402",
+      "oldRecord": true,
+      "oldName": "鲜肉馄饨",
+      "imageId": "dish-027140dc1bcc",
+      "image": "assets/dishes/dish-027140dc1bcc.webp",
+      "thumbnail": "assets/dishes/dish-027140dc1bcc-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-f7669df9a3c3",
+      "name": "烧麦",
+      "dishGroupId": "group-4b17b9129d2b52",
+      "oldRecord": true,
+      "oldName": "烧麦",
+      "imageId": "dish-f7669df9a3c3",
+      "image": "assets/dishes/dish-f7669df9a3c3.webp",
+      "thumbnail": "assets/dishes/dish-f7669df9a3c3-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-fda60a6ef328",
+      "name": "手抓饼",
+      "dishGroupId": "group-e15aaa529276b2",
+      "oldRecord": true,
+      "oldName": "手抓饼",
+      "imageId": "dish-fda60a6ef328",
+      "image": "assets/dishes/dish-fda60a6ef328.webp",
+      "thumbnail": "assets/dishes/dish-fda60a6ef328-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-af0b39a5575c",
+      "name": "鸡蛋饼",
+      "dishGroupId": "group-b949cede39d829",
+      "oldRecord": true,
+      "oldName": "鸡蛋饼",
+      "imageId": "dish-af0b39a5575c",
+      "image": "assets/dishes/dish-af0b39a5575c.webp",
+      "thumbnail": "assets/dishes/dish-af0b39a5575c-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-eb76574e5fb3",
+      "name": "肉夹馍",
+      "dishGroupId": "group-d27156330f6559",
+      "oldRecord": true,
+      "oldName": "肉夹馍",
+      "imageId": "dish-eb76574e5fb3",
+      "image": "assets/dishes/dish-eb76574e5fb3.webp",
+      "thumbnail": "assets/dishes/dish-eb76574e5fb3-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-13d7f908420e",
+      "name": "红豆饼",
+      "dishGroupId": "group-8b8f685fd5d22e",
+      "oldRecord": true,
+      "oldName": "红豆饼",
+      "imageId": "dish-13d7f908420e",
+      "image": "assets/dishes/dish-13d7f908420e.webp",
+      "thumbnail": "assets/dishes/dish-13d7f908420e-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "dessert",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-e9e87bff35f7",
+      "name": "煎饺",
+      "dishGroupId": "group-0b9ad2c08cdd33",
+      "oldRecord": true,
+      "oldName": "煎饺",
+      "imageId": "dish-e9e87bff35f7",
+      "image": "assets/dishes/dish-e9e87bff35f7.webp",
+      "thumbnail": "assets/dishes/dish-e9e87bff35f7-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-f6d6fc511237",
+      "name": "糯米鸡",
+      "dishGroupId": "group-62e5458190aada",
+      "oldRecord": true,
+      "oldName": "糯米鸡",
+      "imageId": "dish-f6d6fc511237",
+      "image": "assets/dishes/dish-f6d6fc511237.webp",
+      "thumbnail": "assets/dishes/dish-f6d6fc511237-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-abb3c2b369b6",
+      "name": "三鲜米线",
+      "dishGroupId": "group-e78cce6b1a1c27",
+      "oldRecord": true,
+      "oldName": "三鲜米线",
+      "imageId": "dish-abb3c2b369b6",
+      "image": "assets/dishes/dish-abb3c2b369b6.webp",
+      "thumbnail": "assets/dishes/dish-abb3c2b369b6-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-9ef81dc62d93",
+      "name": "生煎馄饨",
+      "dishGroupId": "group-b4b73d39ae3c79",
+      "oldRecord": true,
+      "oldName": "生煎馄饨",
+      "imageId": "dish-9ef81dc62d93",
+      "image": "assets/dishes/dish-9ef81dc62d93.webp",
+      "thumbnail": "assets/dishes/dish-9ef81dc62d93-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-e1a0c1cf8052",
+      "name": "南瓜粥",
+      "dishGroupId": "group-ed24b089f6b93c",
+      "oldRecord": true,
+      "oldName": "南瓜粥",
+      "imageId": "dish-e1a0c1cf8052",
+      "image": "assets/dishes/dish-e1a0c1cf8052.webp",
+      "thumbnail": "assets/dishes/dish-e1a0c1cf8052-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-09f09e588331",
+      "name": "小笼包",
+      "dishGroupId": "group-cba7c9df1efc2f",
+      "oldRecord": true,
+      "oldName": "小笼包",
+      "imageId": "dish-09f09e588331",
+      "image": "assets/dishes/dish-09f09e588331.webp",
+      "thumbnail": "assets/dishes/dish-09f09e588331-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-74bc24706d48",
+      "name": "豆腐脑",
+      "dishGroupId": "group-a0e2b05499caab",
+      "oldRecord": true,
+      "oldName": "豆腐脑",
+      "imageId": "dish-74bc24706d48",
+      "image": "assets/dishes/dish-74bc24706d48.webp",
+      "thumbnail": "assets/dishes/dish-74bc24706d48-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-5531a9332445",
+      "name": "蔬菜捞面",
+      "dishGroupId": "group-54ba31e70f2d94",
+      "oldRecord": true,
+      "oldName": "蔬菜捞面",
+      "imageId": "dish-5531a9332445",
+      "image": "assets/dishes/dish-5531a9332445.webp",
+      "thumbnail": "assets/dishes/dish-5531a9332445-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-0c1cfef3350c",
+      "name": "海鲜焖面",
+      "dishGroupId": "group-82fc67cd0a0435",
+      "oldRecord": true,
+      "oldName": "海鲜焖面",
+      "imageId": "dish-0c1cfef3350c",
+      "image": "assets/dishes/dish-0c1cfef3350c.webp",
+      "thumbnail": "assets/dishes/dish-0c1cfef3350c-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-6a7156c395e0",
+      "name": "螺蛳粉",
+      "dishGroupId": "group-748c76a3e05c9e",
+      "oldRecord": true,
+      "oldName": "螺蛳粉",
+      "imageId": "dish-6a7156c395e0",
+      "image": "assets/dishes/dish-6a7156c395e0.webp",
+      "thumbnail": "assets/dishes/dish-6a7156c395e0-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-5e9bbb8cce24",
+      "name": "自选餐",
+      "dishGroupId": "group-819726256f1c7d",
+      "oldRecord": true,
+      "oldName": "自选餐",
+      "imageId": "dish-5e9bbb8cce24",
+      "image": "assets/dishes/dish-5e9bbb8cce24.webp",
+      "thumbnail": "assets/dishes/dish-5e9bbb8cce24-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-7f070a45c4a4",
+      "name": "酸辣粉",
+      "dishGroupId": "group-e7d611fac3635c",
+      "oldRecord": true,
+      "oldName": "酸辣粉",
+      "imageId": "dish-7f070a45c4a4",
+      "image": "assets/dishes/dish-7f070a45c4a4.webp",
+      "thumbnail": "assets/dishes/dish-7f070a45c4a4-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "酸香",
+        "香辣"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-d7f0ae7c6892",
+      "name": "土豆烧鸡盖饭",
+      "dishGroupId": "group-4390018e5d3718",
+      "oldRecord": true,
+      "oldName": "土豆烧鸡盖饭",
+      "imageId": "dish-d7f0ae7c6892",
+      "image": "assets/dishes/dish-d7f0ae7c6892.webp",
+      "thumbnail": "assets/dishes/dish-d7f0ae7c6892-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-2a9181213b2b",
+      "name": "牛肉面",
+      "dishGroupId": "group-84b5251af88fbb",
+      "oldRecord": true,
+      "oldName": "清真牛肉面",
+      "imageId": "dish-2a9181213b2b",
+      "image": "assets/dishes/dish-2a9181213b2b.webp",
+      "thumbnail": "assets/dishes/dish-2a9181213b2b-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-f0b0d31b7642",
+      "name": "番茄鸡蛋盖饭",
+      "dishGroupId": "group-78f76b5f9126b6",
+      "oldRecord": true,
+      "oldName": "番茄鸡蛋盖饭",
+      "imageId": "dish-f0b0d31b7642",
+      "image": "assets/dishes/dish-f0b0d31b7642.webp",
+      "thumbnail": "assets/dishes/dish-f0b0d31b7642-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-1e1563b3a0d0",
+      "name": "石锅拌饭",
+      "dishGroupId": "group-1cbdfd30e71dda",
+      "oldRecord": true,
+      "oldName": "石锅拌饭",
+      "imageId": "dish-1e1563b3a0d0",
+      "image": "assets/dishes/dish-1e1563b3a0d0.webp",
+      "thumbnail": "assets/dishes/dish-1e1563b3a0d0-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-68091b156625",
+      "name": "鱿鱼五花肉拌饭",
+      "dishGroupId": "group-62687a353451fd",
+      "oldRecord": true,
+      "oldName": "鱿鱼五花肉拌饭",
+      "imageId": "dish-68091b156625",
+      "image": "assets/dishes/dish-68091b156625.webp",
+      "thumbnail": "assets/dishes/dish-68091b156625-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-a65eb3e09be7",
+      "name": "麻辣拌+红油抄手",
+      "dishGroupId": "group-9e514e3dfa5706",
+      "oldRecord": true,
+      "oldName": "麻辣拌 + 红油抄手",
+      "imageId": "dish-a65eb3e09be7",
+      "image": "assets/dishes/dish-a65eb3e09be7.webp",
+      "thumbnail": "assets/dishes/dish-a65eb3e09be7-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "香辣"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-66cccb24b4cd",
+      "name": "铁板豆腐+鸡排",
+      "dishGroupId": "group-05161ffd950dd2",
+      "oldRecord": true,
+      "oldName": "铁板豆腐 + 鸡排",
+      "imageId": "dish-66cccb24b4cd",
+      "image": "assets/dishes/dish-66cccb24b4cd.webp",
+      "thumbnail": "assets/dishes/dish-66cccb24b4cd-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-38aadc2430df",
+      "name": "干拌面",
+      "dishGroupId": "group-8ab740d313bfa5",
+      "oldRecord": true,
+      "oldName": "干拌面",
+      "imageId": "dish-38aadc2430df",
+      "image": "assets/dishes/dish-38aadc2430df.webp",
+      "thumbnail": "assets/dishes/dish-38aadc2430df-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-e93a4f420684",
+      "name": "香菇鸡饭",
+      "dishGroupId": "group-6359579b3282fd",
+      "oldRecord": true,
+      "oldName": "香菇鸡饭",
+      "imageId": "dish-e93a4f420684",
+      "image": "assets/dishes/dish-e93a4f420684.webp",
+      "thumbnail": "assets/dishes/dish-e93a4f420684-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-4e4739fc4325",
+      "name": "鱼香肉丝饭",
+      "dishGroupId": "group-d0d5ca6331998e",
+      "oldRecord": true,
+      "oldName": "鱼香肉丝饭",
+      "imageId": "dish-4e4739fc4325",
+      "image": "assets/dishes/dish-4e4739fc4325.webp",
+      "thumbnail": "assets/dishes/dish-4e4739fc4325-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-73862c214c4b",
+      "name": "鸡排饭",
+      "dishGroupId": "group-bf649635c3b5ff",
+      "oldRecord": true,
+      "oldName": "鸡排饭",
+      "imageId": "dish-73862c214c4b",
+      "image": "assets/dishes/dish-73862c214c4b.webp",
+      "thumbnail": "assets/dishes/dish-73862c214c4b-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-f6ab9034a348",
+      "name": "宫保鸡丁饭",
+      "dishGroupId": "group-f60588fac64b92",
+      "oldRecord": true,
+      "oldName": "宫保鸡丁饭",
+      "imageId": "dish-f6ab9034a348",
+      "image": "assets/dishes/dish-f6ab9034a348.webp",
+      "thumbnail": "assets/dishes/dish-f6ab9034a348-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-53a4d06cb3e3",
+      "name": "回锅肉饭",
+      "dishGroupId": "group-83c3aec384800c",
+      "oldRecord": true,
+      "oldName": "回锅肉饭",
+      "imageId": "dish-53a4d06cb3e3",
+      "image": "assets/dishes/dish-53a4d06cb3e3.webp",
+      "thumbnail": "assets/dishes/dish-53a4d06cb3e3-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-1c2c7ab65e65",
+      "name": "砂锅米线",
+      "dishGroupId": "group-9548d9bc8d454d",
+      "oldRecord": true,
+      "oldName": "砂锅米线",
+      "imageId": "dish-1c2c7ab65e65",
+      "image": "assets/dishes/dish-1c2c7ab65e65.webp",
+      "thumbnail": "assets/dishes/dish-1c2c7ab65e65-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-c237c9263ffa",
+      "name": "炒河粉",
+      "dishGroupId": "group-f131ff0111c710",
+      "oldRecord": true,
+      "oldName": "炒河粉",
+      "imageId": "dish-c237c9263ffa",
+      "image": "assets/dishes/dish-c237c9263ffa.webp",
+      "thumbnail": "assets/dishes/dish-c237c9263ffa-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-8900bb4bc717",
+      "name": "羊肉烩面",
+      "dishGroupId": "group-2a9b8b8c7e4e1f",
+      "oldRecord": true,
+      "oldName": "羊肉烩面",
+      "imageId": "dish-8900bb4bc717",
+      "image": "assets/dishes/dish-8900bb4bc717.webp",
+      "thumbnail": "assets/dishes/dish-8900bb4bc717-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-003401f58bcf",
+      "name": "酸汤水饺",
+      "dishGroupId": "group-2c1392c77c86d8",
+      "oldRecord": true,
+      "oldName": "酸汤水饺",
+      "imageId": "dish-003401f58bcf",
+      "image": "assets/dishes/dish-003401f58bcf.webp",
+      "thumbnail": "assets/dishes/dish-003401f58bcf-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "酸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-1306b065159e",
+      "name": "三鲜米线",
+      "dishGroupId": "group-e78cce6b1a1c27",
+      "oldRecord": true,
+      "oldName": "三鲜米线",
+      "imageId": "dish-1306b065159e",
+      "image": "assets/dishes/dish-1306b065159e.webp",
+      "thumbnail": "assets/dishes/dish-1306b065159e-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-8a3705cac9b6",
+      "name": "砂锅土豆粉",
+      "dishGroupId": "group-bafa0036a0b884",
+      "oldRecord": true,
+      "oldName": "砂锅土豆粉",
+      "imageId": "dish-8a3705cac9b6",
+      "image": "assets/dishes/dish-8a3705cac9b6.webp",
+      "thumbnail": "assets/dishes/dish-8a3705cac9b6-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-eb8d1854c504",
+      "name": "自助餐",
+      "dishGroupId": "group-900c4109781b44",
+      "oldRecord": true,
+      "oldName": "自助餐",
+      "imageId": "dish-eb8d1854c504",
+      "image": "assets/dishes/dish-eb8d1854c504.webp",
+      "thumbnail": "assets/dishes/dish-eb8d1854c504-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-d2b7c8298f10",
+      "name": "红烧茄子饭",
+      "dishGroupId": "group-204a69013e940a",
+      "oldRecord": true,
+      "oldName": "红烧茄子饭",
+      "imageId": "dish-d2b7c8298f10",
+      "image": "assets/dishes/dish-d2b7c8298f10.webp",
+      "thumbnail": "assets/dishes/dish-d2b7c8298f10-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-6402fee78cbe",
+      "name": "香辣鸡腿饭",
+      "dishGroupId": "group-864f0e6a551da6",
+      "oldRecord": true,
+      "oldName": "香辣鸡腿饭",
+      "imageId": "dish-6402fee78cbe",
+      "image": "assets/dishes/dish-6402fee78cbe.webp",
+      "thumbnail": "assets/dishes/dish-6402fee78cbe-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "香辣"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-a01421de348a",
+      "name": "盖浇面",
+      "dishGroupId": "group-428586ad73bca1",
+      "oldRecord": true,
+      "oldName": "盖浇面",
+      "imageId": "dish-a01421de348a",
+      "image": "assets/dishes/dish-a01421de348a.webp",
+      "thumbnail": "assets/dishes/dish-a01421de348a-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-842d40863d0a",
+      "name": "黄焖鸡",
+      "dishGroupId": "group-f3584e8071b664",
+      "oldRecord": true,
+      "oldName": "黄焖鸡",
+      "imageId": "dish-842d40863d0a",
+      "image": "assets/dishes/dish-842d40863d0a.webp",
+      "thumbnail": "assets/dishes/dish-842d40863d0a-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-53c26bcaf923",
+      "name": "兰州拉面",
+      "dishGroupId": "group-44da7b8db634bb",
+      "oldRecord": true,
+      "oldName": "兰州拉面",
+      "imageId": "dish-53c26bcaf923",
+      "image": "assets/dishes/dish-53c26bcaf923.webp",
+      "thumbnail": "assets/dishes/dish-53c26bcaf923-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-d541c22f12af",
+      "name": "蛋包饭",
+      "dishGroupId": "group-826b21d5e1925c",
+      "oldRecord": true,
+      "oldName": "蛋包饭",
+      "imageId": "dish-d541c22f12af",
+      "image": "assets/dishes/dish-d541c22f12af.webp",
+      "thumbnail": "assets/dishes/dish-d541c22f12af-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-eced8604626f",
+      "name": "鱼香茄子饭",
+      "dishGroupId": "group-8851d0a99afd13",
+      "oldRecord": true,
+      "oldName": "鱼香茄子饭",
+      "imageId": "dish-eced8604626f",
+      "image": "assets/dishes/dish-eced8604626f.webp",
+      "thumbnail": "assets/dishes/dish-eced8604626f-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-2c400e5bee2e",
+      "name": "麻辣香锅",
+      "dishGroupId": "group-44e0fa5ae2aeba",
+      "oldRecord": true,
+      "oldName": "麻辣香锅",
+      "imageId": "dish-2c400e5bee2e",
+      "image": "assets/dishes/dish-2c400e5bee2e.webp",
+      "thumbnail": "assets/dishes/dish-2c400e5bee2e-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "香辣"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-b708133b9bce",
+      "name": "烤肉拌饭",
+      "dishGroupId": "group-0ffc53dc6e7dee",
+      "oldRecord": true,
+      "oldName": "烤肉拌饭",
+      "imageId": "dish-b708133b9bce",
+      "image": "assets/dishes/dish-b708133b9bce.webp",
+      "thumbnail": "assets/dishes/dish-b708133b9bce-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-702627af5af1",
+      "name": "香辣鸡排面",
+      "dishGroupId": "group-145673c39a3d6a",
+      "oldRecord": true,
+      "oldName": "香辣鸡排面",
+      "imageId": "dish-702627af5af1",
+      "image": "assets/dishes/dish-702627af5af1.webp",
+      "thumbnail": "assets/dishes/dish-702627af5af1-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "香辣"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-1d06e6357dc0",
+      "name": "菌菇面",
+      "dishGroupId": "group-dbc5da54057730",
+      "oldRecord": true,
+      "oldName": "菌菇面",
+      "imageId": "dish-1d06e6357dc0",
+      "image": "assets/dishes/dish-1d06e6357dc0.webp",
+      "thumbnail": "assets/dishes/dish-1d06e6357dc0-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-d185c6a5856b",
+      "name": "臊子面",
+      "dishGroupId": "group-123c2e9bf84e80",
+      "oldRecord": true,
+      "oldName": "臊子面",
+      "imageId": "dish-d185c6a5856b",
+      "image": "assets/dishes/dish-d185c6a5856b.webp",
+      "thumbnail": "assets/dishes/dish-d185c6a5856b-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-a873c05a5f17",
+      "name": "自选两荤一素",
+      "dishGroupId": "group-66039237035f70",
+      "oldRecord": true,
+      "oldName": "自选两荤一素",
+      "imageId": "dish-a873c05a5f17",
+      "image": "assets/dishes/dish-a873c05a5f17.webp",
+      "thumbnail": "assets/dishes/dish-a873c05a5f17-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-100fc879ebd7",
+      "name": "酸辣面",
+      "dishGroupId": "group-fdd19271e3fd67",
+      "oldRecord": true,
+      "oldName": "酸辣面",
+      "imageId": "dish-100fc879ebd7",
+      "image": "assets/dishes/dish-100fc879ebd7.webp",
+      "thumbnail": "assets/dishes/dish-100fc879ebd7-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "酸香",
+        "香辣"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-99ad6f3286bc",
+      "name": "干拌荠菜小馄饨",
+      "dishGroupId": "group-a9e928a586773c",
+      "oldRecord": true,
+      "oldName": "干拌荠菜小馄饨",
+      "imageId": "dish-99ad6f3286bc",
+      "image": "assets/dishes/dish-99ad6f3286bc.webp",
+      "thumbnail": "assets/dishes/dish-99ad6f3286bc-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-ea2ac8d441ec",
+      "name": "荤素自选餐",
+      "dishGroupId": "group-01ee120cac9f6f",
+      "oldRecord": true,
+      "oldName": "风华园自选菜",
+      "imageId": "dish-ea2ac8d441ec",
+      "image": "assets/dishes/dish-ea2ac8d441ec.webp",
+      "thumbnail": "assets/dishes/dish-ea2ac8d441ec-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-650675f8326e",
+      "name": "麻辣拌",
+      "dishGroupId": "group-2a483beed8d21c",
+      "oldRecord": true,
+      "oldName": "麻辣拌",
+      "imageId": "dish-650675f8326e",
+      "image": "assets/dishes/dish-650675f8326e.webp",
+      "thumbnail": "assets/dishes/dish-650675f8326e-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "香辣"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-2ab8883f031f",
+      "name": "红油抄手",
+      "dishGroupId": "group-5f8be977b4f7cb",
+      "oldRecord": true,
+      "oldName": "红油抄手",
+      "imageId": "dish-2ab8883f031f",
+      "image": "assets/dishes/dish-2ab8883f031f.webp",
+      "thumbnail": "assets/dishes/dish-2ab8883f031f-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-601a949b68c7",
+      "name": "烤冷面",
+      "dishGroupId": "group-361f649089d35d",
+      "oldRecord": true,
+      "oldName": "烤冷面",
+      "imageId": "dish-601a949b68c7",
+      "image": "assets/dishes/dish-601a949b68c7.webp",
+      "thumbnail": "assets/dishes/dish-601a949b68c7-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-b2dbe78efc12",
+      "name": "铁板豆腐+鸡排",
+      "dishGroupId": "group-05161ffd950dd2",
+      "oldRecord": true,
+      "oldName": "铁板豆腐 + 鸡排",
+      "imageId": "dish-b2dbe78efc12",
+      "image": "assets/dishes/dish-b2dbe78efc12.webp",
+      "thumbnail": "assets/dishes/dish-b2dbe78efc12-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-eede4606ff23",
+      "name": "红豆饼+玉米汁",
+      "dishGroupId": "group-c40c61e1a80a76",
+      "oldRecord": true,
+      "oldName": "红豆饼 + 玉米汁",
+      "imageId": "dish-eede4606ff23",
+      "image": "assets/dishes/dish-eede4606ff23.webp",
+      "thumbnail": "assets/dishes/dish-eede4606ff23-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-1bf38aceac27",
+      "name": "石锅拌饭",
+      "dishGroupId": "group-1cbdfd30e71dda",
+      "oldRecord": true,
+      "oldName": "石锅拌饭",
+      "imageId": "dish-1bf38aceac27",
+      "image": "assets/dishes/dish-1bf38aceac27.webp",
+      "thumbnail": "assets/dishes/dish-1bf38aceac27-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-fae66258a5d2",
+      "name": "海鲜炒饭",
+      "dishGroupId": "group-4e37218f0b6243",
+      "oldRecord": true,
+      "oldName": "海鲜炒饭",
+      "imageId": "dish-fae66258a5d2",
+      "image": "assets/dishes/dish-fae66258a5d2.webp",
+      "thumbnail": "assets/dishes/dish-fae66258a5d2-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-d3e7bdaa09be",
+      "name": "香辣拌面",
+      "dishGroupId": "group-2c9a8970874421",
+      "oldRecord": true,
+      "oldName": "香辣拌面",
+      "imageId": "dish-d3e7bdaa09be",
+      "image": "assets/dishes/dish-d3e7bdaa09be.webp",
+      "thumbnail": "assets/dishes/dish-d3e7bdaa09be-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "香辣"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-234abb432cbd",
+      "name": "酸汤面",
+      "dishGroupId": "group-c80f1de3188275",
+      "oldRecord": true,
+      "oldName": "酸汤面",
+      "imageId": "dish-234abb432cbd",
+      "image": "assets/dishes/dish-234abb432cbd.webp",
+      "thumbnail": "assets/dishes/dish-234abb432cbd-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "酸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-5f12e9d6b57d",
+      "name": "鸡肉焖饭",
+      "dishGroupId": "group-1e6876fd46da13",
+      "oldRecord": true,
+      "oldName": "鸡肉焖饭",
+      "imageId": "dish-5f12e9d6b57d",
+      "image": "assets/dishes/dish-5f12e9d6b57d.webp",
+      "thumbnail": "assets/dishes/dish-5f12e9d6b57d-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-0caa2a9f7be8",
+      "name": "酸汤馄饨",
+      "dishGroupId": "group-4c3a11b58eab8f",
+      "oldRecord": true,
+      "oldName": "酸汤馄饨",
+      "imageId": "dish-0caa2a9f7be8",
+      "image": "assets/dishes/dish-0caa2a9f7be8.webp",
+      "thumbnail": "assets/dishes/dish-0caa2a9f7be8-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "酸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-d9ab9fc6ff2a",
+      "name": "煲仔饭",
+      "dishGroupId": "group-504ada0978f414",
+      "oldRecord": true,
+      "oldName": "煲仔饭",
+      "imageId": "dish-d9ab9fc6ff2a",
+      "image": "assets/dishes/dish-d9ab9fc6ff2a.webp",
+      "thumbnail": "assets/dishes/dish-d9ab9fc6ff2a-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-c69af41bbe1d",
+      "name": "炒乌冬",
+      "dishGroupId": "group-9678c37b2c94b5",
+      "oldRecord": true,
+      "oldName": "炒乌冬",
+      "imageId": "dish-c69af41bbe1d",
+      "image": "assets/dishes/dish-c69af41bbe1d.webp",
+      "thumbnail": "assets/dishes/dish-c69af41bbe1d-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-4f2b131552cc",
+      "name": "炸酱面",
+      "dishGroupId": "group-af80dea44df269",
+      "oldRecord": true,
+      "oldName": "炸酱面",
+      "imageId": "dish-4f2b131552cc",
+      "image": "assets/dishes/dish-4f2b131552cc.webp",
+      "thumbnail": "assets/dishes/dish-4f2b131552cc-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-ffa23be616b0",
+      "name": "牛肉粉",
+      "dishGroupId": "group-5e2a21474506b9",
+      "oldRecord": true,
+      "oldName": "牛肉粉",
+      "imageId": "dish-ffa23be616b0",
+      "image": "assets/dishes/dish-ffa23be616b0.webp",
+      "thumbnail": "assets/dishes/dish-ffa23be616b0-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-0b811c294067",
+      "name": "鸡丝凉面",
+      "dishGroupId": "group-94027f07d4c2a9",
+      "oldRecord": true,
+      "oldName": "鸡丝凉面",
+      "imageId": "dish-0b811c294067",
+      "image": "assets/dishes/dish-0b811c294067.webp",
+      "thumbnail": "assets/dishes/dish-0b811c294067-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-79dac3a4cc19",
+      "name": "卤肉饭",
+      "dishGroupId": "group-7dfa26ae639eee",
+      "oldRecord": true,
+      "oldName": "卤肉饭",
+      "imageId": "dish-79dac3a4cc19",
+      "image": "assets/dishes/dish-79dac3a4cc19.webp",
+      "thumbnail": "assets/dishes/dish-79dac3a4cc19-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-095ddf7f41d2",
+      "name": "烧鸭饭",
+      "dishGroupId": "group-0b7e84898ecaac",
+      "oldRecord": true,
+      "oldName": "烧鸭饭",
+      "imageId": "dish-095ddf7f41d2",
+      "image": "assets/dishes/dish-095ddf7f41d2.webp",
+      "thumbnail": "assets/dishes/dish-095ddf7f41d2-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-3789687abad2",
+      "name": "自选小火锅",
+      "dishGroupId": "group-4f0e35f246077a",
+      "oldRecord": true,
+      "oldName": "自选小火锅",
+      "imageId": "dish-3789687abad2",
+      "image": "assets/dishes/dish-3789687abad2.webp",
+      "thumbnail": "assets/dishes/dish-3789687abad2-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-baa1368b227e",
+      "name": "鸡肉卷",
+      "dishGroupId": "group-1b8d0799de2d9a",
+      "oldRecord": true,
+      "oldName": "鸡肉卷",
+      "imageId": "dish-baa1368b227e",
+      "image": "assets/dishes/dish-baa1368b227e.webp",
+      "thumbnail": "assets/dishes/dish-baa1368b227e-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-af0d1f159247",
+      "name": "关东煮",
+      "dishGroupId": "group-99bff4509ba598",
+      "oldRecord": true,
+      "oldName": "关东煮",
+      "imageId": "dish-af0d1f159247",
+      "image": "assets/dishes/dish-af0d1f159247.webp",
+      "thumbnail": "assets/dishes/dish-af0d1f159247-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-0526bafa2d17",
+      "name": "米线",
+      "dishGroupId": "group-767c88a02f1a59",
+      "oldRecord": true,
+      "oldName": "米线",
+      "imageId": "dish-0526bafa2d17",
+      "image": "assets/dishes/dish-0526bafa2d17.webp",
+      "thumbnail": "assets/dishes/dish-0526bafa2d17-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-296683b491d9",
+      "name": "炒面",
+      "dishGroupId": "group-7e598e83a1b6cf",
+      "oldRecord": true,
+      "oldName": "炒面",
+      "imageId": "dish-296683b491d9",
+      "image": "assets/dishes/dish-296683b491d9.webp",
+      "thumbnail": "assets/dishes/dish-296683b491d9-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-4fbdd7371f38",
+      "name": "鸡蛋灌饼",
+      "dishGroupId": "group-4dee8c7255ae6f",
+      "oldRecord": true,
+      "oldName": "鸡蛋灌饼",
+      "imageId": "dish-4fbdd7371f38",
+      "image": "assets/dishes/dish-4fbdd7371f38.webp",
+      "thumbnail": "assets/dishes/dish-4fbdd7371f38-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-d424be2109c6",
+      "name": "章鱼小丸子",
+      "dishGroupId": "group-a6b2e54346ec13",
+      "oldRecord": true,
+      "oldName": "章鱼小丸子",
+      "imageId": "dish-d424be2109c6",
+      "image": "assets/dishes/dish-d424be2109c6.webp",
+      "thumbnail": "assets/dishes/dish-d424be2109c6-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-1f20447302d5",
+      "name": "麻辣烫",
+      "dishGroupId": "group-5f751e1a8bbd47",
+      "oldRecord": true,
+      "oldName": "麻辣烫",
+      "imageId": "dish-1f20447302d5",
+      "image": "assets/dishes/dish-1f20447302d5.webp",
+      "thumbnail": "assets/dishes/dish-1f20447302d5-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "香辣"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-fb5cd60fe7ed",
+      "name": "螺蛳粉",
+      "dishGroupId": "group-748c76a3e05c9e",
+      "oldRecord": true,
+      "oldName": "螺蛳粉",
+      "imageId": "dish-fb5cd60fe7ed",
+      "image": "assets/dishes/dish-fb5cd60fe7ed.webp",
+      "thumbnail": "assets/dishes/dish-fb5cd60fe7ed-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-13f72833790d",
+      "name": "煎饼果子",
+      "dishGroupId": "group-61091b1c72f11b",
+      "oldRecord": true,
+      "oldName": "煎饼果子",
+      "imageId": "dish-13f72833790d",
+      "image": "assets/dishes/dish-13f72833790d.webp",
+      "thumbnail": "assets/dishes/dish-13f72833790d-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-1165499460f8",
+      "name": "鲜肉包",
+      "dishGroupId": "group-62d0a987d758eb",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-1165499460f8",
+      "image": "assets/dishes/dish-1165499460f8.webp",
+      "thumbnail": "assets/dishes/dish-1165499460f8-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-466418a6a895",
+      "name": "香菇青菜包",
+      "dishGroupId": "group-fc050a041d5c24",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-466418a6a895",
+      "image": "assets/dishes/dish-466418a6a895.webp",
+      "thumbnail": "assets/dishes/dish-466418a6a895-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-3ea3ccc8fb9c",
+      "name": "豆沙包",
+      "dishGroupId": "group-effe5501f4d46c",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-3ea3ccc8fb9c",
+      "image": "assets/dishes/dish-3ea3ccc8fb9c.webp",
+      "thumbnail": "assets/dishes/dish-3ea3ccc8fb9c-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-13b8b9749e58",
+      "name": "韭菜鸡蛋包",
+      "dishGroupId": "group-40345dc15d8168",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-13b8b9749e58",
+      "image": "assets/dishes/dish-13b8b9749e58.webp",
+      "thumbnail": "assets/dishes/dish-13b8b9749e58-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-adfb76314e3a",
+      "name": "粉丝包",
+      "dishGroupId": "group-77de239f02ac56",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-adfb76314e3a",
+      "image": "assets/dishes/dish-adfb76314e3a.webp",
+      "thumbnail": "assets/dishes/dish-adfb76314e3a-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-08f407d0e18b",
+      "name": "花卷",
+      "dishGroupId": "group-c84159345e9c96",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-08f407d0e18b",
+      "image": "assets/dishes/dish-08f407d0e18b.webp",
+      "thumbnail": "assets/dishes/dish-08f407d0e18b-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-4f5782af6b3e",
+      "name": "馒头",
+      "dishGroupId": "group-04e9839104379d",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-4f5782af6b3e",
+      "image": "assets/dishes/dish-4f5782af6b3e.webp",
+      "thumbnail": "assets/dishes/dish-4f5782af6b3e-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-6bf1d1e61784",
+      "name": "葱油饼",
+      "dishGroupId": "group-f1b2de748a7d89",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-6bf1d1e61784",
+      "image": "assets/dishes/dish-6bf1d1e61784.webp",
+      "thumbnail": "assets/dishes/dish-6bf1d1e61784-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-0b6422b5abcd",
+      "name": "芝麻烧饼",
+      "dishGroupId": "group-0feb6683551cb1",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-0b6422b5abcd",
+      "image": "assets/dishes/dish-0b6422b5abcd.webp",
+      "thumbnail": "assets/dishes/dish-0b6422b5abcd-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-a9958774d943",
+      "name": "牛肉烧饼",
+      "dishGroupId": "group-de1be13be4e14b",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-a9958774d943",
+      "image": "assets/dishes/dish-a9958774d943.webp",
+      "thumbnail": "assets/dishes/dish-a9958774d943-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-da8f086d5482",
+      "name": "油酥饼",
+      "dishGroupId": "group-43e7be4588599f",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-da8f086d5482",
+      "image": "assets/dishes/dish-da8f086d5482.webp",
+      "thumbnail": "assets/dishes/dish-da8f086d5482-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-1d8066e00175",
+      "name": "韭菜盒子",
+      "dishGroupId": "group-be45c4c10a23fe",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-1d8066e00175",
+      "image": "assets/dishes/dish-1d8066e00175.webp",
+      "thumbnail": "assets/dishes/dish-1d8066e00175-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-2e7e2d005ee8",
+      "name": "萝卜丝饼",
+      "dishGroupId": "group-0d80378526a275",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-2e7e2d005ee8",
+      "image": "assets/dishes/dish-2e7e2d005ee8.webp",
+      "thumbnail": "assets/dishes/dish-2e7e2d005ee8-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-37a17f1fb0e8",
+      "name": "红糖发糕",
+      "dishGroupId": "group-8f1508ba82bc47",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-37a17f1fb0e8",
+      "image": "assets/dishes/dish-37a17f1fb0e8.webp",
+      "thumbnail": "assets/dishes/dish-37a17f1fb0e8-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-25c80b542404",
+      "name": "玉米发糕",
+      "dishGroupId": "group-eea3369559ef86",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-25c80b542404",
+      "image": "assets/dishes/dish-25c80b542404.webp",
+      "thumbnail": "assets/dishes/dish-25c80b542404-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-930a225fa9f5",
+      "name": "蒸红薯",
+      "dishGroupId": "group-35f570025998ed",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-930a225fa9f5",
+      "image": "assets/dishes/dish-930a225fa9f5.webp",
+      "thumbnail": "assets/dishes/dish-930a225fa9f5-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-6864fe54846c",
+      "name": "油泼面",
+      "dishGroupId": "group-f90c7d600e737f",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-6864fe54846c",
+      "image": "assets/dishes/dish-6864fe54846c.webp",
+      "thumbnail": "assets/dishes/dish-6864fe54846c-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "香辣"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-7d27f70598eb",
+      "name": "葱油拌面",
+      "dishGroupId": "group-d9a8c1b003251f",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-7d27f70598eb",
+      "image": "assets/dishes/dish-7d27f70598eb.webp",
+      "thumbnail": "assets/dishes/dish-7d27f70598eb-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-d81bd7e78904",
+      "name": "担担面",
+      "dishGroupId": "group-3fea219bb3077a",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-d81bd7e78904",
+      "image": "assets/dishes/dish-d81bd7e78904.webp",
+      "thumbnail": "assets/dishes/dish-d81bd7e78904-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "香辣"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-480b01513cb2",
+      "name": "重庆小面",
+      "dishGroupId": "group-f77e2abe6acb32",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-480b01513cb2",
+      "image": "assets/dishes/dish-480b01513cb2.webp",
+      "thumbnail": "assets/dishes/dish-480b01513cb2-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "香辣"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-d2626f0ca553",
+      "name": "刀削面",
+      "dishGroupId": "group-15a71f8f61b33c",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-d2626f0ca553",
+      "image": "assets/dishes/dish-d2626f0ca553.webp",
+      "thumbnail": "assets/dishes/dish-d2626f0ca553-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-ebf42a40616b",
+      "name": "豆角焖面",
+      "dishGroupId": "group-975e4777df64a0",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-ebf42a40616b",
+      "image": "assets/dishes/dish-ebf42a40616b.webp",
+      "thumbnail": "assets/dishes/dish-ebf42a40616b-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-d4d8a45c9ff1",
+      "name": "河南蒸卤面",
+      "dishGroupId": "group-9bd9009d5e2db0",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-d4d8a45c9ff1",
+      "image": "assets/dishes/dish-d4d8a45c9ff1.webp",
+      "thumbnail": "assets/dishes/dish-d4d8a45c9ff1-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-0e4920680fab",
+      "name": "浆面条",
+      "dishGroupId": "group-1e9f6856714511",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-0e4920680fab",
+      "image": "assets/dishes/dish-0e4920680fab.webp",
+      "thumbnail": "assets/dishes/dish-0e4920680fab-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-848191cd2b92",
+      "name": "烩麻食",
+      "dishGroupId": "group-5e1993ff2df01a",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-848191cd2b92",
+      "image": "assets/dishes/dish-848191cd2b92.webp",
+      "thumbnail": "assets/dishes/dish-848191cd2b92-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-1eaf24e84345",
+      "name": "炒饸饹",
+      "dishGroupId": "group-9cae169db8dac2",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-1eaf24e84345",
+      "image": "assets/dishes/dish-1eaf24e84345.webp",
+      "thumbnail": "assets/dishes/dish-1eaf24e84345-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-ecf0243151da",
+      "name": "牛肉炒拉条",
+      "dishGroupId": "group-f98d5fd698d691",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-ecf0243151da",
+      "image": "assets/dishes/dish-ecf0243151da.webp",
+      "thumbnail": "assets/dishes/dish-ecf0243151da-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-cd74351f3cb6",
+      "name": "凉皮",
+      "dishGroupId": "group-b3f06acf987560",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-cd74351f3cb6",
+      "image": "assets/dishes/dish-cd74351f3cb6.webp",
+      "thumbnail": "assets/dishes/dish-cd74351f3cb6-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-6220e5053a19",
+      "name": "凉拌荞麦面",
+      "dishGroupId": "group-9be0b703c2284d",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-6220e5053a19",
+      "image": "assets/dishes/dish-6220e5053a19.webp",
+      "thumbnail": "assets/dishes/dish-6220e5053a19-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-a897049ce519",
+      "name": "肥肠粉",
+      "dishGroupId": "group-b19c41573bb316",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-a897049ce519",
+      "image": "assets/dishes/dish-a897049ce519.webp",
+      "thumbnail": "assets/dishes/dish-a897049ce519-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "香辣"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-12242efe68e0",
+      "name": "鸭血粉丝汤",
+      "dishGroupId": "group-636d5046d94359",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-12242efe68e0",
+      "image": "assets/dishes/dish-12242efe68e0.webp",
+      "thumbnail": "assets/dishes/dish-12242efe68e0-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-bf87dcfd867e",
+      "name": "桂林米粉",
+      "dishGroupId": "group-55ec60ede93779",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-bf87dcfd867e",
+      "image": "assets/dishes/dish-bf87dcfd867e.webp",
+      "thumbnail": "assets/dishes/dish-bf87dcfd867e-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-f65a283f2eab",
+      "name": "云南饵丝",
+      "dishGroupId": "group-a86808e8a3153e",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-f65a283f2eab",
+      "image": "assets/dishes/dish-f65a283f2eab.webp",
+      "thumbnail": "assets/dishes/dish-f65a283f2eab-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-24b9d2cb6a85",
+      "name": "酸菜鱼米线",
+      "dishGroupId": "group-5e9e092d8ea013",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-24b9d2cb6a85",
+      "image": "assets/dishes/dish-24b9d2cb6a85.webp",
+      "thumbnail": "assets/dishes/dish-24b9d2cb6a85-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "酸香",
+        "香辣"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-02e831d63a96",
+      "name": "咖喱鸡饭",
+      "dishGroupId": "group-ed95b1688398b5",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-02e831d63a96",
+      "image": "assets/dishes/dish-02e831d63a96.webp",
+      "thumbnail": "assets/dishes/dish-02e831d63a96-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-134ead275ca6",
+      "name": "咖喱牛肉饭",
+      "dishGroupId": "group-ff57de24f31ea7",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-134ead275ca6",
+      "image": "assets/dishes/dish-134ead275ca6.webp",
+      "thumbnail": "assets/dishes/dish-134ead275ca6-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-1854c044dc9d",
+      "name": "照烧鸡腿饭",
+      "dishGroupId": "group-734073089d5bd6",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-1854c044dc9d",
+      "image": "assets/dishes/dish-1854c044dc9d.webp",
+      "thumbnail": "assets/dishes/dish-1854c044dc9d-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-b4cf2f84e120",
+      "name": "黑椒牛柳饭",
+      "dishGroupId": "group-b471417918837a",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-b4cf2f84e120",
+      "image": "assets/dishes/dish-b4cf2f84e120.webp",
+      "thumbnail": "assets/dishes/dish-b4cf2f84e120-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-19009116e04e",
+      "name": "土豆牛腩饭",
+      "dishGroupId": "group-116c94214fd81d",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-19009116e04e",
+      "image": "assets/dishes/dish-19009116e04e.webp",
+      "thumbnail": "assets/dishes/dish-19009116e04e-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-54fb7db06d7e",
+      "name": "梅菜扣肉饭",
+      "dishGroupId": "group-064fa2c3f9ba96",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-54fb7db06d7e",
+      "image": "assets/dishes/dish-54fb7db06d7e.webp",
+      "thumbnail": "assets/dishes/dish-54fb7db06d7e-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-98534f1833f5",
+      "name": "红烧肉饭",
+      "dishGroupId": "group-80fd8fd74b08fd",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-98534f1833f5",
+      "image": "assets/dishes/dish-98534f1833f5.webp",
+      "thumbnail": "assets/dishes/dish-98534f1833f5-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-62c3f3c2909a",
+      "name": "豉汁排骨饭",
+      "dishGroupId": "group-84b1f292a5280d",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-62c3f3c2909a",
+      "image": "assets/dishes/dish-62c3f3c2909a.webp",
+      "thumbnail": "assets/dishes/dish-62c3f3c2909a-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-3b6e3e90c992",
+      "name": "糖醋里脊饭",
+      "dishGroupId": "group-f5735253ad252f",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-3b6e3e90c992",
+      "image": "assets/dishes/dish-3b6e3e90c992.webp",
+      "thumbnail": "assets/dishes/dish-3b6e3e90c992-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-a6f473413155",
+      "name": "木须肉饭",
+      "dishGroupId": "group-54343f16f8594c",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-a6f473413155",
+      "image": "assets/dishes/dish-a6f473413155.webp",
+      "thumbnail": "assets/dishes/dish-a6f473413155-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-47d33f57935f",
+      "name": "家常豆腐饭",
+      "dishGroupId": "group-788d551a193713",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-47d33f57935f",
+      "image": "assets/dishes/dish-47d33f57935f.webp",
+      "thumbnail": "assets/dishes/dish-47d33f57935f-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-815a0f693283",
+      "name": "肉末豆角饭",
+      "dishGroupId": "group-28797c8ab3983a",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-815a0f693283",
+      "image": "assets/dishes/dish-815a0f693283.webp",
+      "thumbnail": "assets/dishes/dish-815a0f693283-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-ac13158911bc",
+      "name": "咖喱土豆饭",
+      "dishGroupId": "group-05f047b8f053c7",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-ac13158911bc",
+      "image": "assets/dishes/dish-ac13158911bc.webp",
+      "thumbnail": "assets/dishes/dish-ac13158911bc-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-f6ce3d914cd1",
+      "name": "菠萝炒饭",
+      "dishGroupId": "group-c4ce9cf89a445a",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-f6ce3d914cd1",
+      "image": "assets/dishes/dish-f6ce3d914cd1.webp",
+      "thumbnail": "assets/dishes/dish-f6ce3d914cd1-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-b6475473ca7c",
+      "name": "腊味炒饭",
+      "dishGroupId": "group-766aa12a3fd1b3",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-b6475473ca7c",
+      "image": "assets/dishes/dish-b6475473ca7c.webp",
+      "thumbnail": "assets/dishes/dish-b6475473ca7c-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-097984f64b59",
+      "name": "咸蛋黄炒饭",
+      "dishGroupId": "group-b73e1dbe3f6791",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-097984f64b59",
+      "image": "assets/dishes/dish-097984f64b59.webp",
+      "thumbnail": "assets/dishes/dish-097984f64b59-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-dc8cdc28d690",
+      "name": "青椒肉丝饭",
+      "dishGroupId": "group-f2bee4c9732e5e",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-dc8cdc28d690",
+      "image": "assets/dishes/dish-dc8cdc28d690.webp",
+      "thumbnail": "assets/dishes/dish-dc8cdc28d690-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-bc8c167ac1e8",
+      "name": "地三鲜饭",
+      "dishGroupId": "group-475c96461f6b6b",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-bc8c167ac1e8",
+      "image": "assets/dishes/dish-bc8c167ac1e8.webp",
+      "thumbnail": "assets/dishes/dish-bc8c167ac1e8-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-7f6f6444e1c1",
+      "name": "西红柿炒鸡蛋",
+      "dishGroupId": "group-d8013dbfc994a3",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-7f6f6444e1c1",
+      "image": "assets/dishes/dish-7f6f6444e1c1.webp",
+      "thumbnail": "assets/dishes/dish-7f6f6444e1c1-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "酸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-18c09e179cff",
+      "name": "地三鲜",
+      "dishGroupId": "group-c47bf578cc65f9",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-18c09e179cff",
+      "image": "assets/dishes/dish-18c09e179cff.webp",
+      "thumbnail": "assets/dishes/dish-18c09e179cff-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-257e525ac6bb",
+      "name": "鱼香肉丝",
+      "dishGroupId": "group-c636ca5551ddea",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-257e525ac6bb",
+      "image": "assets/dishes/dish-257e525ac6bb.webp",
+      "thumbnail": "assets/dishes/dish-257e525ac6bb-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-85d749b59738",
+      "name": "宫保鸡丁",
+      "dishGroupId": "group-9d1f81d92d7bcd",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-85d749b59738",
+      "image": "assets/dishes/dish-85d749b59738.webp",
+      "thumbnail": "assets/dishes/dish-85d749b59738-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-5df238de60f8",
+      "name": "麻婆豆腐",
+      "dishGroupId": "group-46c61010c72129",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-5df238de60f8",
+      "image": "assets/dishes/dish-5df238de60f8.webp",
+      "thumbnail": "assets/dishes/dish-5df238de60f8-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-fb7994cc09dc",
+      "name": "干煸豆角",
+      "dishGroupId": "group-8f4435222cf1f7",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-fb7994cc09dc",
+      "image": "assets/dishes/dish-fb7994cc09dc.webp",
+      "thumbnail": "assets/dishes/dish-fb7994cc09dc-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "香辣"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-3014d78585e3",
+      "name": "蒜蓉西兰花",
+      "dishGroupId": "group-10703a2e5f1137",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-3014d78585e3",
+      "image": "assets/dishes/dish-3014d78585e3.webp",
+      "thumbnail": "assets/dishes/dish-3014d78585e3-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-723e1397b077",
+      "name": "手撕包菜",
+      "dishGroupId": "group-c9d48f64778db3",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-723e1397b077",
+      "image": "assets/dishes/dish-723e1397b077.webp",
+      "thumbnail": "assets/dishes/dish-723e1397b077-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-2e87552c2f05",
+      "name": "清炒油麦菜",
+      "dishGroupId": "group-5914f1233aaa02",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-2e87552c2f05",
+      "image": "assets/dishes/dish-2e87552c2f05.webp",
+      "thumbnail": "assets/dishes/dish-2e87552c2f05-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-afb30f10f9a6",
+      "name": "蒜薹炒肉",
+      "dishGroupId": "group-b48e0f4c1cc7c9",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-afb30f10f9a6",
+      "image": "assets/dishes/dish-afb30f10f9a6.webp",
+      "thumbnail": "assets/dishes/dish-afb30f10f9a6-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-39806ee771b2",
+      "name": "洋葱炒牛肉",
+      "dishGroupId": "group-1a0f3526c84a51",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-39806ee771b2",
+      "image": "assets/dishes/dish-39806ee771b2.webp",
+      "thumbnail": "assets/dishes/dish-39806ee771b2-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-50738608f152",
+      "name": "木耳炒鸡蛋",
+      "dishGroupId": "group-56772bd3f3b8cc",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-50738608f152",
+      "image": "assets/dishes/dish-50738608f152.webp",
+      "thumbnail": "assets/dishes/dish-50738608f152-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-5096ab98c8b6",
+      "name": "香菇滑鸡",
+      "dishGroupId": "group-144ffa01fdace1",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-5096ab98c8b6",
+      "image": "assets/dishes/dish-5096ab98c8b6.webp",
+      "thumbnail": "assets/dishes/dish-5096ab98c8b6-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-da6f65859fb8",
+      "name": "香干炒肉",
+      "dishGroupId": "group-5b4fe6d9834b91",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-da6f65859fb8",
+      "image": "assets/dishes/dish-da6f65859fb8.webp",
+      "thumbnail": "assets/dishes/dish-da6f65859fb8-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-4b3703455de6",
+      "name": "山药排骨汤",
+      "dishGroupId": "group-a8bcb0e15b7905",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-4b3703455de6",
+      "image": "assets/dishes/dish-4b3703455de6.webp",
+      "thumbnail": "assets/dishes/dish-4b3703455de6-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-01e469b55885",
+      "name": "冬瓜丸子汤",
+      "dishGroupId": "group-960927ca7c2a3b",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-01e469b55885",
+      "image": "assets/dishes/dish-01e469b55885.webp",
+      "thumbnail": "assets/dishes/dish-01e469b55885-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-06ede24c280c",
+      "name": "萝卜牛腩煲",
+      "dishGroupId": "group-834282011b64ea",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-06ede24c280c",
+      "image": "assets/dishes/dish-06ede24c280c.webp",
+      "thumbnail": "assets/dishes/dish-06ede24c280c-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-7dff67793a9a",
+      "name": "番茄肥牛锅",
+      "dishGroupId": "group-2cc1a8834f4d83",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-7dff67793a9a",
+      "image": "assets/dishes/dish-7dff67793a9a.webp",
+      "thumbnail": "assets/dishes/dish-7dff67793a9a-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-3e6b5e85dcf7",
+      "name": "菌菇豆腐煲",
+      "dishGroupId": "group-f9ffed1ba05ac3",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-3e6b5e85dcf7",
+      "image": "assets/dishes/dish-3e6b5e85dcf7.webp",
+      "thumbnail": "assets/dishes/dish-3e6b5e85dcf7-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-b755c01c4672",
+      "name": "莲子八宝粥",
+      "dishGroupId": "group-942c9d0dca8460",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-b755c01c4672",
+      "image": "assets/dishes/dish-b755c01c4672.webp",
+      "thumbnail": "assets/dishes/dish-b755c01c4672-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "dinner"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-635d50916a9c",
+      "name": "小米粥",
+      "dishGroupId": "group-8051fcbe087643",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-635d50916a9c",
+      "image": "assets/dishes/dish-635d50916a9c.webp",
+      "thumbnail": "assets/dishes/dish-635d50916a9c-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "dinner"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-7e1ab784bb3a",
+      "name": "黑米粥",
+      "dishGroupId": "group-57fed0bd9e977c",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-7e1ab784bb3a",
+      "image": "assets/dishes/dish-7e1ab784bb3a.webp",
+      "thumbnail": "assets/dishes/dish-7e1ab784bb3a-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "dinner"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-8430d5d08f2d",
+      "name": "绿豆粥",
+      "dishGroupId": "group-05c27d8e01ae24",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-8430d5d08f2d",
+      "image": "assets/dishes/dish-8430d5d08f2d.webp",
+      "thumbnail": "assets/dishes/dish-8430d5d08f2d-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-c927711604c1",
+      "name": "银耳莲子羹",
+      "dishGroupId": "group-d931d336561add",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-c927711604c1",
+      "image": "assets/dishes/dish-c927711604c1.webp",
+      "thumbnail": "assets/dishes/dish-c927711604c1-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "dessert",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-298f08500559",
+      "name": "金枪鱼饭团",
+      "dishGroupId": "group-cb8aabaaa3647e",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-298f08500559",
+      "image": "assets/dishes/dish-298f08500559.webp",
+      "thumbnail": "assets/dishes/dish-298f08500559-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-73cc4d06a467",
+      "name": "肉松饭团",
+      "dishGroupId": "group-8c62037babab29",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-73cc4d06a467",
+      "image": "assets/dishes/dish-73cc4d06a467.webp",
+      "thumbnail": "assets/dishes/dish-73cc4d06a467-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-d180dd9fe34e",
+      "name": "紫米饭团",
+      "dishGroupId": "group-f086503a360bb8",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-d180dd9fe34e",
+      "image": "assets/dishes/dish-d180dd9fe34e.webp",
+      "thumbnail": "assets/dishes/dish-d180dd9fe34e-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-dd8b8457c0eb",
+      "name": "鸡蛋三明治",
+      "dishGroupId": "group-0836aa4bae9181",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-dd8b8457c0eb",
+      "image": "assets/dishes/dish-dd8b8457c0eb.webp",
+      "thumbnail": "assets/dishes/dish-dd8b8457c0eb-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-489cfbdffc36",
+      "name": "火腿三明治",
+      "dishGroupId": "group-491e4fbf9ddf6f",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-489cfbdffc36",
+      "image": "assets/dishes/dish-489cfbdffc36.webp",
+      "thumbnail": "assets/dishes/dish-489cfbdffc36-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-93c2a29049b3",
+      "name": "烤鸡三明治",
+      "dishGroupId": "group-8afda44530628c",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-93c2a29049b3",
+      "image": "assets/dishes/dish-93c2a29049b3.webp",
+      "thumbnail": "assets/dishes/dish-93c2a29049b3-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-4420273304c7",
+      "name": "鸡胸肉沙拉",
+      "dishGroupId": "group-4674d32c895214",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-4420273304c7",
+      "image": "assets/dishes/dish-4420273304c7.webp",
+      "thumbnail": "assets/dishes/dish-4420273304c7-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-58f4019a8de2",
+      "name": "金枪鱼沙拉",
+      "dishGroupId": "group-e68303750b7307",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-58f4019a8de2",
+      "image": "assets/dishes/dish-58f4019a8de2.webp",
+      "thumbnail": "assets/dishes/dish-58f4019a8de2-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-9a02477354d7",
+      "name": "土豆泥沙拉",
+      "dishGroupId": "group-57bc4959b1d0a0",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-9a02477354d7",
+      "image": "assets/dishes/dish-9a02477354d7.webp",
+      "thumbnail": "assets/dishes/dish-9a02477354d7-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-b4cd8a6c75e7",
+      "name": "南瓜杂粮碗",
+      "dishGroupId": "group-ec5cf6ee78e41e",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-b4cd8a6c75e7",
+      "image": "assets/dishes/dish-b4cd8a6c75e7.webp",
+      "thumbnail": "assets/dishes/dish-b4cd8a6c75e7-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-59f2a65decef",
+      "name": "玉米蔬菜卷",
+      "dishGroupId": "group-5be8271b2ad6f8",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-59f2a65decef",
+      "image": "assets/dishes/dish-59f2a65decef.webp",
+      "thumbnail": "assets/dishes/dish-59f2a65decef-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-2c86af4b6f21",
+      "name": "紫薯燕麦碗",
+      "dishGroupId": "group-067f0a0177f5ee",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-2c86af4b6f21",
+      "image": "assets/dishes/dish-2c86af4b6f21.webp",
+      "thumbnail": "assets/dishes/dish-2c86af4b6f21-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-7e12e60443f8",
+      "name": "铁板牛肉",
+      "dishGroupId": "group-8e10383043ca7c",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-7e12e60443f8",
+      "image": "assets/dishes/dish-7e12e60443f8.webp",
+      "thumbnail": "assets/dishes/dish-7e12e60443f8-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-41c2d0cbe47a",
+      "name": "黑椒铁板意面",
+      "dishGroupId": "group-b88bc9312fbed0",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-41c2d0cbe47a",
+      "image": "assets/dishes/dish-41c2d0cbe47a.webp",
+      "thumbnail": "assets/dishes/dish-41c2d0cbe47a-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-e354cfae80e2",
+      "name": "香煎鸡排",
+      "dishGroupId": "group-3d0806bac8e136",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-e354cfae80e2",
+      "image": "assets/dishes/dish-e354cfae80e2.webp",
+      "thumbnail": "assets/dishes/dish-e354cfae80e2-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-bcf87e1d6b60",
+      "name": "炸鸡翅",
+      "dishGroupId": "group-be26a3f623e39d",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-bcf87e1d6b60",
+      "image": "assets/dishes/dish-bcf87e1d6b60.webp",
+      "thumbnail": "assets/dishes/dish-bcf87e1d6b60-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-64bc6be0a88b",
+      "name": "炸藕盒",
+      "dishGroupId": "group-f0a6173a55dc59",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-64bc6be0a88b",
+      "image": "assets/dishes/dish-64bc6be0a88b.webp",
+      "thumbnail": "assets/dishes/dish-64bc6be0a88b-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-b9da91ca206e",
+      "name": "炸蘑菇",
+      "dishGroupId": "group-99af733292133b",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-b9da91ca206e",
+      "image": "assets/dishes/dish-b9da91ca206e.webp",
+      "thumbnail": "assets/dishes/dish-b9da91ca206e-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "side",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-1bfe96f49849",
+      "name": "双皮奶",
+      "dishGroupId": "group-83c9b1789aa9b2",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-1bfe96f49849",
+      "image": "assets/dishes/dish-1bfe96f49849.webp",
+      "thumbnail": "assets/dishes/dish-1bfe96f49849-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "dessert",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-3167935158fe",
+      "name": "芒果西米露",
+      "dishGroupId": "group-d0f0463d7b0746",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-3167935158fe",
+      "image": "assets/dishes/dish-3167935158fe.webp",
+      "thumbnail": "assets/dishes/dish-3167935158fe-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "dessert",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-018e10f21a1b",
+      "name": "红豆糯米糍",
+      "dishGroupId": "group-c3d1d59049aa54",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-018e10f21a1b",
+      "image": "assets/dishes/dish-018e10f21a1b.webp",
+      "thumbnail": "assets/dishes/dish-018e10f21a1b-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "dessert",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-9bd003fabbe3",
+      "name": "芝麻汤圆",
+      "dishGroupId": "group-7a1fa5dc8f9424",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-9bd003fabbe3",
+      "image": "assets/dishes/dish-9bd003fabbe3.webp",
+      "thumbnail": "assets/dishes/dish-9bd003fabbe3-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "dessert",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-2a7fb107b112",
+      "name": "红糖糍粑",
+      "dishGroupId": "group-d60d2b6b366e2a",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-2a7fb107b112",
+      "image": "assets/dishes/dish-2a7fb107b112.webp",
+      "thumbnail": "assets/dishes/dish-2a7fb107b112-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "dessert",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-4f7fe754bbf6",
+      "name": "水果酸奶杯",
+      "dishGroupId": "group-ec90e0b3d5acc3",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-4f7fe754bbf6",
+      "image": "assets/dishes/dish-4f7fe754bbf6.webp",
+      "thumbnail": "assets/dishes/dish-4f7fe754bbf6-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast",
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "甜口"
+      ],
+      "mealRole": "dessert",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-f53f28bae23b",
+      "name": "番茄牛腩饭",
+      "dishGroupId": "group-d72bc236156e4d",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-f53f28bae23b",
+      "image": "assets/dishes/dish-f53f28bae23b.webp",
+      "thumbnail": "assets/dishes/dish-f53f28bae23b-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-6880dfe80101",
+      "name": "黑椒鸡肉饭",
+      "dishGroupId": "group-d40631a7e54acb",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-6880dfe80101",
+      "image": "assets/dishes/dish-6880dfe80101.webp",
+      "thumbnail": "assets/dishes/dish-6880dfe80101-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-272e65501fb2",
+      "name": "蜜汁叉烧饭",
+      "dishGroupId": "group-048659a1c785dd",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-272e65501fb2",
+      "image": "assets/dishes/dish-272e65501fb2.webp",
+      "thumbnail": "assets/dishes/dish-272e65501fb2-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-43704d39d3d5",
+      "name": "清蒸鲈鱼饭",
+      "dishGroupId": "group-4f797260ff7717",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-43704d39d3d5",
+      "image": "assets/dishes/dish-43704d39d3d5.webp",
+      "thumbnail": "assets/dishes/dish-43704d39d3d5-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-73a94221b7be",
+      "name": "香菇肉末饭",
+      "dishGroupId": "group-9a3245a9270b09",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-73a94221b7be",
+      "image": "assets/dishes/dish-73a94221b7be.webp",
+      "thumbnail": "assets/dishes/dish-73a94221b7be-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-3bc134f8d56d",
+      "name": "西兰花虾仁饭",
+      "dishGroupId": "group-77346a2ed557ce",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-3bc134f8d56d",
+      "image": "assets/dishes/dish-3bc134f8d56d.webp",
+      "thumbnail": "assets/dishes/dish-3bc134f8d56d-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-36b1e85ec396",
+      "name": "西芹牛肉饭",
+      "dishGroupId": "group-a53f4f3d8b4233",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-36b1e85ec396",
+      "image": "assets/dishes/dish-36b1e85ec396.webp",
+      "thumbnail": "assets/dishes/dish-36b1e85ec396-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-451124d63f8f",
+      "name": "西葫芦鸡蛋饭",
+      "dishGroupId": "group-b384370b0322d1",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-451124d63f8f",
+      "image": "assets/dishes/dish-451124d63f8f.webp",
+      "thumbnail": "assets/dishes/dish-451124d63f8f-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-98a76bdd9169",
+      "name": "冬瓜烧肉饭",
+      "dishGroupId": "group-98c206b3930a56",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-98a76bdd9169",
+      "image": "assets/dishes/dish-98a76bdd9169.webp",
+      "thumbnail": "assets/dishes/dish-98a76bdd9169-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-a1c1cf5102ab",
+      "name": "青笋肉片饭",
+      "dishGroupId": "group-4facf6ebe6a174",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-a1c1cf5102ab",
+      "image": "assets/dishes/dish-a1c1cf5102ab.webp",
+      "thumbnail": "assets/dishes/dish-a1c1cf5102ab-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-5b529ac52830",
+      "name": "豆豉鲮鱼饭",
+      "dishGroupId": "group-6ac72d69ac525b",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-5b529ac52830",
+      "image": "assets/dishes/dish-5b529ac52830.webp",
+      "thumbnail": "assets/dishes/dish-5b529ac52830-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-131799f3608d",
+      "name": "咖喱虾仁饭",
+      "dishGroupId": "group-db85f40e9d9c41",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-131799f3608d",
+      "image": "assets/dishes/dish-131799f3608d.webp",
+      "thumbnail": "assets/dishes/dish-131799f3608d-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-e39516bcd8d6",
+      "name": "酸菜肥牛饭",
+      "dishGroupId": "group-99ee71acc7ded7",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-e39516bcd8d6",
+      "image": "assets/dishes/dish-e39516bcd8d6.webp",
+      "thumbnail": "assets/dishes/dish-e39516bcd8d6-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-98e28afa0360",
+      "name": "茭白肉丝饭",
+      "dishGroupId": "group-10eeb2e8daa15a",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-98e28afa0360",
+      "image": "assets/dishes/dish-98e28afa0360.webp",
+      "thumbnail": "assets/dishes/dish-98e28afa0360-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-2babbc9da4cf",
+      "name": "香干肉丝饭",
+      "dishGroupId": "group-c1056413954c0e",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-2babbc9da4cf",
+      "image": "assets/dishes/dish-2babbc9da4cf.webp",
+      "thumbnail": "assets/dishes/dish-2babbc9da4cf-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-74d1bd4598f7",
+      "name": "豆角茄子饭",
+      "dishGroupId": "group-517ae236f1d6ee",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-74d1bd4598f7",
+      "image": "assets/dishes/dish-74d1bd4598f7.webp",
+      "thumbnail": "assets/dishes/dish-74d1bd4598f7-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-c9826d5a5b9e",
+      "name": "蒜苔肉丝饭",
+      "dishGroupId": "group-6378da9fe2c6ae",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-c9826d5a5b9e",
+      "image": "assets/dishes/dish-c9826d5a5b9e.webp",
+      "thumbnail": "assets/dishes/dish-c9826d5a5b9e-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-699835213404",
+      "name": "滑蛋牛肉饭",
+      "dishGroupId": "group-61cef2aa7acb28",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-699835213404",
+      "image": "assets/dishes/dish-699835213404.webp",
+      "thumbnail": "assets/dishes/dish-699835213404-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-4c47363dc19b",
+      "name": "照烧豆腐饭",
+      "dishGroupId": "group-11a86023d5269c",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-4c47363dc19b",
+      "image": "assets/dishes/dish-4c47363dc19b.webp",
+      "thumbnail": "assets/dishes/dish-4c47363dc19b-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-5b12bbd2915f",
+      "name": "黑椒杏鲍菇饭",
+      "dishGroupId": "group-51066c8900b10f",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-5b12bbd2915f",
+      "image": "assets/dishes/dish-5b12bbd2915f.webp",
+      "thumbnail": "assets/dishes/dish-5b12bbd2915f-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-45b73db5a31c",
+      "name": "西红柿鸡蛋面",
+      "dishGroupId": "group-7f8071d15abc4f",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-45b73db5a31c",
+      "image": "assets/dishes/dish-45b73db5a31c.webp",
+      "thumbnail": "assets/dishes/dish-45b73db5a31c-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-88622aa9f073",
+      "name": "排骨汤面",
+      "dishGroupId": "group-15c58ce3674ddf",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-88622aa9f073",
+      "image": "assets/dishes/dish-88622aa9f073.webp",
+      "thumbnail": "assets/dishes/dish-88622aa9f073-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-90aef914ec0c",
+      "name": "香菇鸡丝面",
+      "dishGroupId": "group-fc95eda3fd6b0d",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-90aef914ec0c",
+      "image": "assets/dishes/dish-90aef914ec0c.webp",
+      "thumbnail": "assets/dishes/dish-90aef914ec0c-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-abc739e679c3",
+      "name": "雪菜肉丝面",
+      "dishGroupId": "group-07e4ae19817dda",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-abc739e679c3",
+      "image": "assets/dishes/dish-abc739e679c3.webp",
+      "thumbnail": "assets/dishes/dish-abc739e679c3-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-f2e9887a2463",
+      "name": "榨菜肉丝面",
+      "dishGroupId": "group-f6680eb0e321c4",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-f2e9887a2463",
+      "image": "assets/dishes/dish-f2e9887a2463.webp",
+      "thumbnail": "assets/dishes/dish-f2e9887a2463-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-2bc6a2196f28",
+      "name": "豌杂面",
+      "dishGroupId": "group-43a242986e04dd",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-2bc6a2196f28",
+      "image": "assets/dishes/dish-2bc6a2196f28.webp",
+      "thumbnail": "assets/dishes/dish-2bc6a2196f28-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-a7fd0cfa19d8",
+      "name": "牛肉拌面",
+      "dishGroupId": "group-58a84f8fa6501b",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-a7fd0cfa19d8",
+      "image": "assets/dishes/dish-a7fd0cfa19d8.webp",
+      "thumbnail": "assets/dishes/dish-a7fd0cfa19d8-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-4d1ae2771bb4",
+      "name": "炸酱刀削面",
+      "dishGroupId": "group-5278e1bd525f51",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-4d1ae2771bb4",
+      "image": "assets/dishes/dish-4d1ae2771bb4.webp",
+      "thumbnail": "assets/dishes/dish-4d1ae2771bb4-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-0e3b6bd483b0",
+      "name": "西红柿鸡蛋烩面",
+      "dishGroupId": "group-765eaab2d864e6",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-0e3b6bd483b0",
+      "image": "assets/dishes/dish-0e3b6bd483b0.webp",
+      "thumbnail": "assets/dishes/dish-0e3b6bd483b0-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-334caf37843a",
+      "name": "鲜虾乌冬面",
+      "dishGroupId": "group-a74b3e083c73ad",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-334caf37843a",
+      "image": "assets/dishes/dish-334caf37843a.webp",
+      "thumbnail": "assets/dishes/dish-334caf37843a-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-3376ab217ca1",
+      "name": "番茄肉酱意面",
+      "dishGroupId": "group-a3136ed4f9b8f9",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-3376ab217ca1",
+      "image": "assets/dishes/dish-3376ab217ca1.webp",
+      "thumbnail": "assets/dishes/dish-3376ab217ca1-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-770a886f6591",
+      "name": "奶油蘑菇意面",
+      "dishGroupId": "group-0c6a67975165de",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-770a886f6591",
+      "image": "assets/dishes/dish-770a886f6591.webp",
+      "thumbnail": "assets/dishes/dish-770a886f6591-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-76ea8f428cbb",
+      "name": "牛肉炒米粉",
+      "dishGroupId": "group-629a7c4612f839",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-76ea8f428cbb",
+      "image": "assets/dishes/dish-76ea8f428cbb.webp",
+      "thumbnail": "assets/dishes/dish-76ea8f428cbb-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-05f7ed3c7081",
+      "name": "鸡蛋炒米粉",
+      "dishGroupId": "group-d15709c8f3b757",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-05f7ed3c7081",
+      "image": "assets/dishes/dish-05f7ed3c7081.webp",
+      "thumbnail": "assets/dishes/dish-05f7ed3c7081-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-dc69351b5126",
+      "name": "肉丝炒年糕",
+      "dishGroupId": "group-c935446a4aa9f3",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-dc69351b5126",
+      "image": "assets/dishes/dish-dc69351b5126.webp",
+      "thumbnail": "assets/dishes/dish-dc69351b5126-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-1d270ca0d6c1",
+      "name": "香菇鸡肉河粉",
+      "dishGroupId": "group-6712348ae9ac99",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-1d270ca0d6c1",
+      "image": "assets/dishes/dish-1d270ca0d6c1.webp",
+      "thumbnail": "assets/dishes/dish-1d270ca0d6c1-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-402bdb8485e1",
+      "name": "韭菜鸡蛋水饺",
+      "dishGroupId": "group-09bcf6414baf85",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-402bdb8485e1",
+      "image": "assets/dishes/dish-402bdb8485e1.webp",
+      "thumbnail": "assets/dishes/dish-402bdb8485e1-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-b6eaf8a193fb",
+      "name": "猪肉白菜水饺",
+      "dishGroupId": "group-b0d967b65eedaf",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-b6eaf8a193fb",
+      "image": "assets/dishes/dish-b6eaf8a193fb.webp",
+      "thumbnail": "assets/dishes/dish-b6eaf8a193fb-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-11baf9436c15",
+      "name": "猪肉芹菜水饺",
+      "dishGroupId": "group-0494f5a1bcd32e",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-11baf9436c15",
+      "image": "assets/dishes/dish-11baf9436c15.webp",
+      "thumbnail": "assets/dishes/dish-11baf9436c15-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-c8a460316596",
+      "name": "牛肉洋葱水饺",
+      "dishGroupId": "group-323f0775800eb5",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-c8a460316596",
+      "image": "assets/dishes/dish-c8a460316596.webp",
+      "thumbnail": "assets/dishes/dish-c8a460316596-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-4f24c4f8c726",
+      "name": "虾仁三鲜水饺",
+      "dishGroupId": "group-cd7bea68b602c0",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-4f24c4f8c726",
+      "image": "assets/dishes/dish-4f24c4f8c726.webp",
+      "thumbnail": "assets/dishes/dish-4f24c4f8c726-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-bd13a13df964",
+      "name": "香菇鸡肉水饺",
+      "dishGroupId": "group-5e09d9d4e3665c",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-bd13a13df964",
+      "image": "assets/dishes/dish-bd13a13df964.webp",
+      "thumbnail": "assets/dishes/dish-bd13a13df964-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-97c38829c67f",
+      "name": "玉米猪肉蒸饺",
+      "dishGroupId": "group-de5ac63b3f65ed",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-97c38829c67f",
+      "image": "assets/dishes/dish-97c38829c67f.webp",
+      "thumbnail": "assets/dishes/dish-97c38829c67f-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-f93ba7bc4cb1",
+      "name": "鲜虾云吞面",
+      "dishGroupId": "group-6e0d85b25795da",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-f93ba7bc4cb1",
+      "image": "assets/dishes/dish-f93ba7bc4cb1.webp",
+      "thumbnail": "assets/dishes/dish-f93ba7bc4cb1-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-92c4f2c0aed3",
+      "name": "牛肉酸汤馄饨",
+      "dishGroupId": "group-ac8b3dd4e38394",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-92c4f2c0aed3",
+      "image": "assets/dishes/dish-92c4f2c0aed3.webp",
+      "thumbnail": "assets/dishes/dish-92c4f2c0aed3-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-09512841e248",
+      "name": "红油钟水饺",
+      "dishGroupId": "group-798e29fdaa92db",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-09512841e248",
+      "image": "assets/dishes/dish-09512841e248.webp",
+      "thumbnail": "assets/dishes/dish-09512841e248-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-119da7a740a6",
+      "name": "小米粥＋鸡蛋＋蒸南瓜",
+      "dishGroupId": "group-ab1f8d7346a998",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-119da7a740a6",
+      "image": "assets/dishes/dish-119da7a740a6.webp",
+      "thumbnail": "assets/dishes/dish-119da7a740a6-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-2e43452148e4",
+      "name": "鲜肉包＋豆浆",
+      "dishGroupId": "group-710f297a416328",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-2e43452148e4",
+      "image": "assets/dishes/dish-2e43452148e4.webp",
+      "thumbnail": "assets/dishes/dish-2e43452148e4-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-ba4b97e78164",
+      "name": "菜包＋鸡蛋＋小米粥",
+      "dishGroupId": "group-7ac73acce7dbaa",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-ba4b97e78164",
+      "image": "assets/dishes/dish-ba4b97e78164.webp",
+      "thumbnail": "assets/dishes/dish-ba4b97e78164-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-9a38747f0ab2",
+      "name": "杂粮煎饼＋无糖豆浆",
+      "dishGroupId": "group-cdb6bc4da099b4",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-9a38747f0ab2",
+      "image": "assets/dishes/dish-9a38747f0ab2.webp",
+      "thumbnail": "assets/dishes/dish-9a38747f0ab2-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-f43a1959fc43",
+      "name": "全麦鸡蛋三明治＋牛奶",
+      "dishGroupId": "group-51b0bfaf3c07dc",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-f43a1959fc43",
+      "image": "assets/dishes/dish-f43a1959fc43.webp",
+      "thumbnail": "assets/dishes/dish-f43a1959fc43-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-ef036b3095f3",
+      "name": "鸡肉蔬菜卷＋牛奶",
+      "dishGroupId": "group-23fc2508ceb5d4",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-ef036b3095f3",
+      "image": "assets/dishes/dish-ef036b3095f3.webp",
+      "thumbnail": "assets/dishes/dish-ef036b3095f3-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-591d90d0ae4a",
+      "name": "胡辣汤＋牛肉馅饼",
+      "dishGroupId": "group-eabe3402de97a1",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-591d90d0ae4a",
+      "image": "assets/dishes/dish-591d90d0ae4a.webp",
+      "thumbnail": "assets/dishes/dish-591d90d0ae4a-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-5c74676358cf",
+      "name": "燕麦粥＋鸡蛋＋香蕉",
+      "dishGroupId": "group-261f12f1b5a136",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-5c74676358cf",
+      "image": "assets/dishes/dish-5c74676358cf.webp",
+      "thumbnail": "assets/dishes/dish-5c74676358cf-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "breakfast"
+      ],
+      "flavorTags": [
+        "清淡"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-9eacf6dc536d",
+      "name": "糙米鸡肉蔬菜碗",
+      "dishGroupId": "group-8d41f94d364442",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-9eacf6dc536d",
+      "image": "assets/dishes/dish-9eacf6dc536d.webp",
+      "thumbnail": "assets/dishes/dish-9eacf6dc536d-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-41d80632e156",
+      "name": "藜麦牛肉饭",
+      "dishGroupId": "group-081bb06ece8d2a",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-41d80632e156",
+      "image": "assets/dishes/dish-41d80632e156.webp",
+      "thumbnail": "assets/dishes/dish-41d80632e156-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-7ee3291ee54a",
+      "name": "荞麦鸡丝拌面",
+      "dishGroupId": "group-5e669ce4260a12",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-7ee3291ee54a",
+      "image": "assets/dishes/dish-7ee3291ee54a.webp",
+      "thumbnail": "assets/dishes/dish-7ee3291ee54a-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-6f50839b882a",
+      "name": "杂粮豆腐菌菇饭",
+      "dishGroupId": "group-954d74365a70e8",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-6f50839b882a",
+      "image": "assets/dishes/dish-6f50839b882a.webp",
+      "thumbnail": "assets/dishes/dish-6f50839b882a-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-20f468a604b2",
+      "name": "红薯鸡蛋杂粮餐",
+      "dishGroupId": "group-1c7288e6f12d15",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-20f468a604b2",
+      "image": "assets/dishes/dish-20f468a604b2.webp",
+      "thumbnail": "assets/dishes/dish-20f468a604b2-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    },
+    {
+      "id": "dish-a0137171980d",
+      "name": "玉米虾仁杂粮饭",
+      "dishGroupId": "group-8d536e02a7301d",
+      "oldRecord": false,
+      "oldName": null,
+      "imageId": "dish-a0137171980d",
+      "image": "assets/dishes/dish-a0137171980d.webp",
+      "thumbnail": "assets/dishes/dish-a0137171980d-thumb.webp",
+      "imageReady": true,
+      "published": "published",
+      "suggestedMeals": [
+        "lunch",
+        "dinner"
+      ],
+      "flavorTags": [
+        "咸香"
+      ],
+      "mealRole": "main",
+      "verificationStatus": "pending",
+      "restaurantId": null
+    }
+  ]
+}

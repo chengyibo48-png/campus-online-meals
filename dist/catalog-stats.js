@@ -1,0 +1,6 @@
+import {isVerified,isPublished,isRecommendable,availability,mealNames,dayKey} from './menu-query.js';
+import {evidenceFields,hasFieldEvidence,searchKey} from './food-model.js';
+export function menuStatistics(records,now=new Date()){
+ const verified=records.filter(d=>isVerified(d,now)),published=records.filter(isPublished);
+ return {publishedRecordCount:published.length,publishedGroupCount:new Set(published.map(d=>d.dishGroupId??searchKey(d.canonicalName??d.name))).size,checkedAt:dayKey(now),recordCount:records.length,groupCount:new Set(records.map(d=>d.dishGroupId??searchKey(d.canonicalName??d.name))).size,verifiedRecordCount:verified.length,verifiedGroupCount:new Set(verified.map(d=>d.dishGroupId??searchKey(d.canonicalName??d.name))).size,counts:Object.fromEntries(['verified','pending','review','disabled','conflict'].map(s=>[s,records.filter(d=>availability(d,now)===s).length])),recommendableByMeal:Object.fromEntries(Object.keys(mealNames).map(meal=>[meal,records.filter(d=>isRecommendable(d,meal,now)).length])),unknownFields:Object.fromEntries(evidenceFields.map(field=>[field,records.filter(d=>!hasFieldEvidence(d,field,now)).length])),imageCount:records.filter(d=>d.image).length,imageMissingCount:records.filter(d=>!d.image).length};
+}

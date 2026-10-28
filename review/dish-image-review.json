@@ -1,0 +1,1410 @@
+{
+  "checkedAt": "2026-10-22",
+  "total": 100,
+  "independentHashes": 100,
+  "needsCorrection": [
+    "dish-3572880f383c"
+  ],
+  "records": [
+    {
+      "id": "dish-1b135c928808",
+      "name": "茄汁面",
+      "imageId": "dish-1b135c928808",
+      "path": "assets/dishes/dish-1b135c928808.webp",
+      "sha256": "cb5d308123aa352a72ee67df2749d1455ab792166dae959a0a17090f786c7f75",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-aa798c22d5e0",
+      "name": "生煎包+豆浆",
+      "imageId": "dish-aa798c22d5e0",
+      "path": "assets/dishes/dish-aa798c22d5e0.webp",
+      "sha256": "661643fccb7ba2ed3f9c9ab2b95b663bfe4595e36bca51fa7e326c4606576306",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "已逐张核对名称列出的全部组合部分。"
+      }
+    },
+    {
+      "id": "dish-00e6a5395515",
+      "name": "酸辣面",
+      "imageId": "dish-00e6a5395515",
+      "path": "assets/dishes/dish-00e6a5395515.webp",
+      "sha256": "a2ed41dcb39ab692d3c02ba0b4f3cf3341b5456052c6e6932c3b591586546172",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-b8f3a4d366b7",
+      "name": "土豆粉",
+      "imageId": "dish-b8f3a4d366b7",
+      "path": "assets/dishes/dish-b8f3a4d366b7.webp",
+      "sha256": "49fcfe64dafd19363ff5441b641078ded8cc2ca90d73a239b3ea4f5019c59e5e",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-3c8c4eb51ebc",
+      "name": "耀兴隆热干面",
+      "imageId": "dish-3c8c4eb51ebc",
+      "path": "assets/dishes/dish-3c8c4eb51ebc.webp",
+      "sha256": "82a5e344e69637f93d068f209b9a39e9b62329d71026fc412f4bcfcb0031db77",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-886c817d211d",
+      "name": "干拌荠菜小馄饨",
+      "imageId": "dish-886c817d211d",
+      "path": "assets/dishes/dish-886c817d211d.webp",
+      "sha256": "ac8ad767e363f8ec6059529ddfd162d109e00fc0be7585c30f7b25f475877fd2",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-05d5a1f3c5df",
+      "name": "包子+茶叶蛋",
+      "imageId": "dish-05d5a1f3c5df",
+      "path": "assets/dishes/dish-05d5a1f3c5df.webp",
+      "sha256": "bb65b1dfbbd490f189675bfdc857d78aafe9199027c1b6ab01d0924dfbb91e21",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "已逐张核对名称列出的全部组合部分。"
+      }
+    },
+    {
+      "id": "dish-9c9bd9e128f3",
+      "name": "粥+玉米",
+      "imageId": "dish-9c9bd9e128f3",
+      "path": "assets/dishes/dish-9c9bd9e128f3.webp",
+      "sha256": "386eff8341642249683c25ab9010858a3d4684c7f87146994e8faf9d288de7ac",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "已逐张核对名称列出的全部组合部分。"
+      }
+    },
+    {
+      "id": "dish-3572880f383c",
+      "name": "胡辣汤",
+      "imageId": "dish-3572880f383c",
+      "path": "assets/dishes/dish-3572880f383c.webp",
+      "sha256": "4683b96b6bc5ef9cae76fa3f87b8d56291fdf49fc54d25a769c3c77c29fe0ef8",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "needs-correction-before-use",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "旧图含独立油条和包子，名称只有胡辣汤；取得有效菜单后应重做本条独立单品图，未核实前不生成新上线素材。"
+      }
+    },
+    {
+      "id": "dish-b2be61f902ec",
+      "name": "菌菇面",
+      "imageId": "dish-b2be61f902ec",
+      "path": "assets/dishes/dish-b2be61f902ec.webp",
+      "sha256": "59a4d3f30584c5f1b359d12fbaa3e295d9e52557be849219a206b35df6d96b76",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-ebe65b32c381",
+      "name": "蛋炒饭",
+      "imageId": "dish-ebe65b32c381",
+      "path": "assets/dishes/dish-ebe65b32c381.webp",
+      "sha256": "ad972a459ffb09741087d474ba84ae2993d79d62758b850846b3c2a7665eb374",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-2221b3b364c6",
+      "name": "鸡蛋灌饼",
+      "imageId": "dish-2221b3b364c6",
+      "path": "assets/dishes/dish-2221b3b364c6.webp",
+      "sha256": "a55d0002bf206b38db0b8aa6c6145e3f388627127d8004c04a6c1bb4f1b45b7b",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-1c6dcba4ea41",
+      "name": "豆浆油条",
+      "imageId": "dish-1c6dcba4ea41",
+      "path": "assets/dishes/dish-1c6dcba4ea41.webp",
+      "sha256": "4e48dde73a285515e21b47c4420c8542cd95a4f85d795e7e6d674908ae90f2b8",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "已逐张核对名称列出的全部组合部分。"
+      }
+    },
+    {
+      "id": "dish-123ec3d5c3e2",
+      "name": "鸡蛋面",
+      "imageId": "dish-123ec3d5c3e2",
+      "path": "assets/dishes/dish-123ec3d5c3e2.webp",
+      "sha256": "ed2442c3987604e46e146e359661a9042f8fa03f0352e6ba15b053049a52f907",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-9d5bec5abb9b",
+      "name": "玉米粥",
+      "imageId": "dish-9d5bec5abb9b",
+      "path": "assets/dishes/dish-9d5bec5abb9b.webp",
+      "sha256": "5ebd60fc97d8bf35f7d165ed39f3ab0f8a77bd2021f54a0a79682c18bd900b2d",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-f2dd308e6a5b",
+      "name": "锅贴",
+      "imageId": "dish-f2dd308e6a5b",
+      "path": "assets/dishes/dish-f2dd308e6a5b.webp",
+      "sha256": "887ec00a0b4122105e7353316635ff3b8c433103ae94be7ce5b2d51ffb97a26d",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-74bf42dc48d2",
+      "name": "鲜肉锅贴",
+      "imageId": "dish-74bf42dc48d2",
+      "path": "assets/dishes/dish-74bf42dc48d2.webp",
+      "sha256": "b19ce54b9d5760892fbeea9db66b9d71648bb5cb007a5068d8b511aed46f9f2c",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-33cc53fe698f",
+      "name": "皮蛋瘦肉粥",
+      "imageId": "dish-33cc53fe698f",
+      "path": "assets/dishes/dish-33cc53fe698f.webp",
+      "sha256": "a250bd788ce3586db25f83ac98759eb33bd2845d7dc0d2c666735878d3d51166",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-027140dc1bcc",
+      "name": "鲜肉馄饨",
+      "imageId": "dish-027140dc1bcc",
+      "path": "assets/dishes/dish-027140dc1bcc.webp",
+      "sha256": "33a35a0a97b09ccb17591c4eb4dded2fa1a4a6e714e379b72659e06b56092592",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-f7669df9a3c3",
+      "name": "烧麦",
+      "imageId": "dish-f7669df9a3c3",
+      "path": "assets/dishes/dish-f7669df9a3c3.webp",
+      "sha256": "2d76cfde233a31d60a30eb34ebc742a135658ba369b9c343a806744f53b8a0ff",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-fda60a6ef328",
+      "name": "手抓饼",
+      "imageId": "dish-fda60a6ef328",
+      "path": "assets/dishes/dish-fda60a6ef328.webp",
+      "sha256": "4075b93ee4a5283cfc97060641d62a322397475857322bfbc17a7326ea3a0af7",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-af0b39a5575c",
+      "name": "鸡蛋饼",
+      "imageId": "dish-af0b39a5575c",
+      "path": "assets/dishes/dish-af0b39a5575c.webp",
+      "sha256": "aa48d44fa7c8fc5d9a25c63bc2decd92e98eba1b1934da1306d67ba4bfcbf679",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-eb76574e5fb3",
+      "name": "肉夹馍",
+      "imageId": "dish-eb76574e5fb3",
+      "path": "assets/dishes/dish-eb76574e5fb3.webp",
+      "sha256": "63acb923a7fdc3e41eb70f08504cb8c0f48105a9c7b193e848c2ce031b5018be",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-13d7f908420e",
+      "name": "红豆饼",
+      "imageId": "dish-13d7f908420e",
+      "path": "assets/dishes/dish-13d7f908420e.webp",
+      "sha256": "698d858aa55b77a35e7fba5fb8fddd4039e251749b5184324608f36c9a2f6c42",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-e9e87bff35f7",
+      "name": "煎饺",
+      "imageId": "dish-e9e87bff35f7",
+      "path": "assets/dishes/dish-e9e87bff35f7.webp",
+      "sha256": "ccde8e77714acfa8426f1b04a21451156f42763d4097d51e5783b6d755db4277",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-f6d6fc511237",
+      "name": "糯米鸡",
+      "imageId": "dish-f6d6fc511237",
+      "path": "assets/dishes/dish-f6d6fc511237.webp",
+      "sha256": "cc9026aafaba23ea239a2850fead01ceaf092603898427312859633c306dd7e9",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-abb3c2b369b6",
+      "name": "三鲜米线",
+      "imageId": "dish-abb3c2b369b6",
+      "path": "assets/dishes/dish-abb3c2b369b6.webp",
+      "sha256": "0d6ba7539ea0e8d4795eeab6319a6430ae12215e34ada1ca96075010e790778a",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-9ef81dc62d93",
+      "name": "生煎馄饨",
+      "imageId": "dish-9ef81dc62d93",
+      "path": "assets/dishes/dish-9ef81dc62d93.webp",
+      "sha256": "918c408af1ad1827d057bb0c9c35eda6fe8ddfc30d8c68e1a90d3f031c2d9710",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-e1a0c1cf8052",
+      "name": "南瓜粥",
+      "imageId": "dish-e1a0c1cf8052",
+      "path": "assets/dishes/dish-e1a0c1cf8052.webp",
+      "sha256": "567d3a7eb3b75670c109ff1a08aafcc057606f93b713b32542a31a404e5d51b8",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-09f09e588331",
+      "name": "小笼包",
+      "imageId": "dish-09f09e588331",
+      "path": "assets/dishes/dish-09f09e588331.webp",
+      "sha256": "5edbf0500bb86ef930aca69e1f362839363bba74a1400798ec303e5fda2f2c9a",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-74bc24706d48",
+      "name": "豆腐脑",
+      "imageId": "dish-74bc24706d48",
+      "path": "assets/dishes/dish-74bc24706d48.webp",
+      "sha256": "54f16ab2d48177395bb677fe30a0f95c4426aa930eaf643585f7320cf6769a6c",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-5531a9332445",
+      "name": "蔬菜捞面",
+      "imageId": "dish-5531a9332445",
+      "path": "assets/dishes/dish-5531a9332445.webp",
+      "sha256": "00ce8646095ded975d38bb717007d20eae872b1419d7ddac06959cfc1b6a5305",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-0c1cfef3350c",
+      "name": "海鲜焖面",
+      "imageId": "dish-0c1cfef3350c",
+      "path": "assets/dishes/dish-0c1cfef3350c.webp",
+      "sha256": "19c6b7ea6b27fa753ad2bcd99f219a2f2e0418257d32cda592f3e0f3aa08b92a",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-6a7156c395e0",
+      "name": "螺蛳粉",
+      "imageId": "dish-6a7156c395e0",
+      "path": "assets/dishes/dish-6a7156c395e0.webp",
+      "sha256": "be8649bfeb1a257f0cfdeedc83959606a7c3e489f5073412650587aa6c03826d",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-5e9bbb8cce24",
+      "name": "自选餐",
+      "imageId": "dish-5e9bbb8cce24",
+      "path": "assets/dishes/dish-5e9bbb8cce24.webp",
+      "sha256": "7d6dd5159c1d2ec2818b48979e75789b56e18d7b34bb2e29de4cf7de2c98c9f8",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "自选餐仅是可选搭配示意，不代表固定组成。"
+      }
+    },
+    {
+      "id": "dish-7f070a45c4a4",
+      "name": "酸辣粉",
+      "imageId": "dish-7f070a45c4a4",
+      "path": "assets/dishes/dish-7f070a45c4a4.webp",
+      "sha256": "bd3ad0b7090139916ee3b77f2ef61ce9226ced49bb1d5d5bd6d2093aba3d5df6",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-d7f0ae7c6892",
+      "name": "土豆烧鸡盖饭",
+      "imageId": "dish-d7f0ae7c6892",
+      "path": "assets/dishes/dish-d7f0ae7c6892.webp",
+      "sha256": "ea1b67aa517e72c29c3398e68049704852419a5512398192f612a4461d95a39d",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-2a9181213b2b",
+      "name": "清真牛肉面",
+      "imageId": "dish-2a9181213b2b",
+      "path": "assets/dishes/dish-2a9181213b2b.webp",
+      "sha256": "32a987fbe6111a1a091dfa57ea7f55bb659b947f58cebddcd8e98600cf16f8a6",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-f0b0d31b7642",
+      "name": "番茄鸡蛋盖饭",
+      "imageId": "dish-f0b0d31b7642",
+      "path": "assets/dishes/dish-f0b0d31b7642.webp",
+      "sha256": "1d34f478150204d0e8abe12d8ac4bd876bb8796e06b32a93b2c1cc6b66dbc8a6",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-1e1563b3a0d0",
+      "name": "石锅拌饭",
+      "imageId": "dish-1e1563b3a0d0",
+      "path": "assets/dishes/dish-1e1563b3a0d0.webp",
+      "sha256": "6be02c3d6cdc45665f7722147fdfaeff18acebb6295d932355aef3ff4ecfc366",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-68091b156625",
+      "name": "鱿鱼五花肉拌饭",
+      "imageId": "dish-68091b156625",
+      "path": "assets/dishes/dish-68091b156625.webp",
+      "sha256": "ca4b43fbbf5145209ff1269527dd737840608588d7f99c416f11537d5b768bf0",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-a65eb3e09be7",
+      "name": "麻辣拌+红油抄手",
+      "imageId": "dish-a65eb3e09be7",
+      "path": "assets/dishes/dish-a65eb3e09be7.webp",
+      "sha256": "bfff3c055289ea2e77fb8a52ec8de3a5e6cba8978a0178ed3fe09bb2956fd97e",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "已逐张核对名称列出的全部组合部分。"
+      }
+    },
+    {
+      "id": "dish-66cccb24b4cd",
+      "name": "铁板豆腐+鸡排",
+      "imageId": "dish-66cccb24b4cd",
+      "path": "assets/dishes/dish-66cccb24b4cd.webp",
+      "sha256": "b2a641744cec6485b8dddfd8d50b613ec61a75419308ddfd153e787eef743201",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "已逐张核对名称列出的全部组合部分。"
+      }
+    },
+    {
+      "id": "dish-38aadc2430df",
+      "name": "干拌面",
+      "imageId": "dish-38aadc2430df",
+      "path": "assets/dishes/dish-38aadc2430df.webp",
+      "sha256": "87cecc4f5440effe76b3ba0874152c25203b9093d82b9436d979c19d481a78c8",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-e93a4f420684",
+      "name": "香菇鸡饭",
+      "imageId": "dish-e93a4f420684",
+      "path": "assets/dishes/dish-e93a4f420684.webp",
+      "sha256": "6e5f5e7f3f2c78ad5068313d1c85b23830524039d4f9c18b01fd84376275ee9f",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-4e4739fc4325",
+      "name": "鱼香肉丝饭",
+      "imageId": "dish-4e4739fc4325",
+      "path": "assets/dishes/dish-4e4739fc4325.webp",
+      "sha256": "d56d48644210c7a781a52e9bcfb8d6656724524a2e98877c54e0c07c716b6346",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-73862c214c4b",
+      "name": "鸡排饭",
+      "imageId": "dish-73862c214c4b",
+      "path": "assets/dishes/dish-73862c214c4b.webp",
+      "sha256": "86527d5e7efc372392b0a7c4ebd0af825e904dd3c0f04701fbf07e2f56521510",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-f6ab9034a348",
+      "name": "宫保鸡丁饭",
+      "imageId": "dish-f6ab9034a348",
+      "path": "assets/dishes/dish-f6ab9034a348.webp",
+      "sha256": "6119d6f0989c16f6a7ab39af88a2baf1bc6bd57f99ff0a1ade782d2beffd29db",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-53a4d06cb3e3",
+      "name": "回锅肉饭",
+      "imageId": "dish-53a4d06cb3e3",
+      "path": "assets/dishes/dish-53a4d06cb3e3.webp",
+      "sha256": "a80da076bb096aa08c8bf939322982b61d3992fb6d20e71984c96cec871385c8",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-1c2c7ab65e65",
+      "name": "砂锅米线",
+      "imageId": "dish-1c2c7ab65e65",
+      "path": "assets/dishes/dish-1c2c7ab65e65.webp",
+      "sha256": "0e438a1c8fd491c17803bac6248b1af3f9c809878843bad54eeb8dc9ad9c47fb",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-c237c9263ffa",
+      "name": "炒河粉",
+      "imageId": "dish-c237c9263ffa",
+      "path": "assets/dishes/dish-c237c9263ffa.webp",
+      "sha256": "c71838129db7c13d370b86373062032331d1481ac73b762d91d1a01a2515392d",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-8900bb4bc717",
+      "name": "羊肉烩面",
+      "imageId": "dish-8900bb4bc717",
+      "path": "assets/dishes/dish-8900bb4bc717.webp",
+      "sha256": "a6ccde8de495e1c038e9b08bb75ab602ea61326107a94d08743cf2ed43b64972",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-003401f58bcf",
+      "name": "酸汤水饺",
+      "imageId": "dish-003401f58bcf",
+      "path": "assets/dishes/dish-003401f58bcf.webp",
+      "sha256": "a89e4b921d9f9291070546f07a3b92eba96d427484d7f1e25439a106e4d12406",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-1306b065159e",
+      "name": "三鲜米线",
+      "imageId": "dish-1306b065159e",
+      "path": "assets/dishes/dish-1306b065159e.webp",
+      "sha256": "a0a0b73fdc700933a4c606b80f614e6c330431f51623f7ae4b5c7f3a8d3e368e",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-8a3705cac9b6",
+      "name": "砂锅土豆粉",
+      "imageId": "dish-8a3705cac9b6",
+      "path": "assets/dishes/dish-8a3705cac9b6.webp",
+      "sha256": "52c92cde7db6ef52422afce623535c712f5a2c7239bd4719acc70d2cff90eae3",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-eb8d1854c504",
+      "name": "自助餐",
+      "imageId": "dish-eb8d1854c504",
+      "path": "assets/dishes/dish-eb8d1854c504.webp",
+      "sha256": "75365abed2aaae8218ddad208231523c7bd12c2dc456dc3a60a409ce89f5e687",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "自选餐仅是可选搭配示意，不代表固定组成。"
+      }
+    },
+    {
+      "id": "dish-d2b7c8298f10",
+      "name": "红烧茄子饭",
+      "imageId": "dish-d2b7c8298f10",
+      "path": "assets/dishes/dish-d2b7c8298f10.webp",
+      "sha256": "2ef0acd05eb50d2cf6b22769fa073516387af2d91d6e020448e84de60f2e876f",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-6402fee78cbe",
+      "name": "香辣鸡腿饭",
+      "imageId": "dish-6402fee78cbe",
+      "path": "assets/dishes/dish-6402fee78cbe.webp",
+      "sha256": "02351ad2edb2d7b99746c9ab42dddf6818dbb751f3c45f5f44ef499240992a40",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-a01421de348a",
+      "name": "盖浇面",
+      "imageId": "dish-a01421de348a",
+      "path": "assets/dishes/dish-a01421de348a.webp",
+      "sha256": "7327340555a1a3207c9da4cbe106b493941fb6c0eb9f3c2032db7291cf1fd8bf",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-842d40863d0a",
+      "name": "黄焖鸡",
+      "imageId": "dish-842d40863d0a",
+      "path": "assets/dishes/dish-842d40863d0a.webp",
+      "sha256": "c0788fb8991d03d2e0f0c158fa37173b0a40aa88322a798b8cbb19cd4a22d324",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-53c26bcaf923",
+      "name": "兰州拉面",
+      "imageId": "dish-53c26bcaf923",
+      "path": "assets/dishes/dish-53c26bcaf923.webp",
+      "sha256": "2e3bfd5f1a1402ee1a8a47ecc8407f96d11c9ae96ae0c364554feb1c6fe0bc15",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-d541c22f12af",
+      "name": "蛋包饭",
+      "imageId": "dish-d541c22f12af",
+      "path": "assets/dishes/dish-d541c22f12af.webp",
+      "sha256": "4fb8a9a40cc175e05ada41f3f20733c09423327faf7dccc6b1b9c596fc9c400d",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-eced8604626f",
+      "name": "鱼香茄子饭",
+      "imageId": "dish-eced8604626f",
+      "path": "assets/dishes/dish-eced8604626f.webp",
+      "sha256": "5ce4b4e20a085626abd16f5f4f01935fe5402a890dc311148393d922d7beabc0",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-2c400e5bee2e",
+      "name": "麻辣香锅",
+      "imageId": "dish-2c400e5bee2e",
+      "path": "assets/dishes/dish-2c400e5bee2e.webp",
+      "sha256": "aa5262ae25594b7c7d7f6d93a0fcc893cd2623f98125c441b88a3b5806c43945",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-b708133b9bce",
+      "name": "烤肉拌饭",
+      "imageId": "dish-b708133b9bce",
+      "path": "assets/dishes/dish-b708133b9bce.webp",
+      "sha256": "8a336fc3631f5fb3b0b0a8b047115975816297bf88f30b87b43210aa39160287",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-702627af5af1",
+      "name": "香辣鸡排面",
+      "imageId": "dish-702627af5af1",
+      "path": "assets/dishes/dish-702627af5af1.webp",
+      "sha256": "316bda939c0624d623406389827cce7a37f602c85aaa9a79b9b69d204f7cdd80",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-1d06e6357dc0",
+      "name": "菌菇面",
+      "imageId": "dish-1d06e6357dc0",
+      "path": "assets/dishes/dish-1d06e6357dc0.webp",
+      "sha256": "99df68ba0c5593b48f6a5dd8f0cefa908846f6aa6958ccf08a9d60c586c301d1",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-d185c6a5856b",
+      "name": "臊子面",
+      "imageId": "dish-d185c6a5856b",
+      "path": "assets/dishes/dish-d185c6a5856b.webp",
+      "sha256": "681c2fa93dd2104a43f1c4767e7b70ed2ff2dcdb9032269001d32e2e0cbcceb1",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-a873c05a5f17",
+      "name": "自选两荤一素",
+      "imageId": "dish-a873c05a5f17",
+      "path": "assets/dishes/dish-a873c05a5f17.webp",
+      "sha256": "a38ed2a8b245f060ca71a56c4022cf2a554f07ab9c9c73a6821c9ee93bbc1f3f",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "自选餐仅是可选搭配示意，不代表固定组成。"
+      }
+    },
+    {
+      "id": "dish-100fc879ebd7",
+      "name": "酸辣面",
+      "imageId": "dish-100fc879ebd7",
+      "path": "assets/dishes/dish-100fc879ebd7.webp",
+      "sha256": "cfc745881ff62cd6fd6f436997d08c702fb676cc27dd7a8c945c74f98d6dfee7",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-99ad6f3286bc",
+      "name": "干拌荠菜小馄饨",
+      "imageId": "dish-99ad6f3286bc",
+      "path": "assets/dishes/dish-99ad6f3286bc.webp",
+      "sha256": "9e3a4ed9e068d9850fa6287c57fd526f2f9b2482afc5ede529db78ce2d552a23",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-ea2ac8d441ec",
+      "name": "风华园自选菜",
+      "imageId": "dish-ea2ac8d441ec",
+      "path": "assets/dishes/dish-ea2ac8d441ec.webp",
+      "sha256": "cf0ef7e24187dc5723c622ab922d64feea38821d7f31323e611bcc6db0e44f8c",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "自选餐仅是可选搭配示意，不代表固定组成。"
+      }
+    },
+    {
+      "id": "dish-650675f8326e",
+      "name": "麻辣拌",
+      "imageId": "dish-650675f8326e",
+      "path": "assets/dishes/dish-650675f8326e.webp",
+      "sha256": "4379fccad24cfef6304e62187425bd1e3a7b5fe2e5b48117feabaf106d1caf6c",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-2ab8883f031f",
+      "name": "红油抄手",
+      "imageId": "dish-2ab8883f031f",
+      "path": "assets/dishes/dish-2ab8883f031f.webp",
+      "sha256": "5bbd9535954c29df67ef1e6744e3020ace558594106e3e02d4f892dc18670587",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-601a949b68c7",
+      "name": "烤冷面",
+      "imageId": "dish-601a949b68c7",
+      "path": "assets/dishes/dish-601a949b68c7.webp",
+      "sha256": "fca867b3a65ce785c08628986ed6bfacc18268055dcfc7df83d2da1a21251f89",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-b2dbe78efc12",
+      "name": "铁板豆腐+鸡排",
+      "imageId": "dish-b2dbe78efc12",
+      "path": "assets/dishes/dish-b2dbe78efc12.webp",
+      "sha256": "661311245848d8da8ca1f1a8e949116183499f61025017878f45cb67a944d4e7",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "已逐张核对名称列出的全部组合部分。"
+      }
+    },
+    {
+      "id": "dish-eede4606ff23",
+      "name": "红豆饼+玉米汁",
+      "imageId": "dish-eede4606ff23",
+      "path": "assets/dishes/dish-eede4606ff23.webp",
+      "sha256": "159665bb1e1154ed0f287fd99e30d9b8a34dc0cc64178e45b200fe9f9314e471",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "已逐张核对名称列出的全部组合部分。"
+      }
+    },
+    {
+      "id": "dish-1bf38aceac27",
+      "name": "石锅拌饭",
+      "imageId": "dish-1bf38aceac27",
+      "path": "assets/dishes/dish-1bf38aceac27.webp",
+      "sha256": "eb52265b6c27d0ca0f06b0683d922b1f65a36df8e0b5901e370d810f96400c5d",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-fae66258a5d2",
+      "name": "海鲜炒饭",
+      "imageId": "dish-fae66258a5d2",
+      "path": "assets/dishes/dish-fae66258a5d2.webp",
+      "sha256": "4a708575e3fde7c5ee8aa41bf20fb3f49a6300f83196fba35048f278e0643a48",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-d3e7bdaa09be",
+      "name": "香辣拌面",
+      "imageId": "dish-d3e7bdaa09be",
+      "path": "assets/dishes/dish-d3e7bdaa09be.webp",
+      "sha256": "e74384165210e57a12e71ad0d2ce82a899ec969db158c924d0532422085fe0a4",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-234abb432cbd",
+      "name": "酸汤面",
+      "imageId": "dish-234abb432cbd",
+      "path": "assets/dishes/dish-234abb432cbd.webp",
+      "sha256": "867c36755998c9622d9b57001d8365eb566c8accb9f12d62e22a417b48f51c7b",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-5f12e9d6b57d",
+      "name": "鸡肉焖饭",
+      "imageId": "dish-5f12e9d6b57d",
+      "path": "assets/dishes/dish-5f12e9d6b57d.webp",
+      "sha256": "e795a133e2a3c24e9c50a4e40470b769953fca1bd8ac673d2c0d5eea80615709",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-0caa2a9f7be8",
+      "name": "酸汤馄饨",
+      "imageId": "dish-0caa2a9f7be8",
+      "path": "assets/dishes/dish-0caa2a9f7be8.webp",
+      "sha256": "82819320ede02dadf1c880a1e197809c911c031cceba2903efa407a4515daef8",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-d9ab9fc6ff2a",
+      "name": "煲仔饭",
+      "imageId": "dish-d9ab9fc6ff2a",
+      "path": "assets/dishes/dish-d9ab9fc6ff2a.webp",
+      "sha256": "272ce2984e9eb69769e0b3db6e36a815890458820086aae726f0c09a98ca7d14",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-c69af41bbe1d",
+      "name": "炒乌冬",
+      "imageId": "dish-c69af41bbe1d",
+      "path": "assets/dishes/dish-c69af41bbe1d.webp",
+      "sha256": "63bdddc1f9eb35db46492800de48174c85c19fb08e8331d5acfba46b14fbf82c",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-4f2b131552cc",
+      "name": "炸酱面",
+      "imageId": "dish-4f2b131552cc",
+      "path": "assets/dishes/dish-4f2b131552cc.webp",
+      "sha256": "7ce2e5ded041e6feec142bf53035a2ec01b631020052ceceba4174fb27d1fe13",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-ffa23be616b0",
+      "name": "牛肉粉",
+      "imageId": "dish-ffa23be616b0",
+      "path": "assets/dishes/dish-ffa23be616b0.webp",
+      "sha256": "1f59701b93f893ccbc54451efa0b54b95845b508ab0e20f1df9a45691af8a597",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-0b811c294067",
+      "name": "鸡丝凉面",
+      "imageId": "dish-0b811c294067",
+      "path": "assets/dishes/dish-0b811c294067.webp",
+      "sha256": "7fd747e5403b5fa37a43f9f49d0b7bb2b8f6090653bde22dba512d3eafeed1ed",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-79dac3a4cc19",
+      "name": "卤肉饭",
+      "imageId": "dish-79dac3a4cc19",
+      "path": "assets/dishes/dish-79dac3a4cc19.webp",
+      "sha256": "ee785fe58108f0497a74d974ed486d974f6064f03c8ef0eaca0bc1b6632fc8c1",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-095ddf7f41d2",
+      "name": "烧鸭饭",
+      "imageId": "dish-095ddf7f41d2",
+      "path": "assets/dishes/dish-095ddf7f41d2.webp",
+      "sha256": "7f22ae60f5a9578d24a568a3559e27b98e21040982b0825286206732d942c8ff",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-3789687abad2",
+      "name": "自选小火锅",
+      "imageId": "dish-3789687abad2",
+      "path": "assets/dishes/dish-3789687abad2.webp",
+      "sha256": "d4c216b3d4856aa5e3a33c7a93f582e0fcfb5026a4ce5535f0a641ce104c68e4",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "自选餐仅是可选搭配示意，不代表固定组成。"
+      }
+    },
+    {
+      "id": "dish-baa1368b227e",
+      "name": "鸡肉卷",
+      "imageId": "dish-baa1368b227e",
+      "path": "assets/dishes/dish-baa1368b227e.webp",
+      "sha256": "f35b9b6d3c61be5a73faddc0c7719ab3acb962893d54673cace9a9e259b2ae3c",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-af0d1f159247",
+      "name": "关东煮",
+      "imageId": "dish-af0d1f159247",
+      "path": "assets/dishes/dish-af0d1f159247.webp",
+      "sha256": "5c1ecbf0d60c280daacb9e249e6fd2861e8d2bb0235d5b5ed78d6b6c35c2bd1b",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-0526bafa2d17",
+      "name": "米线",
+      "imageId": "dish-0526bafa2d17",
+      "path": "assets/dishes/dish-0526bafa2d17.webp",
+      "sha256": "dbcb5b3e737d4b8ceef47182b4ff2a659a5ae2566288dd6c67954e91b96285c4",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-296683b491d9",
+      "name": "炒面",
+      "imageId": "dish-296683b491d9",
+      "path": "assets/dishes/dish-296683b491d9.webp",
+      "sha256": "0e84d172b5bc438e81dfdd2bfc56083c55e1c1b78b32af0736010f56b2d5426c",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-4fbdd7371f38",
+      "name": "鸡蛋灌饼",
+      "imageId": "dish-4fbdd7371f38",
+      "path": "assets/dishes/dish-4fbdd7371f38.webp",
+      "sha256": "23e97548e61f164c2d3e742ce3a6e45081e34b35a559666a25b16ba0b40024a5",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-d424be2109c6",
+      "name": "章鱼小丸子",
+      "imageId": "dish-d424be2109c6",
+      "path": "assets/dishes/dish-d424be2109c6.webp",
+      "sha256": "175a00cebdc00b56935686aca625cfa09ebaab6166c5a2076d73f94e7c6dd33e",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-1f20447302d5",
+      "name": "麻辣烫",
+      "imageId": "dish-1f20447302d5",
+      "path": "assets/dishes/dish-1f20447302d5.webp",
+      "sha256": "af3c965e6fed3b4fd1e172541957444aac72732f3827ed97b1bc8c35edfe0ce7",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-fb5cd60fe7ed",
+      "name": "螺蛳粉",
+      "imageId": "dish-fb5cd60fe7ed",
+      "path": "assets/dishes/dish-fb5cd60fe7ed.webp",
+      "sha256": "201505d95fe4f280caee7769b1ee74c0fc22beecf50b3c8d80eda40363cda5ce",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    },
+    {
+      "id": "dish-13f72833790d",
+      "name": "煎饼果子",
+      "imageId": "dish-13f72833790d",
+      "path": "assets/dishes/dish-13f72833790d.webp",
+      "sha256": "7ec2c0b4f265f804806c4e90ce8f5f4cd044438a7b77e43bc6b5f5b5be5d9bb9",
+      "review": {
+        "checkedAt": "2026-10-22",
+        "reviewer": "agent-visual-review",
+        "status": "label-compatible",
+        "scope": "名称、组合部分、器皿完整及页面素材边缘；不证明当前校内供应或实际配料",
+        "notes": "名称对应的食物类型可辨识，器皿完整；细节仍为示意。"
+      }
+    }
+  ]
+}

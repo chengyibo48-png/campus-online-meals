@@ -1,0 +1,1828 @@
+{
+  "records": 260,
+  "differentNames": 252,
+  "covered": 260,
+  "uncovered": [],
+  "editorialIds": [
+    {
+      "id": "dish-1b135c928808",
+      "name": "茄汁面",
+      "editorialId": "editorial-dish-1b135c928808",
+      "descriptionLength": 54,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-aa798c22d5e0",
+      "name": "生煎包+豆浆",
+      "editorialId": "editorial-dish-aa798c22d5e0",
+      "descriptionLength": 45,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-00e6a5395515",
+      "name": "酸辣面",
+      "editorialId": "editorial-dish-00e6a5395515",
+      "descriptionLength": 43,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-b8f3a4d366b7",
+      "name": "土豆粉",
+      "editorialId": "editorial-dish-b8f3a4d366b7",
+      "descriptionLength": 49,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-3c8c4eb51ebc",
+      "name": "热干面",
+      "editorialId": "editorial-dish-3c8c4eb51ebc",
+      "descriptionLength": 45,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-886c817d211d",
+      "name": "干拌荠菜小馄饨",
+      "editorialId": "editorial-dish-886c817d211d",
+      "descriptionLength": 42,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-05d5a1f3c5df",
+      "name": "包子+茶叶蛋",
+      "editorialId": "editorial-dish-05d5a1f3c5df",
+      "descriptionLength": 45,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-9c9bd9e128f3",
+      "name": "粥+玉米",
+      "editorialId": "editorial-dish-9c9bd9e128f3",
+      "descriptionLength": 40,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-3572880f383c",
+      "name": "胡辣汤",
+      "editorialId": "editorial-dish-3572880f383c",
+      "descriptionLength": 43,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-b2be61f902ec",
+      "name": "菌菇面",
+      "editorialId": "editorial-dish-b2be61f902ec",
+      "descriptionLength": 42,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-ebe65b32c381",
+      "name": "蛋炒饭",
+      "editorialId": "editorial-dish-ebe65b32c381",
+      "descriptionLength": 45,
+      "choosingTipLength": 33
+    },
+    {
+      "id": "dish-2221b3b364c6",
+      "name": "鸡蛋灌饼",
+      "editorialId": "editorial-dish-2221b3b364c6",
+      "descriptionLength": 40,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-1c6dcba4ea41",
+      "name": "豆浆油条",
+      "editorialId": "editorial-dish-1c6dcba4ea41",
+      "descriptionLength": 39,
+      "choosingTipLength": 34
+    },
+    {
+      "id": "dish-123ec3d5c3e2",
+      "name": "鸡蛋面",
+      "editorialId": "editorial-dish-123ec3d5c3e2",
+      "descriptionLength": 45,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-9d5bec5abb9b",
+      "name": "玉米粥",
+      "editorialId": "editorial-dish-9d5bec5abb9b",
+      "descriptionLength": 43,
+      "choosingTipLength": 33
+    },
+    {
+      "id": "dish-f2dd308e6a5b",
+      "name": "锅贴",
+      "editorialId": "editorial-dish-f2dd308e6a5b",
+      "descriptionLength": 39,
+      "choosingTipLength": 25
+    },
+    {
+      "id": "dish-74bf42dc48d2",
+      "name": "鲜肉锅贴",
+      "editorialId": "editorial-dish-74bf42dc48d2",
+      "descriptionLength": 41,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-33cc53fe698f",
+      "name": "皮蛋瘦肉粥",
+      "editorialId": "editorial-dish-33cc53fe698f",
+      "descriptionLength": 43,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-027140dc1bcc",
+      "name": "鲜肉馄饨",
+      "editorialId": "editorial-dish-027140dc1bcc",
+      "descriptionLength": 38,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-f7669df9a3c3",
+      "name": "烧麦",
+      "editorialId": "editorial-dish-f7669df9a3c3",
+      "descriptionLength": 41,
+      "choosingTipLength": 33
+    },
+    {
+      "id": "dish-fda60a6ef328",
+      "name": "手抓饼",
+      "editorialId": "editorial-dish-fda60a6ef328",
+      "descriptionLength": 43,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-af0b39a5575c",
+      "name": "鸡蛋饼",
+      "editorialId": "editorial-dish-af0b39a5575c",
+      "descriptionLength": 42,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-eb76574e5fb3",
+      "name": "肉夹馍",
+      "editorialId": "editorial-dish-eb76574e5fb3",
+      "descriptionLength": 40,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-13d7f908420e",
+      "name": "红豆饼",
+      "editorialId": "editorial-dish-13d7f908420e",
+      "descriptionLength": 42,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-e9e87bff35f7",
+      "name": "煎饺",
+      "editorialId": "editorial-dish-e9e87bff35f7",
+      "descriptionLength": 41,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-f6d6fc511237",
+      "name": "糯米鸡",
+      "editorialId": "editorial-dish-f6d6fc511237",
+      "descriptionLength": 47,
+      "choosingTipLength": 33
+    },
+    {
+      "id": "dish-abb3c2b369b6",
+      "name": "三鲜米线",
+      "editorialId": "editorial-dish-abb3c2b369b6",
+      "descriptionLength": 39,
+      "choosingTipLength": 34
+    },
+    {
+      "id": "dish-9ef81dc62d93",
+      "name": "生煎馄饨",
+      "editorialId": "editorial-dish-9ef81dc62d93",
+      "descriptionLength": 44,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-e1a0c1cf8052",
+      "name": "南瓜粥",
+      "editorialId": "editorial-dish-e1a0c1cf8052",
+      "descriptionLength": 42,
+      "choosingTipLength": 33
+    },
+    {
+      "id": "dish-09f09e588331",
+      "name": "小笼包",
+      "editorialId": "editorial-dish-09f09e588331",
+      "descriptionLength": 41,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-74bc24706d48",
+      "name": "豆腐脑",
+      "editorialId": "editorial-dish-74bc24706d48",
+      "descriptionLength": 42,
+      "choosingTipLength": 33
+    },
+    {
+      "id": "dish-5531a9332445",
+      "name": "蔬菜捞面",
+      "editorialId": "editorial-dish-5531a9332445",
+      "descriptionLength": 44,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-0c1cfef3350c",
+      "name": "海鲜焖面",
+      "editorialId": "editorial-dish-0c1cfef3350c",
+      "descriptionLength": 39,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-6a7156c395e0",
+      "name": "螺蛳粉",
+      "editorialId": "editorial-dish-6a7156c395e0",
+      "descriptionLength": 42,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-5e9bbb8cce24",
+      "name": "自选餐",
+      "editorialId": "editorial-dish-5e9bbb8cce24",
+      "descriptionLength": 43,
+      "choosingTipLength": 34
+    },
+    {
+      "id": "dish-7f070a45c4a4",
+      "name": "酸辣粉",
+      "editorialId": "editorial-dish-7f070a45c4a4",
+      "descriptionLength": 41,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-d7f0ae7c6892",
+      "name": "土豆烧鸡盖饭",
+      "editorialId": "editorial-dish-d7f0ae7c6892",
+      "descriptionLength": 38,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-2a9181213b2b",
+      "name": "牛肉面",
+      "editorialId": "editorial-dish-2a9181213b2b",
+      "descriptionLength": 44,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-f0b0d31b7642",
+      "name": "番茄鸡蛋盖饭",
+      "editorialId": "editorial-dish-f0b0d31b7642",
+      "descriptionLength": 42,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-1e1563b3a0d0",
+      "name": "石锅拌饭",
+      "editorialId": "editorial-dish-1e1563b3a0d0",
+      "descriptionLength": 44,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-68091b156625",
+      "name": "鱿鱼五花肉拌饭",
+      "editorialId": "editorial-dish-68091b156625",
+      "descriptionLength": 44,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-a65eb3e09be7",
+      "name": "麻辣拌+红油抄手",
+      "editorialId": "editorial-dish-a65eb3e09be7",
+      "descriptionLength": 46,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-66cccb24b4cd",
+      "name": "铁板豆腐+鸡排",
+      "editorialId": "editorial-dish-66cccb24b4cd",
+      "descriptionLength": 44,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-38aadc2430df",
+      "name": "干拌面",
+      "editorialId": "editorial-dish-38aadc2430df",
+      "descriptionLength": 42,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-e93a4f420684",
+      "name": "香菇鸡饭",
+      "editorialId": "editorial-dish-e93a4f420684",
+      "descriptionLength": 40,
+      "choosingTipLength": 24
+    },
+    {
+      "id": "dish-4e4739fc4325",
+      "name": "鱼香肉丝饭",
+      "editorialId": "editorial-dish-4e4739fc4325",
+      "descriptionLength": 48,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-73862c214c4b",
+      "name": "鸡排饭",
+      "editorialId": "editorial-dish-73862c214c4b",
+      "descriptionLength": 44,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-f6ab9034a348",
+      "name": "宫保鸡丁饭",
+      "editorialId": "editorial-dish-f6ab9034a348",
+      "descriptionLength": 44,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-53a4d06cb3e3",
+      "name": "回锅肉饭",
+      "editorialId": "editorial-dish-53a4d06cb3e3",
+      "descriptionLength": 44,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-1c2c7ab65e65",
+      "name": "砂锅米线",
+      "editorialId": "editorial-dish-1c2c7ab65e65",
+      "descriptionLength": 43,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-c237c9263ffa",
+      "name": "炒河粉",
+      "editorialId": "editorial-dish-c237c9263ffa",
+      "descriptionLength": 45,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-8900bb4bc717",
+      "name": "羊肉烩面",
+      "editorialId": "editorial-dish-8900bb4bc717",
+      "descriptionLength": 42,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-003401f58bcf",
+      "name": "酸汤水饺",
+      "editorialId": "editorial-dish-003401f58bcf",
+      "descriptionLength": 39,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-1306b065159e",
+      "name": "三鲜米线",
+      "editorialId": "editorial-dish-1306b065159e",
+      "descriptionLength": 39,
+      "choosingTipLength": 34
+    },
+    {
+      "id": "dish-8a3705cac9b6",
+      "name": "砂锅土豆粉",
+      "editorialId": "editorial-dish-8a3705cac9b6",
+      "descriptionLength": 39,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-eb8d1854c504",
+      "name": "自助餐",
+      "editorialId": "editorial-dish-eb8d1854c504",
+      "descriptionLength": 45,
+      "choosingTipLength": 33
+    },
+    {
+      "id": "dish-d2b7c8298f10",
+      "name": "红烧茄子饭",
+      "editorialId": "editorial-dish-d2b7c8298f10",
+      "descriptionLength": 38,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-6402fee78cbe",
+      "name": "香辣鸡腿饭",
+      "editorialId": "editorial-dish-6402fee78cbe",
+      "descriptionLength": 43,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-a01421de348a",
+      "name": "盖浇面",
+      "editorialId": "editorial-dish-a01421de348a",
+      "descriptionLength": 40,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-842d40863d0a",
+      "name": "黄焖鸡",
+      "editorialId": "editorial-dish-842d40863d0a",
+      "descriptionLength": 41,
+      "choosingTipLength": 33
+    },
+    {
+      "id": "dish-53c26bcaf923",
+      "name": "兰州拉面",
+      "editorialId": "editorial-dish-53c26bcaf923",
+      "descriptionLength": 44,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-d541c22f12af",
+      "name": "蛋包饭",
+      "editorialId": "editorial-dish-d541c22f12af",
+      "descriptionLength": 41,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-eced8604626f",
+      "name": "鱼香茄子饭",
+      "editorialId": "editorial-dish-eced8604626f",
+      "descriptionLength": 41,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-2c400e5bee2e",
+      "name": "麻辣香锅",
+      "editorialId": "editorial-dish-2c400e5bee2e",
+      "descriptionLength": 41,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-b708133b9bce",
+      "name": "烤肉拌饭",
+      "editorialId": "editorial-dish-b708133b9bce",
+      "descriptionLength": 40,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-702627af5af1",
+      "name": "香辣鸡排面",
+      "editorialId": "editorial-dish-702627af5af1",
+      "descriptionLength": 41,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-1d06e6357dc0",
+      "name": "菌菇面",
+      "editorialId": "editorial-dish-1d06e6357dc0",
+      "descriptionLength": 42,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-d185c6a5856b",
+      "name": "臊子面",
+      "editorialId": "editorial-dish-d185c6a5856b",
+      "descriptionLength": 41,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-a873c05a5f17",
+      "name": "自选两荤一素",
+      "editorialId": "editorial-dish-a873c05a5f17",
+      "descriptionLength": 42,
+      "choosingTipLength": 33
+    },
+    {
+      "id": "dish-100fc879ebd7",
+      "name": "酸辣面",
+      "editorialId": "editorial-dish-100fc879ebd7",
+      "descriptionLength": 43,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-99ad6f3286bc",
+      "name": "干拌荠菜小馄饨",
+      "editorialId": "editorial-dish-99ad6f3286bc",
+      "descriptionLength": 42,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-ea2ac8d441ec",
+      "name": "荤素自选餐",
+      "editorialId": "editorial-dish-ea2ac8d441ec",
+      "descriptionLength": 46,
+      "choosingTipLength": 36
+    },
+    {
+      "id": "dish-650675f8326e",
+      "name": "麻辣拌",
+      "editorialId": "editorial-dish-650675f8326e",
+      "descriptionLength": 44,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-2ab8883f031f",
+      "name": "红油抄手",
+      "editorialId": "editorial-dish-2ab8883f031f",
+      "descriptionLength": 35,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-601a949b68c7",
+      "name": "烤冷面",
+      "editorialId": "editorial-dish-601a949b68c7",
+      "descriptionLength": 39,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-b2dbe78efc12",
+      "name": "铁板豆腐+鸡排",
+      "editorialId": "editorial-dish-b2dbe78efc12",
+      "descriptionLength": 44,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-eede4606ff23",
+      "name": "红豆饼+玉米汁",
+      "editorialId": "editorial-dish-eede4606ff23",
+      "descriptionLength": 38,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-1bf38aceac27",
+      "name": "石锅拌饭",
+      "editorialId": "editorial-dish-1bf38aceac27",
+      "descriptionLength": 44,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-fae66258a5d2",
+      "name": "海鲜炒饭",
+      "editorialId": "editorial-dish-fae66258a5d2",
+      "descriptionLength": 43,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-d3e7bdaa09be",
+      "name": "香辣拌面",
+      "editorialId": "editorial-dish-d3e7bdaa09be",
+      "descriptionLength": 40,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-234abb432cbd",
+      "name": "酸汤面",
+      "editorialId": "editorial-dish-234abb432cbd",
+      "descriptionLength": 42,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-5f12e9d6b57d",
+      "name": "鸡肉焖饭",
+      "editorialId": "editorial-dish-5f12e9d6b57d",
+      "descriptionLength": 41,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-0caa2a9f7be8",
+      "name": "酸汤馄饨",
+      "editorialId": "editorial-dish-0caa2a9f7be8",
+      "descriptionLength": 42,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-d9ab9fc6ff2a",
+      "name": "煲仔饭",
+      "editorialId": "editorial-dish-d9ab9fc6ff2a",
+      "descriptionLength": 43,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-c69af41bbe1d",
+      "name": "炒乌冬",
+      "editorialId": "editorial-dish-c69af41bbe1d",
+      "descriptionLength": 38,
+      "choosingTipLength": 25
+    },
+    {
+      "id": "dish-4f2b131552cc",
+      "name": "炸酱面",
+      "editorialId": "editorial-dish-4f2b131552cc",
+      "descriptionLength": 36,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-ffa23be616b0",
+      "name": "牛肉粉",
+      "editorialId": "editorial-dish-ffa23be616b0",
+      "descriptionLength": 42,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-0b811c294067",
+      "name": "鸡丝凉面",
+      "editorialId": "editorial-dish-0b811c294067",
+      "descriptionLength": 39,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-79dac3a4cc19",
+      "name": "卤肉饭",
+      "editorialId": "editorial-dish-79dac3a4cc19",
+      "descriptionLength": 44,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-095ddf7f41d2",
+      "name": "烧鸭饭",
+      "editorialId": "editorial-dish-095ddf7f41d2",
+      "descriptionLength": 41,
+      "choosingTipLength": 23
+    },
+    {
+      "id": "dish-3789687abad2",
+      "name": "自选小火锅",
+      "editorialId": "editorial-dish-3789687abad2",
+      "descriptionLength": 40,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-baa1368b227e",
+      "name": "鸡肉卷",
+      "editorialId": "editorial-dish-baa1368b227e",
+      "descriptionLength": 39,
+      "choosingTipLength": 25
+    },
+    {
+      "id": "dish-af0d1f159247",
+      "name": "关东煮",
+      "editorialId": "editorial-dish-af0d1f159247",
+      "descriptionLength": 41,
+      "choosingTipLength": 35
+    },
+    {
+      "id": "dish-0526bafa2d17",
+      "name": "米线",
+      "editorialId": "editorial-dish-0526bafa2d17",
+      "descriptionLength": 43,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-296683b491d9",
+      "name": "炒面",
+      "editorialId": "editorial-dish-296683b491d9",
+      "descriptionLength": 41,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-4fbdd7371f38",
+      "name": "鸡蛋灌饼",
+      "editorialId": "editorial-dish-4fbdd7371f38",
+      "descriptionLength": 40,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-d424be2109c6",
+      "name": "章鱼小丸子",
+      "editorialId": "editorial-dish-d424be2109c6",
+      "descriptionLength": 43,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-1f20447302d5",
+      "name": "麻辣烫",
+      "editorialId": "editorial-dish-1f20447302d5",
+      "descriptionLength": 42,
+      "choosingTipLength": 35
+    },
+    {
+      "id": "dish-fb5cd60fe7ed",
+      "name": "螺蛳粉",
+      "editorialId": "editorial-dish-fb5cd60fe7ed",
+      "descriptionLength": 42,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-13f72833790d",
+      "name": "煎饼果子",
+      "editorialId": "editorial-dish-13f72833790d",
+      "descriptionLength": 35,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-1165499460f8",
+      "name": "鲜肉包",
+      "editorialId": "editorial-dish-1165499460f8",
+      "descriptionLength": 39,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-466418a6a895",
+      "name": "香菇青菜包",
+      "editorialId": "editorial-dish-466418a6a895",
+      "descriptionLength": 41,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-3ea3ccc8fb9c",
+      "name": "豆沙包",
+      "editorialId": "editorial-dish-3ea3ccc8fb9c",
+      "descriptionLength": 38,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-13b8b9749e58",
+      "name": "韭菜鸡蛋包",
+      "editorialId": "editorial-dish-13b8b9749e58",
+      "descriptionLength": 41,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-adfb76314e3a",
+      "name": "粉丝包",
+      "editorialId": "editorial-dish-adfb76314e3a",
+      "descriptionLength": 41,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-08f407d0e18b",
+      "name": "花卷",
+      "editorialId": "editorial-dish-08f407d0e18b",
+      "descriptionLength": 42,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-4f5782af6b3e",
+      "name": "馒头",
+      "editorialId": "editorial-dish-4f5782af6b3e",
+      "descriptionLength": 44,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-6bf1d1e61784",
+      "name": "葱油饼",
+      "editorialId": "editorial-dish-6bf1d1e61784",
+      "descriptionLength": 36,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-0b6422b5abcd",
+      "name": "芝麻烧饼",
+      "editorialId": "editorial-dish-0b6422b5abcd",
+      "descriptionLength": 39,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-a9958774d943",
+      "name": "牛肉烧饼",
+      "editorialId": "editorial-dish-a9958774d943",
+      "descriptionLength": 37,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-da8f086d5482",
+      "name": "油酥饼",
+      "editorialId": "editorial-dish-da8f086d5482",
+      "descriptionLength": 39,
+      "choosingTipLength": 25
+    },
+    {
+      "id": "dish-1d8066e00175",
+      "name": "韭菜盒子",
+      "editorialId": "editorial-dish-1d8066e00175",
+      "descriptionLength": 39,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-2e7e2d005ee8",
+      "name": "萝卜丝饼",
+      "editorialId": "editorial-dish-2e7e2d005ee8",
+      "descriptionLength": 37,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-37a17f1fb0e8",
+      "name": "红糖发糕",
+      "editorialId": "editorial-dish-37a17f1fb0e8",
+      "descriptionLength": 39,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-25c80b542404",
+      "name": "玉米发糕",
+      "editorialId": "editorial-dish-25c80b542404",
+      "descriptionLength": 40,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-930a225fa9f5",
+      "name": "蒸红薯",
+      "editorialId": "editorial-dish-930a225fa9f5",
+      "descriptionLength": 44,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-6864fe54846c",
+      "name": "油泼面",
+      "editorialId": "editorial-dish-6864fe54846c",
+      "descriptionLength": 39,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-7d27f70598eb",
+      "name": "葱油拌面",
+      "editorialId": "editorial-dish-7d27f70598eb",
+      "descriptionLength": 41,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-d81bd7e78904",
+      "name": "担担面",
+      "editorialId": "editorial-dish-d81bd7e78904",
+      "descriptionLength": 39,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-480b01513cb2",
+      "name": "重庆小面",
+      "editorialId": "editorial-dish-480b01513cb2",
+      "descriptionLength": 39,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-d2626f0ca553",
+      "name": "刀削面",
+      "editorialId": "editorial-dish-d2626f0ca553",
+      "descriptionLength": 42,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-ebf42a40616b",
+      "name": "豆角焖面",
+      "editorialId": "editorial-dish-ebf42a40616b",
+      "descriptionLength": 42,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-d4d8a45c9ff1",
+      "name": "河南蒸卤面",
+      "editorialId": "editorial-dish-d4d8a45c9ff1",
+      "descriptionLength": 41,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-0e4920680fab",
+      "name": "浆面条",
+      "editorialId": "editorial-dish-0e4920680fab",
+      "descriptionLength": 42,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-848191cd2b92",
+      "name": "烩麻食",
+      "editorialId": "editorial-dish-848191cd2b92",
+      "descriptionLength": 39,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-1eaf24e84345",
+      "name": "炒饸饹",
+      "editorialId": "editorial-dish-1eaf24e84345",
+      "descriptionLength": 41,
+      "choosingTipLength": 24
+    },
+    {
+      "id": "dish-ecf0243151da",
+      "name": "牛肉炒拉条",
+      "editorialId": "editorial-dish-ecf0243151da",
+      "descriptionLength": 39,
+      "choosingTipLength": 23
+    },
+    {
+      "id": "dish-cd74351f3cb6",
+      "name": "凉皮",
+      "editorialId": "editorial-dish-cd74351f3cb6",
+      "descriptionLength": 43,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-6220e5053a19",
+      "name": "凉拌荞麦面",
+      "editorialId": "editorial-dish-6220e5053a19",
+      "descriptionLength": 39,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-a897049ce519",
+      "name": "肥肠粉",
+      "editorialId": "editorial-dish-a897049ce519",
+      "descriptionLength": 41,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-12242efe68e0",
+      "name": "鸭血粉丝汤",
+      "editorialId": "editorial-dish-12242efe68e0",
+      "descriptionLength": 40,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-bf87dcfd867e",
+      "name": "桂林米粉",
+      "editorialId": "editorial-dish-bf87dcfd867e",
+      "descriptionLength": 42,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-f65a283f2eab",
+      "name": "云南饵丝",
+      "editorialId": "editorial-dish-f65a283f2eab",
+      "descriptionLength": 41,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-24b9d2cb6a85",
+      "name": "酸菜鱼米线",
+      "editorialId": "editorial-dish-24b9d2cb6a85",
+      "descriptionLength": 41,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-02e831d63a96",
+      "name": "咖喱鸡饭",
+      "editorialId": "editorial-dish-02e831d63a96",
+      "descriptionLength": 41,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-134ead275ca6",
+      "name": "咖喱牛肉饭",
+      "editorialId": "editorial-dish-134ead275ca6",
+      "descriptionLength": 40,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-1854c044dc9d",
+      "name": "照烧鸡腿饭",
+      "editorialId": "editorial-dish-1854c044dc9d",
+      "descriptionLength": 36,
+      "choosingTipLength": 24
+    },
+    {
+      "id": "dish-b4cf2f84e120",
+      "name": "黑椒牛柳饭",
+      "editorialId": "editorial-dish-b4cf2f84e120",
+      "descriptionLength": 39,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-19009116e04e",
+      "name": "土豆牛腩饭",
+      "editorialId": "editorial-dish-19009116e04e",
+      "descriptionLength": 37,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-54fb7db06d7e",
+      "name": "梅菜扣肉饭",
+      "editorialId": "editorial-dish-54fb7db06d7e",
+      "descriptionLength": 40,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-98534f1833f5",
+      "name": "红烧肉饭",
+      "editorialId": "editorial-dish-98534f1833f5",
+      "descriptionLength": 40,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-62c3f3c2909a",
+      "name": "豉汁排骨饭",
+      "editorialId": "editorial-dish-62c3f3c2909a",
+      "descriptionLength": 40,
+      "choosingTipLength": 22
+    },
+    {
+      "id": "dish-3b6e3e90c992",
+      "name": "糖醋里脊饭",
+      "editorialId": "editorial-dish-3b6e3e90c992",
+      "descriptionLength": 40,
+      "choosingTipLength": 25
+    },
+    {
+      "id": "dish-a6f473413155",
+      "name": "木须肉饭",
+      "editorialId": "editorial-dish-a6f473413155",
+      "descriptionLength": 42,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-47d33f57935f",
+      "name": "家常豆腐饭",
+      "editorialId": "editorial-dish-47d33f57935f",
+      "descriptionLength": 38,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-815a0f693283",
+      "name": "肉末豆角饭",
+      "editorialId": "editorial-dish-815a0f693283",
+      "descriptionLength": 40,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-ac13158911bc",
+      "name": "咖喱土豆饭",
+      "editorialId": "editorial-dish-ac13158911bc",
+      "descriptionLength": 44,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-f6ce3d914cd1",
+      "name": "菠萝炒饭",
+      "editorialId": "editorial-dish-f6ce3d914cd1",
+      "descriptionLength": 41,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-b6475473ca7c",
+      "name": "腊味炒饭",
+      "editorialId": "editorial-dish-b6475473ca7c",
+      "descriptionLength": 41,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-097984f64b59",
+      "name": "咸蛋黄炒饭",
+      "editorialId": "editorial-dish-097984f64b59",
+      "descriptionLength": 36,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-dc8cdc28d690",
+      "name": "青椒肉丝饭",
+      "editorialId": "editorial-dish-dc8cdc28d690",
+      "descriptionLength": 42,
+      "choosingTipLength": 24
+    },
+    {
+      "id": "dish-bc8c167ac1e8",
+      "name": "地三鲜饭",
+      "editorialId": "editorial-dish-bc8c167ac1e8",
+      "descriptionLength": 42,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-7f6f6444e1c1",
+      "name": "西红柿炒鸡蛋",
+      "editorialId": "editorial-dish-7f6f6444e1c1",
+      "descriptionLength": 43,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-18c09e179cff",
+      "name": "地三鲜",
+      "editorialId": "editorial-dish-18c09e179cff",
+      "descriptionLength": 39,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-257e525ac6bb",
+      "name": "鱼香肉丝",
+      "editorialId": "editorial-dish-257e525ac6bb",
+      "descriptionLength": 41,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-85d749b59738",
+      "name": "宫保鸡丁",
+      "editorialId": "editorial-dish-85d749b59738",
+      "descriptionLength": 37,
+      "choosingTipLength": 33
+    },
+    {
+      "id": "dish-5df238de60f8",
+      "name": "麻婆豆腐",
+      "editorialId": "editorial-dish-5df238de60f8",
+      "descriptionLength": 37,
+      "choosingTipLength": 33
+    },
+    {
+      "id": "dish-fb7994cc09dc",
+      "name": "干煸豆角",
+      "editorialId": "editorial-dish-fb7994cc09dc",
+      "descriptionLength": 39,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-3014d78585e3",
+      "name": "蒜蓉西兰花",
+      "editorialId": "editorial-dish-3014d78585e3",
+      "descriptionLength": 37,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-723e1397b077",
+      "name": "手撕包菜",
+      "editorialId": "editorial-dish-723e1397b077",
+      "descriptionLength": 39,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-2e87552c2f05",
+      "name": "清炒油麦菜",
+      "editorialId": "editorial-dish-2e87552c2f05",
+      "descriptionLength": 37,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-afb30f10f9a6",
+      "name": "蒜薹炒肉",
+      "editorialId": "editorial-dish-afb30f10f9a6",
+      "descriptionLength": 37,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-39806ee771b2",
+      "name": "洋葱炒牛肉",
+      "editorialId": "editorial-dish-39806ee771b2",
+      "descriptionLength": 40,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-50738608f152",
+      "name": "木耳炒鸡蛋",
+      "editorialId": "editorial-dish-50738608f152",
+      "descriptionLength": 36,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-5096ab98c8b6",
+      "name": "香菇滑鸡",
+      "editorialId": "editorial-dish-5096ab98c8b6",
+      "descriptionLength": 42,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-da6f65859fb8",
+      "name": "香干炒肉",
+      "editorialId": "editorial-dish-da6f65859fb8",
+      "descriptionLength": 38,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-4b3703455de6",
+      "name": "山药排骨汤",
+      "editorialId": "editorial-dish-4b3703455de6",
+      "descriptionLength": 40,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-01e469b55885",
+      "name": "冬瓜丸子汤",
+      "editorialId": "editorial-dish-01e469b55885",
+      "descriptionLength": 39,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-06ede24c280c",
+      "name": "萝卜牛腩煲",
+      "editorialId": "editorial-dish-06ede24c280c",
+      "descriptionLength": 38,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-7dff67793a9a",
+      "name": "番茄肥牛锅",
+      "editorialId": "editorial-dish-7dff67793a9a",
+      "descriptionLength": 39,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-3e6b5e85dcf7",
+      "name": "菌菇豆腐煲",
+      "editorialId": "editorial-dish-3e6b5e85dcf7",
+      "descriptionLength": 39,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-b755c01c4672",
+      "name": "莲子八宝粥",
+      "editorialId": "editorial-dish-b755c01c4672",
+      "descriptionLength": 41,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-635d50916a9c",
+      "name": "小米粥",
+      "editorialId": "editorial-dish-635d50916a9c",
+      "descriptionLength": 41,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-7e1ab784bb3a",
+      "name": "黑米粥",
+      "editorialId": "editorial-dish-7e1ab784bb3a",
+      "descriptionLength": 43,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-8430d5d08f2d",
+      "name": "绿豆粥",
+      "editorialId": "editorial-dish-8430d5d08f2d",
+      "descriptionLength": 38,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-c927711604c1",
+      "name": "银耳莲子羹",
+      "editorialId": "editorial-dish-c927711604c1",
+      "descriptionLength": 40,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-298f08500559",
+      "name": "金枪鱼饭团",
+      "editorialId": "editorial-dish-298f08500559",
+      "descriptionLength": 40,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-73cc4d06a467",
+      "name": "肉松饭团",
+      "editorialId": "editorial-dish-73cc4d06a467",
+      "descriptionLength": 35,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-d180dd9fe34e",
+      "name": "紫米饭团",
+      "editorialId": "editorial-dish-d180dd9fe34e",
+      "descriptionLength": 38,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-dd8b8457c0eb",
+      "name": "鸡蛋三明治",
+      "editorialId": "editorial-dish-dd8b8457c0eb",
+      "descriptionLength": 39,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-489cfbdffc36",
+      "name": "火腿三明治",
+      "editorialId": "editorial-dish-489cfbdffc36",
+      "descriptionLength": 39,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-93c2a29049b3",
+      "name": "烤鸡三明治",
+      "editorialId": "editorial-dish-93c2a29049b3",
+      "descriptionLength": 37,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-4420273304c7",
+      "name": "鸡胸肉沙拉",
+      "editorialId": "editorial-dish-4420273304c7",
+      "descriptionLength": 43,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-58f4019a8de2",
+      "name": "金枪鱼沙拉",
+      "editorialId": "editorial-dish-58f4019a8de2",
+      "descriptionLength": 41,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-9a02477354d7",
+      "name": "土豆泥沙拉",
+      "editorialId": "editorial-dish-9a02477354d7",
+      "descriptionLength": 41,
+      "choosingTipLength": 33
+    },
+    {
+      "id": "dish-b4cd8a6c75e7",
+      "name": "南瓜杂粮碗",
+      "editorialId": "editorial-dish-b4cd8a6c75e7",
+      "descriptionLength": 42,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-59f2a65decef",
+      "name": "玉米蔬菜卷",
+      "editorialId": "editorial-dish-59f2a65decef",
+      "descriptionLength": 37,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-2c86af4b6f21",
+      "name": "紫薯燕麦碗",
+      "editorialId": "editorial-dish-2c86af4b6f21",
+      "descriptionLength": 39,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-7e12e60443f8",
+      "name": "铁板牛肉",
+      "editorialId": "editorial-dish-7e12e60443f8",
+      "descriptionLength": 39,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-41c2d0cbe47a",
+      "name": "黑椒铁板意面",
+      "editorialId": "editorial-dish-41c2d0cbe47a",
+      "descriptionLength": 38,
+      "choosingTipLength": 32
+    },
+    {
+      "id": "dish-e354cfae80e2",
+      "name": "香煎鸡排",
+      "editorialId": "editorial-dish-e354cfae80e2",
+      "descriptionLength": 42,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-bcf87e1d6b60",
+      "name": "炸鸡翅",
+      "editorialId": "editorial-dish-bcf87e1d6b60",
+      "descriptionLength": 38,
+      "choosingTipLength": 34
+    },
+    {
+      "id": "dish-64bc6be0a88b",
+      "name": "炸藕盒",
+      "editorialId": "editorial-dish-64bc6be0a88b",
+      "descriptionLength": 38,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-b9da91ca206e",
+      "name": "炸蘑菇",
+      "editorialId": "editorial-dish-b9da91ca206e",
+      "descriptionLength": 34,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-1bfe96f49849",
+      "name": "双皮奶",
+      "editorialId": "editorial-dish-1bfe96f49849",
+      "descriptionLength": 41,
+      "choosingTipLength": 33
+    },
+    {
+      "id": "dish-3167935158fe",
+      "name": "芒果西米露",
+      "editorialId": "editorial-dish-3167935158fe",
+      "descriptionLength": 37,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-018e10f21a1b",
+      "name": "红豆糯米糍",
+      "editorialId": "editorial-dish-018e10f21a1b",
+      "descriptionLength": 34,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-9bd003fabbe3",
+      "name": "芝麻汤圆",
+      "editorialId": "editorial-dish-9bd003fabbe3",
+      "descriptionLength": 37,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-2a7fb107b112",
+      "name": "红糖糍粑",
+      "editorialId": "editorial-dish-2a7fb107b112",
+      "descriptionLength": 38,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-4f7fe754bbf6",
+      "name": "水果酸奶杯",
+      "editorialId": "editorial-dish-4f7fe754bbf6",
+      "descriptionLength": 40,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-f53f28bae23b",
+      "name": "番茄牛腩饭",
+      "editorialId": "editorial-dish-f53f28bae23b",
+      "descriptionLength": 42,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-6880dfe80101",
+      "name": "黑椒鸡肉饭",
+      "editorialId": "editorial-dish-6880dfe80101",
+      "descriptionLength": 40,
+      "choosingTipLength": 25
+    },
+    {
+      "id": "dish-272e65501fb2",
+      "name": "蜜汁叉烧饭",
+      "editorialId": "editorial-dish-272e65501fb2",
+      "descriptionLength": 41,
+      "choosingTipLength": 25
+    },
+    {
+      "id": "dish-43704d39d3d5",
+      "name": "清蒸鲈鱼饭",
+      "editorialId": "editorial-dish-43704d39d3d5",
+      "descriptionLength": 40,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-73a94221b7be",
+      "name": "香菇肉末饭",
+      "editorialId": "editorial-dish-73a94221b7be",
+      "descriptionLength": 36,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-3bc134f8d56d",
+      "name": "西兰花虾仁饭",
+      "editorialId": "editorial-dish-3bc134f8d56d",
+      "descriptionLength": 39,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-36b1e85ec396",
+      "name": "西芹牛肉饭",
+      "editorialId": "editorial-dish-36b1e85ec396",
+      "descriptionLength": 41,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-451124d63f8f",
+      "name": "西葫芦鸡蛋饭",
+      "editorialId": "editorial-dish-451124d63f8f",
+      "descriptionLength": 38,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-98a76bdd9169",
+      "name": "冬瓜烧肉饭",
+      "editorialId": "editorial-dish-98a76bdd9169",
+      "descriptionLength": 41,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-a1c1cf5102ab",
+      "name": "青笋肉片饭",
+      "editorialId": "editorial-dish-a1c1cf5102ab",
+      "descriptionLength": 41,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-5b529ac52830",
+      "name": "豆豉鲮鱼饭",
+      "editorialId": "editorial-dish-5b529ac52830",
+      "descriptionLength": 44,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-131799f3608d",
+      "name": "咖喱虾仁饭",
+      "editorialId": "editorial-dish-131799f3608d",
+      "descriptionLength": 41,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-e39516bcd8d6",
+      "name": "酸菜肥牛饭",
+      "editorialId": "editorial-dish-e39516bcd8d6",
+      "descriptionLength": 38,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-98e28afa0360",
+      "name": "茭白肉丝饭",
+      "editorialId": "editorial-dish-98e28afa0360",
+      "descriptionLength": 42,
+      "choosingTipLength": 25
+    },
+    {
+      "id": "dish-2babbc9da4cf",
+      "name": "香干肉丝饭",
+      "editorialId": "editorial-dish-2babbc9da4cf",
+      "descriptionLength": 42,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-74d1bd4598f7",
+      "name": "豆角茄子饭",
+      "editorialId": "editorial-dish-74d1bd4598f7",
+      "descriptionLength": 37,
+      "choosingTipLength": 25
+    },
+    {
+      "id": "dish-c9826d5a5b9e",
+      "name": "蒜苔肉丝饭",
+      "editorialId": "editorial-dish-c9826d5a5b9e",
+      "descriptionLength": 38,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-699835213404",
+      "name": "滑蛋牛肉饭",
+      "editorialId": "editorial-dish-699835213404",
+      "descriptionLength": 40,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-4c47363dc19b",
+      "name": "照烧豆腐饭",
+      "editorialId": "editorial-dish-4c47363dc19b",
+      "descriptionLength": 37,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-5b12bbd2915f",
+      "name": "黑椒杏鲍菇饭",
+      "editorialId": "editorial-dish-5b12bbd2915f",
+      "descriptionLength": 35,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-45b73db5a31c",
+      "name": "西红柿鸡蛋面",
+      "editorialId": "editorial-dish-45b73db5a31c",
+      "descriptionLength": 45,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-88622aa9f073",
+      "name": "排骨汤面",
+      "editorialId": "editorial-dish-88622aa9f073",
+      "descriptionLength": 41,
+      "choosingTipLength": 23
+    },
+    {
+      "id": "dish-90aef914ec0c",
+      "name": "香菇鸡丝面",
+      "editorialId": "editorial-dish-90aef914ec0c",
+      "descriptionLength": 41,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-abc739e679c3",
+      "name": "雪菜肉丝面",
+      "editorialId": "editorial-dish-abc739e679c3",
+      "descriptionLength": 41,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-f2e9887a2463",
+      "name": "榨菜肉丝面",
+      "editorialId": "editorial-dish-f2e9887a2463",
+      "descriptionLength": 39,
+      "choosingTipLength": 24
+    },
+    {
+      "id": "dish-2bc6a2196f28",
+      "name": "豌杂面",
+      "editorialId": "editorial-dish-2bc6a2196f28",
+      "descriptionLength": 40,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-a7fd0cfa19d8",
+      "name": "牛肉拌面",
+      "editorialId": "editorial-dish-a7fd0cfa19d8",
+      "descriptionLength": 42,
+      "choosingTipLength": 23
+    },
+    {
+      "id": "dish-4d1ae2771bb4",
+      "name": "炸酱刀削面",
+      "editorialId": "editorial-dish-4d1ae2771bb4",
+      "descriptionLength": 40,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-0e3b6bd483b0",
+      "name": "西红柿鸡蛋烩面",
+      "editorialId": "editorial-dish-0e3b6bd483b0",
+      "descriptionLength": 37,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-334caf37843a",
+      "name": "鲜虾乌冬面",
+      "editorialId": "editorial-dish-334caf37843a",
+      "descriptionLength": 39,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-3376ab217ca1",
+      "name": "番茄肉酱意面",
+      "editorialId": "editorial-dish-3376ab217ca1",
+      "descriptionLength": 40,
+      "choosingTipLength": 24
+    },
+    {
+      "id": "dish-770a886f6591",
+      "name": "奶油蘑菇意面",
+      "editorialId": "editorial-dish-770a886f6591",
+      "descriptionLength": 41,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-76ea8f428cbb",
+      "name": "牛肉炒米粉",
+      "editorialId": "editorial-dish-76ea8f428cbb",
+      "descriptionLength": 34,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-05f7ed3c7081",
+      "name": "鸡蛋炒米粉",
+      "editorialId": "editorial-dish-05f7ed3c7081",
+      "descriptionLength": 38,
+      "choosingTipLength": 26
+    },
+    {
+      "id": "dish-dc69351b5126",
+      "name": "肉丝炒年糕",
+      "editorialId": "editorial-dish-dc69351b5126",
+      "descriptionLength": 44,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-1d270ca0d6c1",
+      "name": "香菇鸡肉河粉",
+      "editorialId": "editorial-dish-1d270ca0d6c1",
+      "descriptionLength": 41,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-402bdb8485e1",
+      "name": "韭菜鸡蛋水饺",
+      "editorialId": "editorial-dish-402bdb8485e1",
+      "descriptionLength": 42,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-b6eaf8a193fb",
+      "name": "猪肉白菜水饺",
+      "editorialId": "editorial-dish-b6eaf8a193fb",
+      "descriptionLength": 39,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-11baf9436c15",
+      "name": "猪肉芹菜水饺",
+      "editorialId": "editorial-dish-11baf9436c15",
+      "descriptionLength": 40,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-c8a460316596",
+      "name": "牛肉洋葱水饺",
+      "editorialId": "editorial-dish-c8a460316596",
+      "descriptionLength": 41,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-4f24c4f8c726",
+      "name": "虾仁三鲜水饺",
+      "editorialId": "editorial-dish-4f24c4f8c726",
+      "descriptionLength": 38,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-bd13a13df964",
+      "name": "香菇鸡肉水饺",
+      "editorialId": "editorial-dish-bd13a13df964",
+      "descriptionLength": 36,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-97c38829c67f",
+      "name": "玉米猪肉蒸饺",
+      "editorialId": "editorial-dish-97c38829c67f",
+      "descriptionLength": 41,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-f93ba7bc4cb1",
+      "name": "鲜虾云吞面",
+      "editorialId": "editorial-dish-f93ba7bc4cb1",
+      "descriptionLength": 40,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-92c4f2c0aed3",
+      "name": "牛肉酸汤馄饨",
+      "editorialId": "editorial-dish-92c4f2c0aed3",
+      "descriptionLength": 38,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-09512841e248",
+      "name": "红油钟水饺",
+      "editorialId": "editorial-dish-09512841e248",
+      "descriptionLength": 36,
+      "choosingTipLength": 27
+    },
+    {
+      "id": "dish-119da7a740a6",
+      "name": "小米粥＋鸡蛋＋蒸南瓜",
+      "editorialId": "editorial-dish-119da7a740a6",
+      "descriptionLength": 41,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-2e43452148e4",
+      "name": "鲜肉包＋豆浆",
+      "editorialId": "editorial-dish-2e43452148e4",
+      "descriptionLength": 40,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-ba4b97e78164",
+      "name": "菜包＋鸡蛋＋小米粥",
+      "editorialId": "editorial-dish-ba4b97e78164",
+      "descriptionLength": 39,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-9a38747f0ab2",
+      "name": "杂粮煎饼＋无糖豆浆",
+      "editorialId": "editorial-dish-9a38747f0ab2",
+      "descriptionLength": 38,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-f43a1959fc43",
+      "name": "全麦鸡蛋三明治＋牛奶",
+      "editorialId": "editorial-dish-f43a1959fc43",
+      "descriptionLength": 41,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-ef036b3095f3",
+      "name": "鸡肉蔬菜卷＋牛奶",
+      "editorialId": "editorial-dish-ef036b3095f3",
+      "descriptionLength": 42,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-591d90d0ae4a",
+      "name": "胡辣汤＋牛肉馅饼",
+      "editorialId": "editorial-dish-591d90d0ae4a",
+      "descriptionLength": 46,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-5c74676358cf",
+      "name": "燕麦粥＋鸡蛋＋香蕉",
+      "editorialId": "editorial-dish-5c74676358cf",
+      "descriptionLength": 38,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-9eacf6dc536d",
+      "name": "糙米鸡肉蔬菜碗",
+      "editorialId": "editorial-dish-9eacf6dc536d",
+      "descriptionLength": 41,
+      "choosingTipLength": 31
+    },
+    {
+      "id": "dish-41d80632e156",
+      "name": "藜麦牛肉饭",
+      "editorialId": "editorial-dish-41d80632e156",
+      "descriptionLength": 41,
+      "choosingTipLength": 28
+    },
+    {
+      "id": "dish-7ee3291ee54a",
+      "name": "荞麦鸡丝拌面",
+      "editorialId": "editorial-dish-7ee3291ee54a",
+      "descriptionLength": 41,
+      "choosingTipLength": 29
+    },
+    {
+      "id": "dish-6f50839b882a",
+      "name": "杂粮豆腐菌菇饭",
+      "editorialId": "editorial-dish-6f50839b882a",
+      "descriptionLength": 40,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-20f468a604b2",
+      "name": "红薯鸡蛋杂粮餐",
+      "editorialId": "editorial-dish-20f468a604b2",
+      "descriptionLength": 41,
+      "choosingTipLength": 30
+    },
+    {
+      "id": "dish-a0137171980d",
+      "name": "玉米虾仁杂粮饭",
+      "editorialId": "editorial-dish-a0137171980d",
+      "descriptionLength": 40,
+      "choosingTipLength": 31
+    }
+  ]
+}
